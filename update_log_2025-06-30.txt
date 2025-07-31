@@ -1,0 +1,108 @@
+2025-06-30 13:18:12 - === INICIO DE SOLICITUD ===
+2025-06-30 13:18:12 - Método: POST
+2025-06-30 13:18:12 - POST data: Array
+(
+    [especificacion] => 
+    [id] => 53
+    [nombre] => Nápoles. Firma legal
+    [empresa] => 
+    [country_code] => +52
+    [telefono] => +525547935008
+    [email] => napoleslegal.com@c-onlineweb.net
+    [rsocial] => 
+    [rfc] => 
+    [calle] => 
+    [next] => 
+    [nint] => 
+    [colonia] => 
+    [cp] => 
+    [pais] => 
+    [municipio] => 
+    [privacyPolicyCheck] => on
+    [facturacion] => 0
+)
+
+2025-06-30 13:18:12 - FILES data: Array
+(
+)
+
+2025-06-30 13:18:12 - Headers: Array
+(
+    [Sec-Fetch-Dest] => empty
+    [Connection] => keep-alive
+    [Referer] => https://adm.conlineweb.com/validacion-cliente.php?id=53
+    [User-Agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+    [Content-Length] => 1918
+    [Origin] => https://adm.conlineweb.com
+    [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundary9RR59Vz13rFWQA0g
+    [Sec-Fetch-Mode] => cors
+    [Accept-Encoding] => gzip, deflate, br
+    [Accept-Language] => es-MX,es-419;q=0.9,es;q=0.8
+    [Sec-Fetch-Site] => same-origin
+    [X-Requested-With] => XMLHttpRequest
+    [Accept] => */*
+    [Host] => adm.conlineweb.com
+)
+
+2025-06-30 13:18:12 - Datos procesados:
+2025-06-30 13:18:12 - ID: 53, Nombre: Nápoles. Firma legal, Correo: napoleslegal.com@c-onlineweb.net, Teléfono: +525547935008
+2025-06-30 13:18:12 - Facturación requerida: Sí
+2025-06-30 13:18:12 - Generando nuevas credenciales...
+2025-06-30 13:18:12 - Iniciando transacción en la base de datos...
+2025-06-30 13:18:12 - Transacción completada con éxito
+2025-06-30 13:18:12 - Preparando envío de correo a napoleslegal.com@c-onlineweb.net...
+2025-06-30 13:18:14 - Proceso completado con éxito
+2025-06-30 13:23:12 - === INICIO DE SOLICITUD ===
+2025-06-30 13:23:12 - Método: POST
+2025-06-30 13:23:12 - POST data: Array
+(
+    [especificacion] => 
+    [id] => 53
+    [nombre] => Nápoles. Firma legal
+    [empresa] => 
+    [country_code] => +52
+    [telefono] => +525547935008
+    [email] => pineda@napoleslegal.com
+    [rsocial] => 
+    [rfc] => 
+    [calle] => 
+    [next] => 
+    [nint] => 
+    [colonia] => 
+    [cp] => 
+    [pais] => 
+    [municipio] => 
+    [privacyPolicyCheck] => on
+    [facturacion] => 0
+)
+
+2025-06-30 13:23:12 - FILES data: Array
+(
+)
+
+2025-06-30 13:23:12 - Headers: Array
+(
+    [Sec-Fetch-Dest] => empty
+    [Connection] => keep-alive
+    [Referer] => https://adm.conlineweb.com/validacion-cliente.php?id=53
+    [User-Agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+    [Content-Length] => 1909
+    [Origin] => https://adm.conlineweb.com
+    [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryDzEYSPL20ph0AhyO
+    [Sec-Fetch-Mode] => cors
+    [Accept-Encoding] => gzip, deflate, br
+    [Accept-Language] => es-MX,es-419;q=0.9,es;q=0.8
+    [Sec-Fetch-Site] => same-origin
+    [X-Requested-With] => XMLHttpRequest
+    [Accept] => */*
+    [Host] => adm.conlineweb.com
+)
+
+2025-06-30 13:23:12 - Datos procesados:
+2025-06-30 13:23:12 - ID: 53, Nombre: Nápoles. Firma legal, Correo: pineda@napoleslegal.com, Teléfono: +525547935008
+2025-06-30 13:23:12 - Facturación requerida: Sí
+2025-06-30 13:23:12 - Generando nuevas credenciales...
+2025-06-30 13:23:12 - Iniciando transacción en la base de datos...
+2025-06-30 13:23:12 - Transacción completada con éxito
+2025-06-30 13:23:12 - Preparando envío de correo a pineda@napoleslegal.com...
+2025-06-30 13:23:13 - Proceso completado con éxito

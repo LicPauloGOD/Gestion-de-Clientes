@@ -1,0 +1,114 @@
+2025-07-01 11:06:10 - === INICIO DE SOLICITUD ===
+2025-07-01 11:06:10 - Método: POST
+2025-07-01 11:06:10 - POST data: Array
+(
+    [especificacion] => 
+    [id] => 21
+    [nombre] => José de Jesús Jaime Gómez
+    [empresa] => 
+    [country_code] => +52
+    [telefono] => +524741047679
+    [email] => jesusjaime16@gmail.com
+    [rsocial] => 
+    [rfc] => 
+    [calle] => 
+    [next] => 
+    [nint] => 
+    [colonia] => 
+    [cp] => 
+    [pais] => 
+    [privacyPolicyCheck] => on
+    [facturacion] => 0
+)
+
+2025-07-01 11:06:10 - FILES data: Array
+(
+)
+
+2025-07-01 11:06:10 - Headers: Array
+(
+    [Cookie] => tk_or=%22https%3A%2F%2Fwww.google.com%2F%22; tk_ai=qv%2BIX0HpDRSZO6xf0UGDRt8p; __stripe_mid=491fea04-de0a-43d1-8b47-963091e6eb0065c661; tk_lr=%22https%3A%2F%2Fwww.google.com%2F%22; PHPSESSID=b0ff4ca08a439ce1a280d0b16a704363; user_session_data=%7B%22uid%22%3A%2262%22%2C%22tipo%22%3A%221%22%2C%22login%22%3Atrue%2C%22timestamp%22%3A1751382317%7D
+    [Accept-Language] => es-ES,es;q=0.9,en;q=0.8
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Referer] => https://adm.conlineweb.com/validacion-cliente.php?id=21
+    [Sec-Fetch-Dest] => empty
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Site] => same-origin
+    [Origin] => https://adm.conlineweb.com
+    [Sec-Ch-Ua-Mobile] => ?0
+    [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryg3H5d4APOZe0sSsJ
+    [Sec-Ch-Ua] => "Google Chrome";v="137", "Chromium";v="137", "Not/A)Brand";v="24"
+    [Accept] => */*
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+    [X-Requested-With] => XMLHttpRequest
+    [Sec-Ch-Ua-Platform] => "Windows"
+    [Content-Length] => 1826
+    [Connection] => keep-alive
+    [Host] => adm.conlineweb.com
+)
+
+2025-07-01 11:06:10 - Datos procesados:
+2025-07-01 11:06:10 - ID: 21, Nombre: José de Jesús Jaime Gómez, Correo: jesusjaime16@gmail.com, Teléfono: +524741047679
+2025-07-01 11:06:10 - Facturación requerida: Sí
+2025-07-01 11:06:10 - Generando nuevas credenciales...
+2025-07-01 11:06:10 - Iniciando transacción en la base de datos...
+2025-07-01 11:06:10 - Transacción completada con éxito
+2025-07-01 11:06:10 - Preparando envío de correo a jesusjaime16@gmail.com...
+2025-07-01 11:06:13 - Proceso completado con éxito
+2025-07-01 16:02:37 - === INICIO DE SOLICITUD ===
+2025-07-01 16:02:37 - Método: POST
+2025-07-01 16:02:37 - POST data: Array
+(
+    [especificacion] => 
+    [id] => 75
+    [nombre] => Paulo Testing
+    [empresa] => 
+    [country_code] => +52
+    [telefono] => +525676576575
+    [email] => kesijip649@ofacer.com
+    [rsocial] => 
+    [rfc] => 
+    [calle] => 
+    [next] => 
+    [nint] => 
+    [colonia] => 
+    [cp] => 
+    [pais] => 
+    [privacyPolicyCheck] => on
+    [facturacion] => 0
+)
+
+2025-07-01 16:02:37 - FILES data: Array
+(
+)
+
+2025-07-01 16:02:37 - Headers: Array
+(
+    [Cookie] => ajs_anonymous_id=%2215bb647f-a647-4f65-a9fa-2f1c22795ce8%22; PHPSESSID=2cc28aea3d27538d1976ad3da36009d1; user_session_data=%7B%22uid%22%3A%2262%22%2C%22tipo%22%3A%221%22%2C%22login%22%3Atrue%2C%22timestamp%22%3A1751400092%7D
+    [Accept-Language] => es-ES,es;q=0.9
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Referer] => https://adm.conlineweb.com/validacion-cliente.php?id=75
+    [Sec-Fetch-Dest] => empty
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Site] => same-origin
+    [Origin] => https://adm.conlineweb.com
+    [Sec-Ch-Ua-Mobile] => ?0
+    [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryivvd4oAkFBXzU4l6
+    [Sec-Ch-Ua] => "Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"
+    [Accept] => */*
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+    [X-Requested-With] => XMLHttpRequest
+    [Sec-Ch-Ua-Platform] => "Windows"
+    [Content-Length] => 1812
+    [Connection] => keep-alive
+    [Host] => adm.conlineweb.com
+)
+
+2025-07-01 16:02:37 - Datos procesados:
+2025-07-01 16:02:37 - ID: 75, Nombre: Paulo Testing, Correo: kesijip649@ofacer.com, Teléfono: +525676576575
+2025-07-01 16:02:37 - Facturación requerida: Sí
+2025-07-01 16:02:37 - Generando nuevas credenciales...
+2025-07-01 16:02:37 - Iniciando transacción en la base de datos...
+2025-07-01 16:02:37 - Transacción completada con éxito
+2025-07-01 16:02:37 - Preparando envío de correo a kesijip649@ofacer.com...
+2025-07-01 16:02:39 - Proceso completado con éxito

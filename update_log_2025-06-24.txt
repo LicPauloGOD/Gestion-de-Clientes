@@ -1,0 +1,58 @@
+2025-06-24 16:14:00 - === INICIO DE SOLICITUD ===
+2025-06-24 16:14:00 - Método: POST
+2025-06-24 16:14:00 - POST data: Array
+(
+    [especificacion] => 
+    [id] => 10
+    [nombre] => Conlineweb
+    [empresa] => 
+    [country_code] => +52
+    [telefono] => +524771181285
+    [email] => info@conlineweb.com
+    [rsocial] => 
+    [rfc] => 
+    [calle] => 
+    [next] => 
+    [nint] => 
+    [colonia] => 
+    [cp] => 
+    [pais] => 
+    [municipio] => 
+    [privacyPolicyCheck] => on
+    [facturacion] => 0
+)
+
+2025-06-24 16:14:00 - FILES data: Array
+(
+)
+
+2025-06-24 16:14:00 - Headers: Array
+(
+    [Cookie] => tk_or=%22https%3A%2F%2Fwww.google.com%2F%22; tk_lr=%22https%3A%2F%2Fwww.google.com%2F%22; PHPSESSID=d3cd9426e52519da57841e01d07ba4c5; user_session_data=%7B%22uid%22%3A%2262%22%2C%22tipo%22%3A%221%22%2C%22login%22%3Atrue%2C%22timestamp%22%3A1750795313%7D
+    [Accept-Language] => es-ES,es;q=0.9
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Referer] => https://adm.conlineweb.com/validacion-cliente.php?id=10
+    [Sec-Fetch-Dest] => empty
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Site] => same-origin
+    [Origin] => https://adm.conlineweb.com
+    [Sec-Ch-Ua-Mobile] => ?0
+    [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryAi8sH1BSamQNQ0YE
+    [Sec-Ch-Ua] => "Google Chrome";v="137", "Chromium";v="137", "Not/A)Brand";v="24"
+    [Accept] => */*
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+    [X-Requested-With] => XMLHttpRequest
+    [Sec-Ch-Ua-Platform] => "Windows"
+    [Content-Length] => 1893
+    [Connection] => keep-alive
+    [Host] => adm.conlineweb.com
+)
+
+2025-06-24 16:14:00 - Datos procesados:
+2025-06-24 16:14:00 - ID: 10, Nombre: Conlineweb, Correo: info@conlineweb.com, Teléfono: +524771181285
+2025-06-24 16:14:00 - Facturación requerida: Sí
+2025-06-24 16:14:00 - Generando nuevas credenciales...
+2025-06-24 16:14:00 - Iniciando transacción en la base de datos...
+2025-06-24 16:14:00 - Transacción completada con éxito
+2025-06-24 16:14:00 - Preparando envío de correo a info@conlineweb.com...
+2025-06-24 16:14:02 - Proceso completado con éxito

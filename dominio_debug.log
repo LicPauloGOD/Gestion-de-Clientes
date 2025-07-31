@@ -1,0 +1,5472 @@
+2025-06-30 12:53:48 - Inicio de proceso - Método: POST
+2025-06-30 12:53:48 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 57
+    [cliente_id] => 21
+    [cliente] => 21
+    [proveedor] => HostGator CWB
+    [url_dominio] => colegos.com.mx
+    [url_admin] => https://cpanel.colegos.com.mx:2083/
+    [usuario_admin] => colegos
+    [contrasena_admin] => hhla7rf3@
+    [url_cpanel] => https://cpanel.colegos.com.mx:2083/
+    [ns1] => ns1.conlineweb.com.mx
+    [ns2] => ns2.conlineweb.com.mx
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 450.00
+    [id_forma_pago] => 1
+    [costo_final] => 450.00
+    [registrado] => 1
+    [fecha_contratacion] => 2021-10-30
+    [fecha_pago] => 2025-10-30
+)
+
+2025-06-30 12:53:48 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 57
+    [cliente_id] => 21
+    [proveedor] => HostGator CWB
+    [costo] => 450
+)
+
+2025-06-30 12:53:48 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 57
+    [affected_rows] => 0
+)
+
+2025-06-30 12:57:47 - Inicio de proceso - Método: POST
+2025-06-30 12:57:47 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 0
+    [proveedor] => 
+    [url_dominio] => 
+    [url_admin] => 
+    [usuario_admin] => admin
+    [contrasena_admin] => !"*+&&&&akñopmc%%&&&
+    [url_cpanel] => 
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 0.00
+    [costo_final] => 
+    [fecha_contratacion] => 0000-00-00
+    [fecha_pago] => 0000-00-00
+)
+
+2025-06-30 12:57:47 - Campos faltantes - Data: Array
+(
+    [0] => cliente
+    [1] => proveedor
+    [2] => url_dominio
+    [3] => url_admin
+    [4] => id_forma_pago
+    [5] => registrado
+)
+
+2025-06-30 12:57:47 - Error capturado: Faltan campos obligatorios: cliente, proveedor, url_dominio, url_admin, id_forma_pago, registrado
+2025-06-30 12:58:03 - Inicio de proceso - Método: POST
+2025-06-30 12:58:03 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 0
+    [proveedor] => 
+    [url_dominio] => 
+    [url_admin] => 
+    [usuario_admin] => admin
+    [contrasena_admin] => !"*+&&&&akñopmc%%&&&
+    [url_cpanel] => 
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 0.00
+    [costo_final] => 0.00
+    [fecha_contratacion] => 0000-00-00
+    [fecha_pago] => 0000-00-00
+)
+
+2025-06-30 12:58:03 - Campos faltantes - Data: Array
+(
+    [0] => cliente
+    [1] => proveedor
+    [2] => url_dominio
+    [3] => url_admin
+    [4] => id_forma_pago
+    [5] => registrado
+)
+
+2025-06-30 12:58:03 - Error capturado: Faltan campos obligatorios: cliente, proveedor, url_dominio, url_admin, id_forma_pago, registrado
+2025-06-30 12:58:23 - Inicio de proceso - Método: POST
+2025-06-30 12:58:23 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 0
+    [cliente] => 42
+    [proveedor] => 
+    [url_dominio] => 
+    [url_admin] => 
+    [usuario_admin] => admin
+    [contrasena_admin] => !"*+&&&&akñopmc%%&&&
+    [url_cpanel] => 
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 0.00
+    [costo_final] => 0.00
+    [fecha_contratacion] => 0000-00-00
+    [fecha_pago] => 0000-00-00
+)
+
+2025-06-30 12:58:23 - Campos faltantes - Data: Array
+(
+    [0] => proveedor
+    [1] => url_dominio
+    [2] => url_admin
+    [3] => id_forma_pago
+    [4] => registrado
+)
+
+2025-06-30 12:58:23 - Error capturado: Faltan campos obligatorios: proveedor, url_dominio, url_admin, id_forma_pago, registrado
+2025-06-30 12:58:42 - Inicio de proceso - Método: POST
+2025-06-30 12:58:42 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 0
+    [cliente] => 44
+    [proveedor] => 
+    [url_dominio] => 
+    [url_admin] => 
+    [usuario_admin] => admin
+    [contrasena_admin] => !"*+&&&&akñopmc%%&&&
+    [url_cpanel] => 
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 0.00
+    [costo_final] => 0.00
+    [fecha_contratacion] => 0000-00-00
+    [fecha_pago] => 0000-00-00
+)
+
+2025-06-30 12:58:42 - Campos faltantes - Data: Array
+(
+    [0] => proveedor
+    [1] => url_dominio
+    [2] => url_admin
+    [3] => id_forma_pago
+    [4] => registrado
+)
+
+2025-06-30 12:58:42 - Error capturado: Faltan campos obligatorios: proveedor, url_dominio, url_admin, id_forma_pago, registrado
+2025-06-30 12:58:54 - Inicio de proceso - Método: POST
+2025-06-30 12:58:54 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 0
+    [cliente] => 67
+    [proveedor] => 
+    [url_dominio] => 
+    [url_admin] => 
+    [usuario_admin] => admin
+    [contrasena_admin] => !"*+&&&&akñopmc%%&&&
+    [url_cpanel] => 
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 0.00
+    [costo_final] => 0.00
+    [fecha_contratacion] => 0000-00-00
+    [fecha_pago] => 0000-00-00
+)
+
+2025-06-30 12:58:54 - Campos faltantes - Data: Array
+(
+    [0] => proveedor
+    [1] => url_dominio
+    [2] => url_admin
+    [3] => id_forma_pago
+    [4] => registrado
+)
+
+2025-06-30 12:58:54 - Error capturado: Faltan campos obligatorios: proveedor, url_dominio, url_admin, id_forma_pago, registrado
+2025-06-30 12:59:48 - Inicio de proceso - Método: POST
+2025-06-30 12:59:48 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 0
+    [cliente] => 67
+    [proveedor] => 
+    [url_dominio] => 
+    [url_admin] => 
+    [usuario_admin] => admin
+    [contrasena_admin] => !"*+&&&&akñopmc%%&&&
+    [url_cpanel] => 
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 0.00
+    [costo_final] => 0.00
+    [fecha_contratacion] => 0000-00-00
+    [fecha_pago] => 0000-00-00
+)
+
+2025-06-30 12:59:48 - Error capturado: Forma de pago inválida
+2025-06-30 13:00:18 - Inicio de proceso - Método: POST
+2025-06-30 13:00:18 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 0
+    [cliente] => 67
+    [proveedor] => 
+    [url_dominio] => 
+    [url_admin] => 
+    [usuario_admin] => admin
+    [contrasena_admin] => !"*+&&&&akñopmc%%&&&
+    [url_cpanel] => 
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 0.00
+    [costo_final] => 0.00
+    [fecha_contratacion] => 0000-00-00
+    [fecha_pago] => 0000-00-00
+)
+
+2025-06-30 13:00:18 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 
+    [id_dominio] => 
+    [cliente_id] => 
+    [proveedor] => 
+    [costo] => 
+)
+
+2025-06-30 13:00:18 - Error capturado: Column 'cliente_id' cannot be null
+2025-06-30 15:54:14 - Inicio de proceso - Método: POST
+2025-06-30 15:54:14 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 0
+    [cliente] => 56
+    [proveedor] => Corrupti similique 
+    [url_dominio] => https://www.bumok.cc
+    [url_admin] => https://www.betugozuxap.mobi
+    [usuario_admin] => Sint voluptate in au
+    [contrasena_admin] => Pa$$w0rd!
+    [url_cpanel] => https://www.naperasevokahel.biz
+    [ns1] => Hic assumenda sit od
+    [ns2] => Impedit necessitati
+    [ns3] => Mollit adipisicing q
+    [ns4] => Molestias autem temp
+    [ns5] => Explicabo Provident
+    [ns6] => Ea voluptatum necess
+    [costo_dominio] => 96
+    [id_forma_pago] => 2
+    [costo_final] => 
+    [registrado] => 1
+    [fecha_contratacion] => 1974-02-23
+    [fecha_pago] => 2001-01-19
+)
+
+2025-06-30 15:54:14 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 
+    [id_dominio] => 
+    [cliente_id] => 56
+    [proveedor] => Corrupti similique
+    [costo] => 96
+)
+
+2025-06-30 15:54:14 - Dominio registrado exitosamente - Data: Array
+(
+    [insert_id] => 112
+)
+
+2025-06-30 15:55:38 - Inicio de proceso - Método: POST
+2025-06-30 15:55:38 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 0
+    [cliente] => 1
+    [proveedor] => Irure aut minim et s
+    [url_dominio] => https://www.qer.ca
+    [url_admin] => https://www.biwilyvyg.tv
+    [usuario_admin] => Dolore aut veritatis
+    [contrasena_admin] => Pa$$w0rd!
+    [url_cpanel] => https://www.dodohinubyf.mobi
+    [ns1] => Ut officiis ullam au
+    [ns2] => Fugiat ducimus poss
+    [ns3] => Dolorem praesentium 
+    [ns4] => Dolor dolores autem 
+    [ns5] => Mollitia consectetur
+    [ns6] => Amet quod proident
+    [costo_dominio] => 34
+    [id_forma_pago] => 1
+    [costo_final] => 
+    [registrado] => 0
+    [fecha_contratacion] => 2006-03-08
+    [fecha_pago] => 1994-04-18
+)
+
+2025-06-30 15:55:38 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 
+    [id_dominio] => 
+    [cliente_id] => 1
+    [proveedor] => Irure aut minim et s
+    [costo] => 34
+)
+
+2025-06-30 15:55:38 - Dominio registrado exitosamente - Data: Array
+(
+    [insert_id] => 113
+)
+
+2025-06-30 15:56:05 - Inicio de proceso - Método: POST
+2025-06-30 15:56:05 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 0
+    [cliente] => 42
+    [proveedor] => Non consectetur null
+    [url_dominio] => https://www.konofyzat.me.uk
+    [url_admin] => https://www.vivavoxunol.tv
+    [usuario_admin] => Quo in rem mollitia 
+    [contrasena_admin] => Pa$$w0rd!
+    [url_cpanel] => https://www.mykym.cc
+    [ns1] => Animi ipsam laborum
+    [ns2] => Quis non voluptates 
+    [ns3] => Accusamus non eius v
+    [ns4] => Sunt eligendi labore
+    [ns5] => Vero doloremque aspe
+    [ns6] => Sint vel consequat
+    [costo_dominio] => 11
+    [id_forma_pago] => 2
+    [costo_final] => 
+    [registrado] => 0
+    [fecha_contratacion] => 2015-12-04
+    [fecha_pago] => 2017-02-22
+)
+
+2025-06-30 15:56:05 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 
+    [id_dominio] => 
+    [cliente_id] => 42
+    [proveedor] => Non consectetur null
+    [costo] => 11
+)
+
+2025-06-30 15:56:05 - Dominio registrado exitosamente - Data: Array
+(
+    [insert_id] => 114
+)
+
+2025-06-30 15:56:27 - Inicio de proceso - Método: POST
+2025-06-30 15:56:27 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 0
+    [cliente] => 42
+    [proveedor] => Ad ut velit et iure
+    [url_dominio] => https://www.vevehutodavo.org.au
+    [url_admin] => https://www.rufarapabitiga.com.au
+    [usuario_admin] => Nostrum omnis dolor 
+    [contrasena_admin] => Pa$$w0rd!
+    [url_cpanel] => https://www.fupitakidivelo.biz
+    [ns1] => Officia eius odio mo
+    [ns2] => A occaecat eveniet 
+    [ns3] => Expedita et perspici
+    [ns4] => Minima non voluptate
+    [ns5] => Reiciendis enim sit 
+    [ns6] => Occaecat vel ipsum s
+    [costo_dominio] => 93
+    [id_forma_pago] => 2
+    [costo_final] => 
+    [registrado] => 0
+    [fecha_contratacion] => 1996-02-13
+    [fecha_pago] => 1993-01-25
+)
+
+2025-06-30 15:56:27 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 
+    [id_dominio] => 
+    [cliente_id] => 42
+    [proveedor] => Ad ut velit et iure
+    [costo] => 93
+)
+
+2025-06-30 15:56:27 - Dominio registrado exitosamente - Data: Array
+(
+    [insert_id] => 115
+)
+
+2025-06-30 15:56:45 - Inicio de proceso - Método: POST
+2025-06-30 15:56:45 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 0
+    [cliente] => 42
+    [proveedor] => Animi voluptatem S
+    [url_dominio] => https://www.xuworixi.com.au
+    [url_admin] => https://www.mepobylul.co
+    [usuario_admin] => Nihil beatae quo imp
+    [contrasena_admin] => Pa$$w0rd!
+    [url_cpanel] => https://www.cac.co.uk
+    [ns1] => Dicta magnam beatae 
+    [ns2] => Debitis iste id exer
+    [ns3] => Cumque tempor offici
+    [ns4] => Dolor nisi quo enim 
+    [ns5] => Laudantium ea digni
+    [ns6] => Atque esse soluta ve
+    [costo_dominio] => 31
+    [id_forma_pago] => 1
+    [costo_final] => 
+    [registrado] => 0
+    [fecha_contratacion] => 2015-07-10
+    [fecha_pago] => 2023-10-15
+)
+
+2025-06-30 15:56:45 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 
+    [id_dominio] => 
+    [cliente_id] => 42
+    [proveedor] => Animi voluptatem S
+    [costo] => 31
+)
+
+2025-06-30 15:56:45 - Dominio registrado exitosamente - Data: Array
+(
+    [insert_id] => 116
+)
+
+2025-06-30 15:59:59 - Inicio de proceso - Método: POST
+2025-06-30 15:59:59 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 14
+    [cliente_id] => 10
+    [cliente] => 10
+    [proveedor] => HostGator CWB
+    [url_dominio] => c-onlineweb.net
+    [url_admin] => https://c-onlineweb.net/serviciosweb-c-onlineweb/
+    [usuario_admin] => admin
+    [contrasena_admin] => !"*+&&&&akñopmc%%&&&
+    [url_cpanel] => 
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => dddd
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 0
+    [id_forma_pago] => 1
+    [costo_final] => 
+    [registrado] => 1
+    [fecha_contratacion] => 2020-09-13
+    [fecha_pago] => 2021-09-13
+)
+
+2025-06-30 15:59:59 - Campos faltantes - Data: Array
+(
+    [0] => costo_dominio
+)
+
+2025-06-30 15:59:59 - Error capturado: Faltan campos obligatorios: costo_dominio
+2025-06-30 16:00:07 - Inicio de proceso - Método: POST
+2025-06-30 16:00:07 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 14
+    [cliente_id] => 10
+    [cliente] => 10
+    [proveedor] => HostGator CWB
+    [url_dominio] => c-onlineweb.net
+    [url_admin] => https://c-onlineweb.net/serviciosweb-c-onlineweb/
+    [usuario_admin] => admin
+    [contrasena_admin] => !"*+&&&&akñopmc%%&&&
+    [url_cpanel] => 
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => dddd
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 34
+    [id_forma_pago] => 1
+    [costo_final] => 
+    [registrado] => 1
+    [fecha_contratacion] => 2020-09-13
+    [fecha_pago] => 2021-09-13
+)
+
+2025-06-30 16:00:07 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 14
+    [cliente_id] => 10
+    [proveedor] => HostGator CWB
+    [costo] => 34
+)
+
+2025-06-30 16:00:07 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 14
+    [affected_rows] => 1
+)
+
+2025-06-30 16:00:48 - Inicio de proceso - Método: POST
+2025-06-30 16:00:48 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 14
+    [cliente_id] => 10
+    [cliente] => 10
+    [proveedor] => HostGator CWB90
+    [url_dominio] => c-onlineweb.net
+    [url_admin] => https://c-onlineweb.net/serviciosweb-c-onlineweb/
+    [usuario_admin] => admin
+    [contrasena_admin] => !"*+&&&&akñopmc%%&&&
+    [url_cpanel] => 
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => dddd
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 349
+    [id_forma_pago] => 1
+    [costo_final] => 
+    [registrado] => 1
+    [fecha_contratacion] => 2020-09-13
+    [fecha_pago] => 2021-09-13
+)
+
+2025-06-30 16:00:48 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 14
+    [cliente_id] => 10
+    [proveedor] => HostGator CWB90
+    [costo] => 349
+)
+
+2025-06-30 16:00:48 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 14
+    [affected_rows] => 1
+)
+
+2025-06-30 16:09:21 - Inicio de proceso - Método: POST
+2025-06-30 16:09:21 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 0
+    [cliente] => 10
+    [proveedor] => Doloribus in volupta
+    [url_dominio] => https://www.vypysuberoma.cc
+    [url_admin] => https://www.jurolo.org.uk
+    [usuario_admin] => Magni beatae eos ex
+    [contrasena_admin] => Pa$$w0rd!
+    [url_cpanel] => https://www.xadygesezapa.co.uk
+    [ns1] => Odit incidunt magni
+    [ns2] => Qui vero velit quam 
+    [ns3] => Beatae perspiciatis
+    [ns4] => Repudiandae numquam 
+    [ns5] => Illum vel laudantiu
+    [ns6] => Ea voluptatem Nam pl
+    [costo_dominio] => 1.25
+    [id_forma_pago] => 2
+    [costo_final] => 1.45
+    [registrado] => 0
+    [fecha_contratacion] => 2006-06-26
+    [fecha_pago] => 1996-08-15
+)
+
+2025-06-30 16:09:21 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 
+    [id_dominio] => 
+    [cliente_id] => 10
+    [proveedor] => Doloribus in volupta
+    [costo] => 1.25
+)
+
+2025-06-30 16:09:21 - Dominio registrado exitosamente - Data: Array
+(
+    [insert_id] => 117
+)
+
+2025-06-30 16:10:03 - Inicio de proceso - Método: POST
+2025-06-30 16:10:03 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 117
+    [cliente_id] => 10
+    [cliente] => 10
+    [proveedor] => Doloribus in volupta
+    [url_dominio] => https://www.vypysuberoma.cc
+    [url_admin] => https://www.jurolo.org.uk
+    [usuario_admin] => Magni beatae eos ex
+    [contrasena_admin] => Pa$$w0rd!
+    [url_cpanel] => 
+    [ns1] => Odit incidunt magni
+    [ns2] => Qui vero velit quam
+    [ns3] => Beatae perspiciatis
+    [ns4] => Repudiandae numquam
+    [ns5] => Illum vel laudantiu
+    [ns6] => Ea voluptatem Nam pl
+    [costo_dominio] => 1.25
+    [id_forma_pago] => 2
+    [costo_final] => 1.25
+    [registrado] => 0
+    [fecha_contratacion] => 2006-06-26
+    [fecha_pago] => 1996-08-15
+)
+
+2025-06-30 16:10:03 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 117
+    [cliente_id] => 10
+    [proveedor] => Doloribus in volupta
+    [costo] => 1.25
+)
+
+2025-06-30 16:10:03 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 117
+    [affected_rows] => 1
+)
+
+2025-06-30 16:10:24 - Inicio de proceso - Método: POST
+2025-06-30 16:10:24 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 117
+    [cliente_id] => 10
+    [cliente] => 10
+    [proveedor] => 
+    [url_dominio] => 
+    [url_admin] => 
+    [usuario_admin] => 
+    [contrasena_admin] => 
+    [url_cpanel] => 
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 
+    [id_forma_pago] => 1
+    [costo_final] => 0
+    [registrado] => 0
+    [fecha_contratacion] => 2006-06-26
+    [fecha_pago] => 1996-08-15
+)
+
+2025-06-30 16:10:24 - Campos faltantes - Data: Array
+(
+    [0] => proveedor
+    [1] => url_dominio
+    [2] => url_admin
+    [3] => costo_dominio
+)
+
+2025-06-30 16:10:24 - Error capturado: Faltan campos obligatorios: proveedor, url_dominio, url_admin, costo_dominio
+2025-06-30 16:12:50 - Inicio de proceso - Método: POST
+2025-06-30 16:12:50 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 117
+    [cliente_id] => 10
+    [cliente] => 10
+    [proveedor] => 
+    [url_dominio] => 
+    [url_admin] => 
+    [usuario_admin] => 
+    [contrasena_admin] => 
+    [url_cpanel] => 
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 
+    [id_forma_pago] => 2
+    [costo_final] => 0
+    [registrado] => 0
+    [fecha_contratacion] => 2006-06-26
+    [fecha_pago] => 1996-08-15
+)
+
+2025-06-30 16:12:50 - Error capturado: Costo de dominio inválido
+2025-06-30 16:15:32 - Inicio de proceso - Método: POST
+2025-06-30 16:15:32 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 117
+    [cliente_id] => 10
+    [cliente] => 10
+    [proveedor] => 
+    [url_dominio] => 
+    [url_admin] => 
+    [usuario_admin] => 
+    [contrasena_admin] => 
+    [url_cpanel] => 
+    [ns1] => 
+    [ns2] => 
+    [ns3] => Beatae perspiciatis
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 
+    [id_forma_pago] => 2
+    [costo_final] => 0
+    [registrado] => 0
+    [fecha_contratacion] => 2006-06-26
+    [fecha_pago] => 1996-08-15
+)
+
+2025-06-30 16:15:32 - Error capturado: Costo de dominio inválido
+2025-06-30 16:15:47 - Inicio de proceso - Método: POST
+2025-06-30 16:15:47 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 117
+    [cliente_id] => 10
+    [cliente] => 10
+    [proveedor] => 
+    [url_dominio] => 
+    [url_admin] => 
+    [usuario_admin] => 
+    [contrasena_admin] => 
+    [url_cpanel] => 
+    [ns1] => Odit incidunt magni
+    [ns2] => 
+    [ns3] => Beatae perspiciatis
+    [ns4] => Repudiandae numquam
+    [ns5] => Illum vel laudantiu
+    [ns6] => Ea voluptatem Nam pl
+    [costo_dominio] => 1.25
+    [id_forma_pago] => 2
+    [costo_final] => 1.25
+    [registrado] => 0
+    [fecha_contratacion] => 2006-06-26
+    [fecha_pago] => 1996-08-15
+)
+
+2025-06-30 16:15:47 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 117
+    [cliente_id] => 10
+    [proveedor] => 
+    [costo] => 1.25
+)
+
+2025-06-30 16:15:47 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 117
+    [affected_rows] => 1
+)
+
+2025-06-30 16:15:57 - Inicio de proceso - Método: POST
+2025-06-30 16:15:57 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 117
+    [cliente_id] => 10
+    [cliente] => 10
+    [proveedor] => 
+    [url_dominio] => 
+    [url_admin] => 
+    [usuario_admin] => admin
+    [contrasena_admin] => !"*+&&&&akñopmc%%&&&
+    [url_cpanel] => 
+    [ns1] => 
+    [ns2] => 
+    [ns3] => Beatae perspiciatis
+    [ns4] => 
+    [ns5] => Illum vel laudantiu
+    [ns6] => Ea voluptatem Nam pl
+    [costo_dominio] => 
+    [id_forma_pago] => 2
+    [costo_final] => 0
+    [registrado] => 0
+    [fecha_contratacion] => 2006-06-26
+    [fecha_pago] => 1996-08-15
+)
+
+2025-06-30 16:15:57 - Error capturado: Costo de dominio inválido
+2025-06-30 16:16:01 - Inicio de proceso - Método: POST
+2025-06-30 16:16:01 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 117
+    [cliente_id] => 10
+    [cliente] => 10
+    [proveedor] => 
+    [url_dominio] => 
+    [url_admin] => 
+    [usuario_admin] => admin
+    [contrasena_admin] => !"*+&&&&akñopmc%%&&&
+    [url_cpanel] => 
+    [ns1] => 
+    [ns2] => 
+    [ns3] => Beatae perspiciatis
+    [ns4] => 
+    [ns5] => Illum vel laudantiu
+    [ns6] => Ea voluptatem Nam pl
+    [costo_dominio] => 
+    [id_forma_pago] => 2
+    [costo_final] => 0
+    [registrado] => 0
+    [fecha_contratacion] => 2006-06-26
+    [fecha_pago] => 1996-08-15
+)
+
+2025-06-30 16:16:01 - Error capturado: Costo de dominio inválido
+2025-06-30 16:17:09 - Inicio de proceso - Método: POST
+2025-06-30 16:17:09 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 117
+    [cliente_id] => 10
+    [cliente] => 10
+    [proveedor] => 
+    [url_dominio] => 
+    [url_admin] => 
+    [usuario_admin] => admin
+    [contrasena_admin] => !"*+&&&&akñopmc%%&&&
+    [url_cpanel] => 
+    [ns1] => Odit incidunt magni
+    [ns2] => 
+    [ns3] => Beatae perspiciatis
+    [ns4] => Repudiandae numquam
+    [ns5] => Illum vel laudantiu
+    [ns6] => Ea voluptatem Nam pl
+    [costo_dominio] => 
+    [id_forma_pago] => 2
+    [costo_final] => 0
+    [registrado] => 0
+    [fecha_contratacion] => 2006-06-26
+    [fecha_pago] => 1996-08-15
+)
+
+2025-06-30 16:17:09 - Error capturado: Costo de dominio inválido
+2025-06-30 16:17:28 - Inicio de proceso - Método: POST
+2025-06-30 16:17:28 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 117
+    [cliente_id] => 10
+    [cliente] => 10
+    [proveedor] => 
+    [url_dominio] => 
+    [url_admin] => 
+    [usuario_admin] => admin
+    [contrasena_admin] => !"*+&&&&akñopmc%%&&&
+    [url_cpanel] => 
+    [ns1] => Odit incidunt magni
+    [ns2] => 
+    [ns3] => Beatae perspiciatis
+    [ns4] => Repudiandae numquam
+    [ns5] => Illum vel laudantiu
+    [ns6] => Ea voluptatem Nam pl
+    [costo_dominio] => 
+    [id_forma_pago] => 2
+    [costo_final] => 0
+    [registrado] => 0
+    [fecha_contratacion] => 2006-06-26
+    [fecha_pago] => 1996-08-15
+)
+
+2025-06-30 16:17:28 - Error capturado: Costo de dominio inválido
+2025-06-30 16:17:37 - Inicio de proceso - Método: POST
+2025-06-30 16:17:37 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 117
+    [cliente_id] => 10
+    [cliente] => 10
+    [proveedor] => 
+    [url_dominio] => 
+    [url_admin] => 
+    [usuario_admin] => admin
+    [contrasena_admin] => !"*+&&&&akñopmc%%&&&
+    [url_cpanel] => 
+    [ns1] => Odit incidunt magni
+    [ns2] => 
+    [ns3] => Beatae perspiciatis
+    [ns4] => Repudiandae numquam
+    [ns5] => Illum vel laudantiu
+    [ns6] => Ea voluptatem Nam pl
+    [costo_dominio] => 
+    [id_forma_pago] => 2
+    [costo_final] => 0
+    [registrado] => 0
+    [fecha_contratacion] => 2006-06-26
+    [fecha_pago] => 1996-08-15
+)
+
+2025-06-30 16:17:37 - Error capturado: Costo de dominio inválido
+2025-06-30 16:18:30 - Inicio de proceso - Método: POST
+2025-06-30 16:18:30 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 117
+    [cliente_id] => 10
+    [cliente] => 10
+    [proveedor] => 
+    [url_dominio] => 
+    [url_admin] => 
+    [usuario_admin] => admin
+    [contrasena_admin] => !"*+&&&&akñopmc%%&&&
+    [url_cpanel] => 
+    [ns1] => Odit incidunt magni
+    [ns2] => 
+    [ns3] => Beatae perspiciatis
+    [ns4] => Repudiandae numquam
+    [ns5] => Illum vel laudantiu
+    [ns6] => Ea voluptatem Nam pl
+    [costo_dominio] => 
+    [id_forma_pago] => 2
+    [costo_final] => 0
+    [registrado] => 0
+    [fecha_contratacion] => 2006-06-26
+    [fecha_pago] => 1996-08-15
+)
+
+2025-06-30 16:18:30 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 117
+    [cliente_id] => 10
+    [proveedor] => 
+    [costo] => 
+)
+
+2025-06-30 16:18:30 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 117
+    [affected_rows] => 1
+)
+
+2025-06-30 16:19:07 - Inicio de proceso - Método: POST
+2025-06-30 16:19:07 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 0
+    [cliente] => 68
+    [proveedor] => Necessitatibus qui r
+    [url_dominio] => https://www.vumiku.org.uk
+    [url_admin] => https://www.segi.cm
+    [usuario_admin] => Ut nisi recusandae 
+    [contrasena_admin] => Pa$$w0rd!
+    [url_cpanel] => https://www.mypavac.biz
+    [ns1] => Obcaecati ex iure vo
+    [ns2] => Vitae duis nulla est
+    [ns3] => In incididunt numqua
+    [ns4] => Dicta amet eveniet
+    [ns5] => Dolores maxime sed v
+    [ns6] => Ex facere quo illo d
+    [costo_dominio] => 620.00
+    [id_forma_pago] => 1
+    [costo_final] => 620
+    [registrado] => 0
+    [fecha_contratacion] => 2004-09-04
+    [fecha_pago] => 1979-10-01
+)
+
+2025-06-30 16:19:07 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 
+    [id_dominio] => 
+    [cliente_id] => 68
+    [proveedor] => Necessitatibus qui r
+    [costo] => 620
+)
+
+2025-06-30 16:19:07 - Dominio registrado exitosamente - Data: Array
+(
+    [insert_id] => 118
+)
+
+2025-06-30 16:31:01 - Inicio de proceso - Método: POST
+2025-06-30 16:31:01 - Datos POST recibidos - Data: Array
+(
+    [id_dominio] => 118
+    [proveedor] => Necessitatibus qui r
+    [url_dominio] => https://www.vumiku.org.uk
+    [estado_dominio] => 1
+    [registrado] => 0
+    [fecha_contratacion] => 2004-09-02
+    [fecha_pago] => 1979-10-02
+    [costo_dominio] => 620
+    [id_forma_pago] => 1
+    [ns1] => Obcaecati ex iure vo
+    [ns2] => Vitae duis nulla est
+    [ns3] => In incididunt numqua
+    [ns4] => Dicta amet eveniet
+    [ns5] => Dolores maxime sed v
+    [ns6] => Ex facere quo illo d
+    [usuario] => Ut nisi recusandae
+    [contrasena_normal] => Pa$$w0rd!
+    [url_admin] => https://www.segi.cm
+    [url_cpanel] => https://www.mypavac.biz
+)
+
+2025-06-30 16:31:01 - Campos faltantes - Data: Array
+(
+    [0] => cliente
+)
+
+2025-06-30 16:31:01 - Error capturado: Faltan campos obligatorios: cliente
+2025-06-30 16:32:13 - Inicio de proceso - Método: POST
+2025-06-30 16:32:13 - Datos POST recibidos - Data: Array
+(
+    [id_dominio] => 118
+    [proveedor] => Necessitatibus qui r
+    [url_dominio] => https://www.vumiku.org.uk
+    [estado_dominio] => 1
+    [registrado] => 0
+    [fecha_contratacion] => 2004-09-02
+    [fecha_pago] => 1979-10-02
+    [costo_dominio] => 620
+    [id_forma_pago] => 1
+    [ns1] => Obcaecati ex iure vo
+    [ns2] => Vitae duis nulla est
+    [ns3] => In incididunt numqua
+    [ns4] => Dicta amet eveniet
+    [ns5] => Dolores maxime sed v
+    [ns6] => Ex facere quo illo d
+    [usuario] => Ut nisi recusandae
+    [contrasena_normal] => Pa$$w0rd!
+    [url_admin] => https://www.segi.cm
+    [url_cpanel] => https://www.mypavac.biz
+)
+
+2025-06-30 16:32:13 - Campos faltantes - Data: Array
+(
+    [0] => cliente
+)
+
+2025-06-30 16:32:13 - Error capturado: Faltan campos obligatorios: cliente
+2025-06-30 16:34:02 - Inicio de proceso - Método: POST
+2025-06-30 16:34:02 - Datos POST recibidos - Data: Array
+(
+    [id_dominio] => 118
+    [proveedor] => Necessitatibus qui r
+    [url_dominio] => https://www.vumiku.org.uk
+    [estado_dominio] => 1
+    [registrado] => 0
+    [fecha_contratacion] => 2004-09-02
+    [fecha_pago] => 1979-10-02
+    [costo_dominio] => 620
+    [id_forma_pago] => 1
+    [ns1] => Obcaecati ex iure vo
+    [ns2] => Vitae duis nulla est
+    [ns3] => In incididunt numqua
+    [ns4] => Dicta amet eveniet
+    [ns5] => Dolores maxime sed v
+    [ns6] => Ex facere quo illo d
+    [usuario] => Ut nisi recusandae
+    [contrasena_normal] => Pa$$w0rd!
+    [url_admin] => https://www.segi.cm
+    [url_cpanel] => https://www.mypavac.biz
+)
+
+2025-06-30 16:34:02 - Campos faltantes - Data: Array
+(
+    [0] => cliente
+)
+
+2025-06-30 16:34:02 - Error capturado: Faltan campos obligatorios: cliente
+2025-06-30 16:38:15 - Inicio de proceso - Método: POST
+2025-06-30 16:38:15 - Datos POST recibidos - Data: Array
+(
+    [id_dominio] => 118
+    [cliente] => 8
+    [proveedor] => Necessitatibus qui r
+    [url_dominio] => https://www.vumiku.org.uk
+    [estado_dominio] => 1
+    [registrado] => 0
+    [fecha_contratacion] => 2004-09-02
+    [fecha_pago] => 1979-10-02
+    [costo_dominio] => 620
+    [id_forma_pago] => 1
+    [ns1] => Obcaecati ex iure vo
+    [ns2] => Vitae duis nulla est
+    [ns3] => In incididunt numqua
+    [ns4] => Dicta amet eveniet
+    [ns5] => Dolores maxime sed v
+    [ns6] => Ex facere quo illo d
+    [usuario] => Ut nisi recusandae
+    [contrasena_normal] => Pa$$w0rd!
+    [url_admin] => https://www.segi.cm
+    [url_cpanel] => https://www.mypavac.biz
+)
+
+2025-06-30 16:38:15 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 
+    [id_dominio] => 
+    [cliente_id] => 8
+    [proveedor] => Necessitatibus qui r
+    [costo] => 620
+)
+
+2025-06-30 16:38:15 - Error capturado: Column 'usuario' cannot be null
+2025-06-30 16:38:27 - Inicio de proceso - Método: POST
+2025-06-30 16:38:27 - Datos POST recibidos - Data: Array
+(
+    [id_dominio] => 118
+    [cliente] => 8
+    [proveedor] => Necessitatibus qui r
+    [url_dominio] => https://www.vumiku.org.uk
+    [estado_dominio] => 1
+    [registrado] => 0
+    [fecha_contratacion] => 2004-09-02
+    [fecha_pago] => 1979-10-02
+    [costo_dominio] => 620
+    [id_forma_pago] => 1
+    [ns1] => Obcaecati ex iure vo
+    [ns2] => Vitae duis nulla est
+    [ns3] => In incididunt numqua
+    [ns4] => Dicta amet eveniet
+    [ns5] => Dolores maxime sed v
+    [ns6] => Ex facere quo illo d
+    [usuario] => Ut nisi recusandae
+    [contrasena_normal] => Pa$$w0rd!
+    [url_admin] => https://www.segi.cm
+    [url_cpanel] => https://www.mypavac.biz
+)
+
+2025-06-30 16:38:27 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 
+    [id_dominio] => 
+    [cliente_id] => 8
+    [proveedor] => Necessitatibus qui r
+    [costo] => 620
+)
+
+2025-06-30 16:38:27 - Error capturado: Column 'usuario' cannot be null
+2025-06-30 16:39:14 - Inicio de proceso - Método: POST
+2025-06-30 16:39:14 - Datos POST recibidos - Data: Array
+(
+    [id_dominio] => 118
+    [cliente] => 8
+    [proveedor] => Necessitatibus qui r
+    [url_dominio] => https://www.vumiku.org.uk
+    [estado_dominio] => 1
+    [registrado] => 0
+    [fecha_contratacion] => 2004-09-02
+    [fecha_pago] => 1979-10-02
+    [costo_dominio] => 620
+    [id_forma_pago] => 1
+    [ns1] => Obcaecati ex iure vo
+    [ns2] => Vitae duis nulla est
+    [ns3] => In incididunt numqua
+    [ns4] => Dicta amet eveniet
+    [ns5] => Dolores maxime sed v
+    [ns6] => Ex facere quo illo d
+    [usuario] => Ut nisi recusandae
+    [contrasena_normal] => Pa$$w0rd!
+    [url_admin] => https://www.segi.cm
+    [url_cpanel] => https://www.mypavac.biz
+)
+
+2025-06-30 16:39:14 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 
+    [id_dominio] => 
+    [cliente_id] => 8
+    [proveedor] => Necessitatibus qui r
+    [costo] => 620
+)
+
+2025-06-30 16:39:14 - Error capturado: Column 'usuario' cannot be null
+2025-06-30 16:44:23 - Inicio de proceso - Método: POST
+2025-06-30 16:44:23 - Datos POST recibidos - Data: Array
+(
+    [id_dominio] => 118
+    [cliente] => 8
+    [proveedor] => Necessitatibus qui r
+    [url_dominio] => https://www.vumiku.org.uk
+    [estado_dominio] => 1
+    [registrado] => 0
+    [fecha_contratacion] => 2004-09-01
+    [fecha_pago] => 1979-10-03
+    [costo_dominio] => 620
+    [id_forma_pago] => 1
+    [ns1] => Obcaecati ex iure vo
+    [ns2] => Vitae duis nulla est
+    [ns3] => In incididunt numqua
+    [ns4] => Dicta amet eveniet
+    [ns5] => Dolores maxime sed v
+    [ns6] => Ex facere quo illo d
+    [usuario] => Ut nisi recusandae
+    [contrasena_normal] => Pa$$w0rd!
+    [url_admin] => https://www.segi.cm
+    [url_cpanel] => https://www.mypavac.biz
+)
+
+2025-06-30 16:44:23 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 
+    [id_dominio] => 
+    [cliente_id] => 8
+    [proveedor] => Necessitatibus qui r
+    [costo] => 620
+)
+
+2025-06-30 16:44:23 - Error capturado: Column 'usuario' cannot be null
+2025-06-30 16:45:02 - Inicio de proceso - Método: POST
+2025-06-30 16:45:02 - Datos POST recibidos - Data: Array
+(
+    [id_dominio] => 85
+    [cliente] => 8
+    [proveedor] => Ionos
+    [url_dominio] => licecleaner.com
+    [estado_dominio] => 1
+    [registrado] => 1
+    [fecha_contratacion] => 2024-05-30
+    [fecha_pago] => 2026-05-30
+    [costo_dominio] => 480
+    [id_forma_pago] => 1
+    [ns1] => ns1.c-onlineweb.com
+    [ns2] => ns2.c-onlineweb.com
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [usuario] => licecleaner
+    [contrasena_normal] => qaAz#;j~s^j{
+    [url_admin] => https://licecleaner.com/wp-login.php
+    [url_cpanel] => https://cpanel.licecleaner.com/
+)
+
+2025-06-30 16:45:02 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 
+    [id_dominio] => 
+    [cliente_id] => 8
+    [proveedor] => Ionos
+    [costo] => 480
+)
+
+2025-06-30 16:45:02 - Error capturado: Column 'usuario' cannot be null
+2025-06-30 16:49:13 - Inicio de proceso - Método: POST
+2025-06-30 16:49:13 - Datos POST recibidos - Data: Array
+(
+    [id_dominio] => 118
+    [cliente] => 8
+    [proveedor] => Necessitatibus qui r
+    [url_dominio] => https://www.vumiku.org.uk
+    [estado_dominio] => 1
+    [registrado] => 0
+    [fecha_contratacion] => 2004-09-03
+    [fecha_pago] => 1979-10-02
+    [costo_dominio] => 620
+    [id_forma_pago] => 1
+    [ns1] => Obcaecati ex iure vo
+    [ns2] => Vitae duis nulla est
+    [ns3] => In incididunt numqua
+    [ns4] => Dicta amet eveniet
+    [ns5] => Dolores maxime sed v
+    [ns6] => Ex facere quo illo d
+    [usuario] => Ut nisi recusandae
+    [contrasena_normal] => Pa$$w0rd!
+    [url_admin] => https://www.segi.cm
+    [url_cpanel] => https://www.mypavac.biz
+)
+
+2025-06-30 16:49:13 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 
+    [id_dominio] => 
+    [cliente_id] => 8
+    [proveedor] => Necessitatibus qui r
+    [costo] => 620
+)
+
+2025-06-30 16:49:13 - Error capturado: Column 'usuario' cannot be null
+2025-06-30 16:53:14 - Inicio de proceso - Método: POST
+2025-06-30 16:53:14 - Datos POST recibidos - Data: Array
+(
+    [id_dominio] => 118
+    [cliente] => 8
+    [proveedor] => Necessitatibus qui r
+    [url_dominio] => https://www.vumiku.org.uk
+    [estado_dominio] => 1
+    [registrado] => 0
+    [fecha_contratacion] => 2004-09-02
+    [fecha_pago] => 1979-10-02
+    [costo_dominio] => 620
+    [id_forma_pago] => 1
+    [ns1] => Obcaecati ex iure vo
+    [ns2] => Vitae duis nulla est
+    [ns3] => In incididunt numqua
+    [ns4] => Dicta amet eveniet
+    [ns5] => Dolores maxime sed v
+    [ns6] => Ex facere quo illo d
+    [usuario] => Ut nisi recusandae
+    [contrasena_normal] => Pa$$w0rd!
+    [url_admin] => https://www.segi.cm
+    [url_cpanel] => https://www.mypavac.biz
+)
+
+2025-06-30 16:53:14 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 
+    [id_dominio] => 
+    [cliente_id] => 8
+    [proveedor] => Necessitatibus qui r
+    [costo] => 620
+)
+
+2025-06-30 16:53:14 - Error capturado: Column 'usuario' cannot be null
+2025-06-30 16:54:14 - Inicio de proceso - Método: POST
+2025-06-30 16:54:14 - Datos POST recibidos - Data: Array
+(
+    [id_dominio] => 116
+    [cliente] => 8
+    [proveedor] => Animi voluptatem S
+    [url_dominio] => https://www.xuworixi.com.au
+    [estado_dominio] => 1
+    [registrado] => 0
+    [fecha_contratacion] => 2015-07-01
+    [fecha_pago] => 2023-10-01
+    [costo_dominio] => 31
+    [id_forma_pago] => 1
+    [ns1] => Dicta magnam beatae
+    [ns2] => Debitis iste id exer
+    [ns3] => Cumque tempor offici
+    [ns4] => Dolor nisi quo enim
+    [ns5] => Laudantium ea digni
+    [ns6] => Atque esse soluta ve
+    [usuario] => ola
+    [contrasena_normal] => Pa$$w0rd!
+    [url_admin] => https://www.mepobylul.co
+    [url_cpanel] => https://www.cac.co.uk
+)
+
+2025-06-30 16:54:14 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 
+    [id_dominio] => 
+    [cliente_id] => 8
+    [proveedor] => Animi voluptatem S
+    [costo] => 31
+)
+
+2025-06-30 16:54:14 - Error capturado: Column 'usuario' cannot be null
+2025-06-30 16:55:21 - Inicio de proceso - Método: POST
+2025-06-30 16:55:21 - Datos POST recibidos - Data: Array
+(
+    [id_dominio] => 115
+    [cliente] => 8
+    [proveedor] => Ad ut velit et iure
+    [url_dominio] => https://www.vevehutodavo.org.au
+    [estado_dominio] => 1
+    [registrado] => 0
+    [fecha_contratacion] => 1996-02-14
+    [fecha_pago] => 1993-01-26
+    [costo_dominio] => 93
+    [id_forma_pago] => 2
+    [ns1] => Officia eius odio mo
+    [ns2] => A occaecat eveniet
+    [ns3] => Expedita et perspici
+    [ns4] => Minima non voluptate
+    [ns5] => Reiciendis enim sit
+    [ns6] => Occaecat vel ipsum s
+    [usuario] => Nostrum omnis dolor
+    [contrasena_normal] => Pa$$w0rd!
+    [url_admin] => https://www.rufarapabitiga.com.au
+    [url_cpanel] => https://www.fupitakidivelo.biz
+)
+
+2025-06-30 16:55:21 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 
+    [id_dominio] => 
+    [cliente_id] => 8
+    [proveedor] => Ad ut velit et iure
+    [costo] => 93
+)
+
+2025-06-30 16:55:21 - Error capturado: Column 'usuario' cannot be null
+2025-06-30 16:56:23 - Inicio de proceso - Método: POST
+2025-06-30 16:56:23 - Datos POST recibidos - Data: Array
+(
+    [id_dominio] => 14
+    [cliente] => 8
+    [proveedor] => HostGator CWB90
+    [url_dominio] => c-onlineweb.net
+    [estado_dominio] => 1
+    [registrado] => 1
+    [fecha_contratacion] => 2020-09-07
+    [fecha_pago] => 2021-09-01
+    [costo_dominio] => 349
+    [id_forma_pago] => 1
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => dddd
+    [ns5] => 
+    [ns6] => 
+    [usuario] => admin
+    [contrasena_normal] => !"*+&&&&akñopmc%%&&&
+    [url_admin] => https://c-onlineweb.net/serviciosweb-c-onlineweb/
+    [url_cpanel] => 
+)
+
+2025-06-30 16:56:23 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 
+    [id_dominio] => 
+    [cliente_id] => 8
+    [proveedor] => HostGator CWB90
+    [costo] => 349
+)
+
+2025-06-30 16:56:23 - Error capturado: Column 'usuario' cannot be null
+2025-06-30 16:57:59 - Inicio de proceso - Método: POST
+2025-06-30 16:57:59 - Datos POST recibidos - Data: Array
+(
+    [id_dominio] => 14
+    [cliente] => 8
+    [proveedor] => HostGator CWB90
+    [url_dominio] => c-onlineweb.net
+    [estado_dominio] => 1
+    [registrado] => 1
+    [fecha_contratacion] => 2020-09-07
+    [fecha_pago] => 2021-09-01
+    [costo_dominio] => 349
+    [id_forma_pago] => 1
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => dddd
+    [ns5] => 
+    [ns6] => 
+    [usuario] => admin
+    [contrasena_normal] => !"*+&&&&akñopmc%%&&&
+    [url_admin] => https://c-onlineweb.net/serviciosweb-c-onlineweb/
+    [url_cpanel] => 
+)
+
+2025-06-30 16:57:59 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 
+    [id_dominio] => 
+    [cliente_id] => 8
+    [proveedor] => HostGator CWB90
+    [costo] => 349
+)
+
+2025-06-30 16:57:59 - Error capturado: Column 'usuario' cannot be null
+2025-06-30 16:58:02 - Inicio de proceso - Método: POST
+2025-06-30 16:58:02 - Datos POST recibidos - Data: Array
+(
+    [id_dominio] => 14
+    [cliente] => 8
+    [proveedor] => HostGator CWB90
+    [url_dominio] => c-onlineweb.net
+    [estado_dominio] => 1
+    [registrado] => 1
+    [fecha_contratacion] => 2020-09-07
+    [fecha_pago] => 2021-09-01
+    [costo_dominio] => 349
+    [id_forma_pago] => 1
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => dddd
+    [ns5] => 
+    [ns6] => 
+    [usuario] => admin
+    [contrasena_normal] => !"*+&&&&akñopmc%%&&&
+    [url_admin] => https://c-onlineweb.net/serviciosweb-c-onlineweb/
+    [url_cpanel] => 
+)
+
+2025-06-30 16:58:02 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 
+    [id_dominio] => 
+    [cliente_id] => 8
+    [proveedor] => HostGator CWB90
+    [costo] => 349
+)
+
+2025-06-30 16:58:02 - Error capturado: Column 'usuario' cannot be null
+2025-06-30 16:58:05 - Inicio de proceso - Método: POST
+2025-06-30 16:58:05 - Datos POST recibidos - Data: Array
+(
+    [id_dominio] => 14
+    [cliente] => 8
+    [proveedor] => HostGator CWB90
+    [url_dominio] => c-onlineweb.net
+    [estado_dominio] => 1
+    [registrado] => 1
+    [fecha_contratacion] => 2020-09-07
+    [fecha_pago] => 2021-09-01
+    [costo_dominio] => 349
+    [id_forma_pago] => 1
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => dddd
+    [ns5] => 
+    [ns6] => 
+    [usuario] => admin
+    [contrasena_normal] => !"*+&&&&akñopmc%%&&&
+    [url_admin] => https://c-onlineweb.net/serviciosweb-c-onlineweb/
+    [url_cpanel] => 
+)
+
+2025-06-30 16:58:05 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 
+    [id_dominio] => 
+    [cliente_id] => 8
+    [proveedor] => HostGator CWB90
+    [costo] => 349
+)
+
+2025-06-30 16:58:05 - Error capturado: Column 'usuario' cannot be null
+2025-06-30 16:59:13 - Inicio de proceso - Método: POST
+2025-06-30 16:59:13 - Datos POST recibidos - Data: Array
+(
+    [id_dominio] => 14
+    [cliente] => 8
+    [proveedor] => HostGator CWB90
+    [url_dominio] => c-onlineweb.net
+    [estado_dominio] => 1
+    [registrado] => 1
+    [fecha_contratacion] => 2020-09-07
+    [fecha_pago] => 2021-09-01
+    [costo_dominio] => 349
+    [id_forma_pago] => 1
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => dddd
+    [ns5] => 
+    [ns6] => 
+    [usuario] => admin
+    [contrasena_normal] => !"*+&&&&akñopmc%%&&&
+    [url_admin] => https://c-onlineweb.net/serviciosweb-c-onlineweb/
+    [url_cpanel] => 
+)
+
+2025-06-30 16:59:13 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 
+    [id_dominio] => 
+    [cliente_id] => 8
+    [proveedor] => HostGator CWB90
+    [costo] => 349
+)
+
+2025-06-30 16:59:13 - Error capturado: Column 'usuario' cannot be null
+2025-06-30 16:59:16 - Inicio de proceso - Método: POST
+2025-06-30 16:59:16 - Datos POST recibidos - Data: Array
+(
+    [id_dominio] => 14
+    [cliente] => 8
+    [proveedor] => HostGator CWB90
+    [url_dominio] => c-onlineweb.net
+    [estado_dominio] => 1
+    [registrado] => 1
+    [fecha_contratacion] => 2020-09-07
+    [fecha_pago] => 2021-09-01
+    [costo_dominio] => 349
+    [id_forma_pago] => 1
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => dddd
+    [ns5] => 
+    [ns6] => 
+    [usuario] => admin
+    [contrasena_normal] => !"*+&&&&akñopmc%%&&&
+    [url_admin] => https://c-onlineweb.net/serviciosweb-c-onlineweb/
+    [url_cpanel] => 
+)
+
+2025-06-30 16:59:16 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 
+    [id_dominio] => 
+    [cliente_id] => 8
+    [proveedor] => HostGator CWB90
+    [costo] => 349
+)
+
+2025-06-30 16:59:16 - Error capturado: Column 'usuario' cannot be null
+2025-06-30 17:00:18 - Inicio de proceso - Método: POST
+2025-06-30 17:00:18 - Datos POST recibidos - Data: Array
+(
+    [id_dominio] => 9
+    [cliente] => 8
+    [proveedor] => HostGator CWB
+    [url_dominio] => https://pastelesarcoiris.com
+    [estado_dominio] => 1
+    [registrado] => 1
+    [fecha_contratacion] => 2024-10-02
+    [fecha_pago] => 2025-10-02
+    [costo_dominio] => 0
+    [id_forma_pago] => 1
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [usuario_admin] => pastelesarco
+    [contrasena_normal] => arco3536@
+    [url_admin] => https://pastelesarcoiris.com/wp-login.php
+    [url_cpanel] => https://cpanel.pastelesarcoiris.com:2083/
+)
+
+2025-06-30 17:00:18 - Campos faltantes - Data: Array
+(
+    [0] => costo_dominio
+    [1] => usuario
+)
+
+2025-06-30 17:00:18 - Error capturado: Faltan campos obligatorios: costo_dominio, usuario
+2025-06-30 17:00:25 - Inicio de proceso - Método: POST
+2025-06-30 17:00:25 - Datos POST recibidos - Data: Array
+(
+    [id_dominio] => 9
+    [cliente] => 8
+    [proveedor] => HostGator CWB
+    [url_dominio] => https://pastelesarcoiris.com
+    [estado_dominio] => 1
+    [registrado] => 1
+    [fecha_contratacion] => 2024-10-02
+    [fecha_pago] => 2025-10-02
+    [costo_dominio] => 42.98
+    [id_forma_pago] => 1
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [usuario_admin] => pastelesarco
+    [contrasena_normal] => arco3536@
+    [url_admin] => https://pastelesarcoiris.com/wp-login.php
+    [url_cpanel] => https://cpanel.pastelesarcoiris.com:2083/
+)
+
+2025-06-30 17:00:25 - Campos faltantes - Data: Array
+(
+    [0] => usuario
+)
+
+2025-06-30 17:00:25 - Error capturado: Faltan campos obligatorios: usuario
+2025-06-30 17:00:30 - Inicio de proceso - Método: POST
+2025-06-30 17:00:30 - Datos POST recibidos - Data: Array
+(
+    [id_dominio] => 9
+    [cliente] => 8
+    [proveedor] => HostGator CWB
+    [url_dominio] => https://pastelesarcoiris.com
+    [estado_dominio] => 1
+    [registrado] => 1
+    [fecha_contratacion] => 2024-10-02
+    [fecha_pago] => 2025-10-02
+    [costo_dominio] => 42.98
+    [id_forma_pago] => 1
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [usuario_admin] => pastelesarcofds
+    [contrasena_normal] => arco3536@
+    [url_admin] => https://pastelesarcoiris.com/wp-login.php
+    [url_cpanel] => https://cpanel.pastelesarcoiris.com:2083/
+)
+
+2025-06-30 17:00:30 - Campos faltantes - Data: Array
+(
+    [0] => usuario
+)
+
+2025-06-30 17:00:30 - Error capturado: Faltan campos obligatorios: usuario
+2025-06-30 19:08:12 - Inicio de proceso - Método: POST
+2025-06-30 19:08:12 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 13
+    [cliente_id] => 7
+    [cliente] => 7
+    [proveedor] => HostGator CWB
+    [url_dominio] => https://navajasdecuerno.com
+    [url_admin] => https://navajasdecuerno.com/wp-login.php
+    [usuario_admin] => paetelesarco
+    [contrasena_admin] => d41d8cd98f00b204e9800998ecf8427e
+    [url_cpanel] => https://cpanel.navajasdecuerno.com:2083
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 450
+    [id_forma_pago] => 1
+    [costo_final] => 450
+    [registrado] => 1
+    [fecha_contratacion] => 2020-03-17
+    [fecha_pago] => 2025-07-17
+)
+
+2025-06-30 19:08:12 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 13
+    [cliente_id] => 7
+    [proveedor] => HostGator CWB
+    [costo] => 450
+)
+
+2025-06-30 19:08:12 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 13
+    [affected_rows] => 1
+)
+
+2025-06-30 19:10:08 - Inicio de proceso - Método: POST
+2025-06-30 19:10:08 - Datos POST recibidos - Data: Array
+(
+    [id_dominio] => 13
+    [cliente] => 8
+    [proveedor] => HostGator CWB
+    [url_dominio] => navajasdecuerno.com
+    [estado_dominio] => 1
+    [registrado] => 1
+    [fecha_contratacion] => 2020-03-17
+    [fecha_pago] => 2025-07-17
+    [costo_dominio] => 450
+    [id_forma_pago] => 1
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [usuario_admin] => paetelesarco
+    [contrasena_normal] => d41d8cd98f00b204e9800998ecf8427e
+    [url_admin] => https://navajasdecuerno.com/wp-login.php
+    [url_cpanel] => https://cpanel.navajasdecuerno.com:2083
+)
+
+2025-06-30 19:10:08 - Campos faltantes - Data: Array
+(
+    [0] => usuario
+)
+
+2025-06-30 19:10:08 - Error capturado: Faltan campos obligatorios: usuario
+2025-06-30 19:10:25 - Inicio de proceso - Método: POST
+2025-06-30 19:10:25 - Datos POST recibidos - Data: Array
+(
+    [id_dominio] => 13
+    [cliente] => 8
+    [proveedor] => HostGator CWB
+    [url_dominio] => navajasdecuerno.com
+    [estado_dominio] => 1
+    [registrado] => 1
+    [fecha_contratacion] => 2020-03-17
+    [fecha_pago] => 2025-07-17
+    [costo_dominio] => 450
+    [id_forma_pago] => 1
+    [ns1] => ns1.conlineweb.com.mx
+    [ns2] => ns2.conlineweb.com.mx
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [usuario_admin] => paetelesarco
+    [contrasena_normal] => d41d8cd98f00b204e9800998ecf8427e
+    [url_admin] => https://navajasdecuerno.com/wp-login.php
+    [url_cpanel] => https://cpanel.navajasdecuerno.com:2083
+)
+
+2025-06-30 19:10:25 - Campos faltantes - Data: Array
+(
+    [0] => usuario
+)
+
+2025-06-30 19:10:25 - Error capturado: Faltan campos obligatorios: usuario
+2025-06-30 19:11:08 - Inicio de proceso - Método: POST
+2025-06-30 19:11:08 - Datos POST recibidos - Data: Array
+(
+    [id_dominio] => 13
+    [cliente] => 8
+    [proveedor] => HostGator CWB
+    [url_dominio] => navajasdecuerno.com
+    [estado_dominio] => 1
+    [registrado] => 1
+    [fecha_contratacion] => 2020-03-17
+    [fecha_pago] => 2025-07-17
+    [costo_dominio] => 450
+    [id_forma_pago] => 1
+    [ns1] => ns1.conlineweb.com.mx
+    [ns2] => ns2.conlineweb.com.mx
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [usuario_admin] => paetelesarco
+    [contrasena_normal] => d41d8cd98f00b204e9800998ecf8427e
+    [url_admin] => https://navajasdecuerno.com/wp-login.php
+    [url_cpanel] => https://cpanel.navajasdecuerno.com:2083
+)
+
+2025-06-30 19:11:08 - Campos faltantes - Data: Array
+(
+    [0] => usuario
+)
+
+2025-06-30 19:11:08 - Error capturado: Faltan campos obligatorios: usuario
+2025-06-30 19:22:00 - Inicio de proceso - Método: POST
+2025-06-30 19:22:00 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 13
+    [cliente_id] => 7
+    [cliente] => 7
+    [proveedor] => HostGator CWB
+    [url_dominio] => navajasdecuerno.com
+    [url_admin] => https://navajasdecuerno.com/wp-login.php
+    [usuario_admin] => paetelesarco
+    [contrasena_admin] => d41d8cd98f00b204e9800998ecf8427e
+    [url_cpanel] => https://cpanel.navajasdecuerno.com:2083
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 450
+    [id_forma_pago] => 1
+    [costo_final] => 450
+    [registrado] => 1
+    [fecha_contratacion] => 2020-03-17
+    [fecha_pago] => 2025-07-17
+)
+
+2025-06-30 19:22:00 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 13
+    [cliente_id] => 7
+    [proveedor] => HostGator CWB
+    [costo] => 450
+)
+
+2025-06-30 19:22:00 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 13
+    [affected_rows] => 1
+)
+
+2025-06-30 19:26:49 - Inicio de proceso - Método: POST
+2025-06-30 19:26:49 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 9
+    [cliente_id] => 7
+    [cliente] => 7
+    [proveedor] => Ionos
+    [url_dominio] => pastelesarcoiris.com
+    [url_admin] => https://pastelesarcoiris.com/wp-login.php
+    [usuario_admin] => pastelesarco
+    [contrasena_admin] => arco3536@
+    [url_cpanel] => https://cpanel.pastelesarcoiris.com:2083/
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 0
+    [id_forma_pago] => 1
+    [costo_final] => 0
+    [registrado] => 1
+    [fecha_contratacion] => 2024-10-13
+    [fecha_pago] => 2025-10-13
+)
+
+2025-06-30 19:26:49 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 9
+    [cliente_id] => 7
+    [proveedor] => Ionos
+    [costo] => 0
+)
+
+2025-06-30 19:26:49 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 9
+    [affected_rows] => 1
+)
+
+2025-06-30 19:30:23 - Inicio de proceso - Método: POST
+2025-06-30 19:30:23 - Datos POST recibidos - Data: Array
+(
+    [id_dominio] => 12
+    [cliente] => 8
+    [proveedor] => HostGator CWB
+    [url_dominio] => amidmedica.com
+    [estado_dominio] => 1
+    [registrado] => 1
+    [fecha_contratacion] => 2023-01-02
+    [fecha_pago] => 2025-12-12
+    [costo_dominio] => 400
+    [id_forma_pago] => 1
+    [ns1] => ns1.dns-parking.com
+    [ns2] => ns2.dns-parking.com
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [usuario_admin] => server91
+    [contrasena_normal] => medicain5556@
+    [url_admin] => https://amidmedica.com/wp-login.php
+    [url_cpanel] => https://dedi-1331720.c-onlineweb.com:2083/
+)
+
+2025-06-30 19:30:23 - Campos faltantes - Data: Array
+(
+    [0] => usuario
+)
+
+2025-06-30 19:30:23 - Error capturado: Faltan campos obligatorios: usuario
+2025-06-30 19:32:41 - Inicio de proceso - Método: POST
+2025-06-30 19:32:41 - Datos POST recibidos - Data: Array
+(
+    [id_dominio] => 12
+    [cliente] => 8
+    [proveedor] => HostGator CWB
+    [url_dominio] => https://amidmedica.com
+    [estado_dominio] => 1
+    [registrado] => 1
+    [fecha_contratacion] => 2023-01-02
+    [fecha_pago] => 2025-12-12
+    [costo_dominio] => 450
+    [id_forma_pago] => 1
+    [ns1] => ns1.dns-parking.com
+    [ns2] => ns2.dns-parking.com
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [usuario_admin] => server91
+    [contrasena_normal] => medicain5556@
+    [url_admin] => https://amidmedica.com/wp-login.php
+    [url_cpanel] => https://dedi-1331720.c-onlineweb.com:2083/
+)
+
+2025-06-30 19:32:41 - Campos faltantes - Data: Array
+(
+    [0] => usuario
+)
+
+2025-06-30 19:32:41 - Error capturado: Faltan campos obligatorios: usuario
+2025-06-30 19:39:11 - Inicio de proceso - Método: POST
+2025-06-30 19:39:11 - Datos POST recibidos - Data: Array
+(
+    [id_dominio] => 12
+    [cliente] => 8
+    [proveedor] => HostGator CWB
+    [url_dominio] => amidmedica.com
+    [estado_dominio] => 1
+    [registrado] => 1
+    [fecha_contratacion] => 2023-01-02
+    [fecha_pago] => 2024-01-02
+    [costo_dominio] => 400
+    [id_forma_pago] => 1
+    [ns1] => ns1.dns-parking.com
+    [ns2] => ns2.dns-parking.com
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [usuario_admin] => server91
+    [contrasena_normal] => medicain5556@
+    [url_admin] => https://amidmedica.com/wp-login.php
+    [url_cpanel] => https://dedi-1331720.c-onlineweb.com:2083/
+)
+
+2025-06-30 19:39:11 - Campos faltantes - Data: Array
+(
+    [0] => usuario
+)
+
+2025-06-30 19:39:11 - Error capturado: Faltan campos obligatorios: usuario
+2025-06-30 19:39:15 - Inicio de proceso - Método: POST
+2025-06-30 19:39:15 - Datos POST recibidos - Data: Array
+(
+    [id_dominio] => 12
+    [cliente] => 8
+    [proveedor] => HostGator CWB
+    [url_dominio] => amidmedica.com
+    [estado_dominio] => 1
+    [registrado] => 1
+    [fecha_contratacion] => 2023-01-02
+    [fecha_pago] => 2024-01-02
+    [costo_dominio] => 400
+    [id_forma_pago] => 1
+    [ns1] => ns1.dns-parking.com
+    [ns2] => ns2.dns-parking.com
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [usuario_admin] => server91
+    [contrasena_normal] => medicain5556@
+    [url_admin] => https://amidmedica.com/wp-login.php
+    [url_cpanel] => https://dedi-1331720.c-onlineweb.com:2083/
+)
+
+2025-06-30 19:39:15 - Campos faltantes - Data: Array
+(
+    [0] => usuario
+)
+
+2025-06-30 19:39:15 - Error capturado: Faltan campos obligatorios: usuario
+2025-06-30 19:39:18 - Inicio de proceso - Método: POST
+2025-06-30 19:39:18 - Datos POST recibidos - Data: Array
+(
+    [id_dominio] => 12
+    [cliente] => 8
+    [proveedor] => HostGator CWB
+    [url_dominio] => amidmedica.com
+    [estado_dominio] => 1
+    [registrado] => 1
+    [fecha_contratacion] => 2023-01-02
+    [fecha_pago] => 2024-01-02
+    [costo_dominio] => 400
+    [id_forma_pago] => 1
+    [ns1] => ns1.dns-parking.com
+    [ns2] => ns2.dns-parking.com
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [usuario_admin] => server91
+    [contrasena_normal] => medicain5556@
+    [url_admin] => https://amidmedica.com/wp-login.php
+    [url_cpanel] => https://dedi-1331720.c-onlineweb.com:2083/
+)
+
+2025-06-30 19:39:18 - Campos faltantes - Data: Array
+(
+    [0] => usuario
+)
+
+2025-06-30 19:39:18 - Error capturado: Faltan campos obligatorios: usuario
+2025-06-30 19:39:40 - Inicio de proceso - Método: POST
+2025-06-30 19:39:40 - Datos POST recibidos - Data: Array
+(
+    [id_dominio] => 12
+    [cliente] => 8
+    [proveedor] => HostGator CWB
+    [url_dominio] => amidmedica.com
+    [estado_dominio] => 1
+    [registrado] => 1
+    [fecha_contratacion] => 2023-01-02
+    [fecha_pago] => 2024-01-02
+    [costo_dominio] => 400
+    [id_forma_pago] => 1
+    [ns1] => ns1.dns-parking.com
+    [ns2] => ns2.dns-parking.com
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [usuario_admin] => server91
+    [contrasena_normal] => medicain5556@
+    [url_admin] => https://amidmedica.com/wp-login.php
+    [url_cpanel] => https://dedi-1331720.c-onlineweb.com:2083/
+)
+
+2025-06-30 19:39:40 - Campos faltantes - Data: Array
+(
+    [0] => usuario
+)
+
+2025-06-30 19:39:40 - Error capturado: Faltan campos obligatorios: usuario
+2025-06-30 19:46:25 - Inicio de proceso - Método: POST
+2025-06-30 19:46:25 - Datos POST recibidos - Data: Array
+(
+    [id_dominio] => 12
+    [cliente_id] => 9
+    [proveedor] => HostGator CWB
+    [url_dominio] => https://amidmedica.com
+    [estado_dominio] => 1
+    [registrado] => 1
+    [fecha_contratacion] => 2023-01-02
+    [fecha_pago] => 2025-12-12
+    [costo_dominio] => 450
+    [id_forma_pago] => 1
+    [ns1] => ns1.dns-parking.com
+    [ns2] => ns2.dns-parking.com
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [usuario_admin] => ----
+    [contrasena_admin] => -----
+    [url_admin] => https://amidmedica.com/wp-login.php
+    [url_cpanel] => https://dedi-1331720.c-onlineweb.com:2083/
+)
+
+2025-06-30 19:46:25 - Campos faltantes - Data: Array
+(
+    [0] => cliente
+    [1] => usuario
+)
+
+2025-06-30 19:46:25 - Error capturado: Faltan campos obligatorios: cliente, usuario
+2025-07-01 12:25:13 - Inicio de proceso - Método: POST
+2025-07-01 12:25:13 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 0
+    [cliente] => 67
+    [proveedor] => Mollit irure in volu
+    [url_dominio] => https://www.kunihobaly.me.uk54
+    [url_admin] => https://www.xoweho.me.uk543543
+    [usuario_admin] => admin
+    [contrasena_admin] => !"*+&&&&akñopmc%%&&&
+    [url_cpanel] => https://www.kihuzitocus.ws
+    [ns1] => Doloremque aperiam c5454
+    [ns2] => Cupidatat exercitati
+    [ns3] => dsadsadasdad
+    [ns4] => dsadsadad
+    [ns5] => dsadsadada
+    [ns6] => sdadsadad
+    [costo_dominio] => 34
+    [id_forma_pago] => 1
+    [costo_final] => 34
+    [registrado] => 0
+    [fecha_contratacion] => 2025-07-31
+    [fecha_pago] => 2025-07-29
+)
+
+2025-07-01 12:25:13 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 
+    [id_dominio] => 
+    [cliente_id] => 67
+    [proveedor] => Mollit irure in volu
+    [costo] => 34
+)
+
+2025-07-01 12:25:13 - Dominio registrado exitosamente - Data: Array
+(
+    [insert_id] => 119
+)
+
+2025-07-01 12:25:27 - Inicio de proceso - Método: POST
+2025-07-01 12:25:27 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 14
+    [cliente_id] => 10
+    [cliente] => 10
+    [proveedor] => HostGator CWB
+    [url_dominio] => c-onlineweb.net
+    [url_admin] => https://c-onlineweb.net/serviciosweb-c-onlineweb/
+    [usuario_admin] => admin
+    [contrasena_admin] => !"*+&&&&akñopmc%%&&&
+    [url_cpanel] => 
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => dddd
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 349
+    [id_forma_pago] => 1
+    [costo_final] => 349
+    [registrado] => 1
+    [fecha_contratacion] => 2020-09-13
+    [fecha_pago] => 2021-09-13
+)
+
+2025-07-01 12:25:27 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 14
+    [cliente_id] => 10
+    [proveedor] => HostGator CWB
+    [costo] => 349
+)
+
+2025-07-01 12:25:27 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 14
+    [affected_rows] => 1
+)
+
+2025-07-01 12:25:50 - Inicio de proceso - Método: POST
+2025-07-01 12:25:50 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 14
+    [cliente_id] => 10
+    [cliente] => 10
+    [proveedor] => HostGator CWB
+    [url_dominio] => c-onlineweb.net
+    [url_admin] => https://c-onlineweb.net/serviciosweb-c-onlineweb/
+    [usuario_admin] => admin
+    [contrasena_admin] => !"*+&&&&akñopmc%%&&&
+    [url_cpanel] => 
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => dddd
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 349
+    [id_forma_pago] => 1
+    [costo_final] => 349
+    [registrado] => 1
+    [fecha_contratacion] => 2020-09-13
+    [fecha_pago] => 2021-09-12
+)
+
+2025-07-01 12:25:50 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 14
+    [cliente_id] => 10
+    [proveedor] => HostGator CWB
+    [costo] => 349
+)
+
+2025-07-01 12:25:50 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 14
+    [affected_rows] => 1
+)
+
+2025-07-01 12:28:11 - Inicio de proceso - Método: POST
+2025-07-01 12:28:11 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 14
+    [cliente_id] => 10
+    [cliente] => 10
+    [proveedor] => HostGator CWB343
+    [url_dominio] => c-onlineweb.net
+    [url_admin] => https://c-onlineweb.net/serviciosweb-c-onlineweb/
+    [usuario_admin] => admin
+    [contrasena_admin] => !"*+&&&&akñopmc%%&&&
+    [url_cpanel] => 
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => dddd
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 349
+    [id_forma_pago] => 1
+    [costo_final] => 349
+    [registrado] => 1
+    [fecha_contratacion] => 2020-09-13
+    [fecha_pago] => 2021-09-12
+)
+
+2025-07-01 12:28:11 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 14
+    [cliente_id] => 10
+    [proveedor] => HostGator CWB343
+    [costo] => 349
+)
+
+2025-07-01 12:28:11 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 14
+    [affected_rows] => 1
+)
+
+2025-07-01 12:28:50 - Inicio de proceso - Método: POST
+2025-07-01 12:28:50 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 14
+    [cliente_id] => 10
+    [cliente] => 10
+    [proveedor] => HostGator CWB3433434
+    [url_dominio] => c-onlineweb.net
+    [url_admin] => https://c-onlineweb.net/serviciosweb-c-onlineweb/
+    [usuario_admin] => admin
+    [contrasena_admin] => !"*+&&&&akñopmc%%&&&
+    [url_cpanel] => 
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => dddd
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 349
+    [id_forma_pago] => 1
+    [costo_final] => 349
+    [registrado] => 1
+    [fecha_contratacion] => 2020-09-13
+    [fecha_pago] => 2021-09-12
+)
+
+2025-07-01 12:28:50 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 14
+    [cliente_id] => 10
+    [proveedor] => HostGator CWB3433434
+    [costo] => 349
+)
+
+2025-07-01 12:28:50 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 14
+    [affected_rows] => 1
+)
+
+2025-07-01 12:32:50 - Inicio de proceso - Método: POST
+2025-07-01 12:32:50 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 0
+    [cliente] => 67
+    [proveedor] => Voluptate quas volup76
+    [url_dominio] => https://www.kunihobaly.me.uk54
+    [url_admin] => https://www.xoweho.me.uk543543
+    [usuario_admin] => admin
+    [contrasena_admin] => !"*+&&&&akñopmc%%&&&
+    [url_cpanel] => https://www.jyjimosi4355345hati.me.uk
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 45
+    [id_forma_pago] => 1
+    [costo_final] => 45
+    [registrado] => 1
+    [fecha_contratacion] => 2025-07-30
+    [fecha_pago] => 2025-07-30
+)
+
+2025-07-01 12:32:50 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 
+    [id_dominio] => 
+    [cliente_id] => 67
+    [proveedor] => Voluptate quas volup76
+    [costo] => 45
+)
+
+2025-07-01 12:32:50 - Error capturado: Column 'ns1' cannot be null
+2025-07-01 12:32:54 - Inicio de proceso - Método: POST
+2025-07-01 12:32:54 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 0
+    [cliente] => 67
+    [proveedor] => Voluptate quas volup76
+    [url_dominio] => https://www.kunihobaly.me.uk54
+    [url_admin] => https://www.xoweho.me.uk543543
+    [usuario_admin] => admin
+    [contrasena_admin] => !"*+&&&&akñopmc%%&&&
+    [url_cpanel] => https://www.jyjimosi4355345hati.me.uk
+    [ns1] => Doloremque aperiam c5454
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 45
+    [id_forma_pago] => 1
+    [costo_final] => 45
+    [registrado] => 1
+    [fecha_contratacion] => 2025-07-30
+    [fecha_pago] => 2025-07-30
+)
+
+2025-07-01 12:32:54 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 
+    [id_dominio] => 
+    [cliente_id] => 67
+    [proveedor] => Voluptate quas volup76
+    [costo] => 45
+)
+
+2025-07-01 12:32:54 - Error capturado: Column 'ns2' cannot be null
+2025-07-01 12:33:12 - Inicio de proceso - Método: POST
+2025-07-01 12:33:12 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 0
+    [cliente] => 73
+    [proveedor] => Corporis tempore eo
+    [url_dominio] => Beatae.com
+    [url_admin] => https://www.tuqi.net
+    [usuario_admin] => admin
+    [contrasena_admin] => 123456
+    [url_cpanel] => https://www.wulyligymacor.org
+    [ns1] => Non dolor similique 
+    [ns2] => Beatae ut ipsa rati
+    [ns3] => Qui excepturi irure 
+    [ns4] => Harum dolorem enim v
+    [ns5] => Ea fugiat dolore no
+    [ns6] => Adipisicing omnis al
+    [costo_dominio] => 22
+    [id_forma_pago] => 1
+    [costo_final] => 22
+    [registrado] => 1
+    [fecha_contratacion] => 2018-08-11
+    [fecha_pago] => 2020-06-03
+)
+
+2025-07-01 12:33:12 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 
+    [id_dominio] => 
+    [cliente_id] => 73
+    [proveedor] => Corporis tempore eo
+    [costo] => 22
+)
+
+2025-07-01 12:33:12 - Dominio registrado exitosamente - Data: Array
+(
+    [insert_id] => 120
+)
+
+2025-07-01 12:33:39 - Inicio de proceso - Método: POST
+2025-07-01 12:33:39 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 0
+    [cliente] => 67
+    [proveedor] => Voluptate quas volup76
+    [url_dominio] => https://www.kunihobaly.me.uk54
+    [url_admin] => https://www.xoweho.me.uk543543
+    [usuario_admin] => admin
+    [contrasena_admin] => !"*+&&&&akñopmc%%&&&
+    [url_cpanel] => https://www.jyjimosi4355345hati.me.uk
+    [ns1] => Doloremque aperiam c5454
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 45
+    [id_forma_pago] => 1
+    [costo_final] => 45
+    [registrado] => 1
+    [fecha_contratacion] => 2025-07-30
+    [fecha_pago] => 2025-07-30
+)
+
+2025-07-01 12:33:39 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 
+    [id_dominio] => 
+    [cliente_id] => 67
+    [proveedor] => Voluptate quas volup76
+    [costo] => 45
+)
+
+2025-07-01 12:33:39 - Error capturado: Column 'ns1' cannot be null
+2025-07-01 12:33:41 - Inicio de proceso - Método: POST
+2025-07-01 12:33:41 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 0
+    [cliente] => 67
+    [proveedor] => Voluptate quas volup76
+    [url_dominio] => https://www.kunihobaly.me.uk54
+    [url_admin] => https://www.xoweho.me.uk543543
+    [usuario_admin] => admin
+    [contrasena_admin] => !"*+&&&&akñopmc%%&&&
+    [url_cpanel] => https://www.jyjimosi4355345hati.me.uk
+    [ns1] => Doloremque aperiam c5454
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 45
+    [id_forma_pago] => 1
+    [costo_final] => 45
+    [registrado] => 1
+    [fecha_contratacion] => 2025-07-30
+    [fecha_pago] => 2025-07-30
+)
+
+2025-07-01 12:33:41 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 
+    [id_dominio] => 
+    [cliente_id] => 67
+    [proveedor] => Voluptate quas volup76
+    [costo] => 45
+)
+
+2025-07-01 12:33:41 - Error capturado: Column 'ns1' cannot be null
+2025-07-01 12:36:45 - Inicio de proceso - Método: POST
+2025-07-01 12:36:45 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 0
+    [cliente] => 48
+    [proveedor] => Cum vel quaerat nemo
+    [url_dominio] => Occaecat nemo omnis 
+    [url_admin] => https://www.jagul.us
+    [usuario_admin] => Et nihil architecto 
+    [contrasena_admin] => Pa$$w0rd!
+    [url_cpanel] => https://www.vofuqek.mobi
+    [ns1] => Laudantium ea esse 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 82
+    [id_forma_pago] => 1
+    [costo_final] => 82
+    [registrado] => 0
+    [fecha_contratacion] => 1977-12-24
+    [fecha_pago] => 1998-06-09
+)
+
+2025-07-01 12:36:45 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 
+    [id_dominio] => 
+    [cliente_id] => 48
+    [proveedor] => Cum vel quaerat nemo
+    [costo] => 82
+)
+
+2025-07-01 12:36:45 - Error capturado: Column 'ns1' cannot be null
+2025-07-01 12:36:49 - Inicio de proceso - Método: POST
+2025-07-01 12:36:49 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 0
+    [cliente] => 48
+    [proveedor] => Cum vel quaerat nemo
+    [url_dominio] => Occaecat nemo omnis 
+    [url_admin] => https://www.jagul.us
+    [usuario_admin] => Et nihil architecto 
+    [contrasena_admin] => Pa$$w0rd!
+    [url_cpanel] => https://www.vofuqek.mobi
+    [ns1] => Laudantium ea esse fdssdfs
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 82
+    [id_forma_pago] => 1
+    [costo_final] => 82
+    [registrado] => 0
+    [fecha_contratacion] => 1977-12-24
+    [fecha_pago] => 1998-06-09
+)
+
+2025-07-01 12:36:49 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 
+    [id_dominio] => 
+    [cliente_id] => 48
+    [proveedor] => Cum vel quaerat nemo
+    [costo] => 82
+)
+
+2025-07-01 12:36:49 - Error capturado: Column 'ns1' cannot be null
+2025-07-01 12:37:27 - Inicio de proceso - Método: POST
+2025-07-01 12:37:27 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 120
+    [cliente_id] => 73
+    [cliente] => 73
+    [proveedor] => Corporis tempore eo
+    [url_dominio] => Beatae.com
+    [url_admin] => https://www.tuqi.net
+    [usuario_admin] => admin
+    [contrasena_admin] => 123456
+    [url_cpanel] => https://www.wulyligymacor.org
+    [ns1] => Non dolor similique
+    [ns2] => Beatae ut ipsa rati
+    [ns3] => Qui excepturi irure
+    [ns4] => Harum dolorem enim v
+    [ns5] => Ea fugiat dolore no
+    [ns6] => Adipisicing omnis al
+    [costo_dominio] => 22
+    [id_forma_pago] => 1
+    [costo_final] => 22
+    [registrado] => 1
+    [fecha_contratacion] => 2018-08-11
+    [fecha_pago] => 2020-06-27
+)
+
+2025-07-01 12:37:27 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 120
+    [cliente_id] => 73
+    [proveedor] => Corporis tempore eo
+    [costo] => 22
+)
+
+2025-07-01 12:37:27 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 120
+    [affected_rows] => 1
+)
+
+2025-07-01 12:38:06 - Inicio de proceso - Método: POST
+2025-07-01 12:38:06 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 0
+    [cliente] => 48
+    [proveedor] => Cum vel quaerat nemo
+    [url_dominio] => Occaecat nemo omnis 
+    [url_admin] => https://www.jagul.us
+    [usuario_admin] => Et nihil architecto 
+    [contrasena_admin] => Pa$$w0rd!
+    [url_cpanel] => https://www.vofuqek.mobi
+    [ns1] => Laudantium ea esse fdssdfs
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 82
+    [id_forma_pago] => 1
+    [costo_final] => 82
+    [registrado] => 0
+    [fecha_contratacion] => 1977-12-24
+    [fecha_pago] => 1998-06-09
+)
+
+2025-07-01 12:38:06 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 
+    [id_dominio] => 
+    [cliente_id] => 48
+    [proveedor] => Cum vel quaerat nemo
+    [costo] => 82
+)
+
+2025-07-01 12:38:06 - Dominio registrado exitosamente - Data: Array
+(
+    [insert_id] => 121
+)
+
+2025-07-01 12:38:50 - Inicio de proceso - Método: POST
+2025-07-01 12:38:50 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 0
+    [cliente] => 42
+    [proveedor] => Et dolor et voluptat
+    [url_dominio] => Sit aute id quis te
+    [url_admin] => https://www.datareneco.info
+    [usuario_admin] => Fugiat accusamus non
+    [contrasena_admin] => Pa$$w0rd!
+    [url_cpanel] => https://www.kimovodeco.cm
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 79
+    [id_forma_pago] => 1
+    [costo_final] => 79
+    [registrado] => 1
+    [fecha_contratacion] => 1985-05-11
+    [fecha_pago] => 2007-04-19
+)
+
+2025-07-01 12:38:50 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 
+    [id_dominio] => 
+    [cliente_id] => 42
+    [proveedor] => Et dolor et voluptat
+    [costo] => 79
+)
+
+2025-07-01 12:38:50 - Dominio registrado exitosamente - Data: Array
+(
+    [insert_id] => 122
+)
+
+2025-07-01 12:39:29 - Inicio de proceso - Método: POST
+2025-07-01 12:39:29 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 14
+    [cliente_id] => 10
+    [cliente] => 10
+    [proveedor] => 34343
+    [url_dominio] => c-onlineweb.net
+    [url_admin] => https://c-onlineweb.net/serviciosweb-c-onlineweb/
+    [usuario_admin] => admin
+    [contrasena_admin] => !"*+&&&&akñopmc%%&&&
+    [url_cpanel] => 
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => dddd
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 349
+    [id_forma_pago] => 1
+    [costo_final] => 349
+    [registrado] => 1
+    [fecha_contratacion] => 2020-09-13
+    [fecha_pago] => 2021-09-12
+)
+
+2025-07-01 12:39:29 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 14
+    [cliente_id] => 10
+    [proveedor] => 34343
+    [costo] => 349
+)
+
+2025-07-01 12:39:29 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 14
+    [affected_rows] => 1
+)
+
+2025-07-01 12:40:09 - Inicio de proceso - Método: POST
+2025-07-01 12:40:09 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 120
+    [cliente_id] => 73
+    [cliente] => 73
+    [proveedor] => Corporis tempore eo
+    [url_dominio] => Beatae.mx
+    [url_admin] => https://www.tuqi.net
+    [usuario_admin] => admin
+    [contrasena_admin] => 123456
+    [url_cpanel] => https://www.wulyligymacor.org
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 22
+    [id_forma_pago] => 1
+    [costo_final] => 22
+    [registrado] => 1
+    [fecha_contratacion] => 2018-08-11
+    [fecha_pago] => 2020-06-27
+)
+
+2025-07-01 12:40:09 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 120
+    [cliente_id] => 73
+    [proveedor] => Corporis tempore eo
+    [costo] => 22
+)
+
+2025-07-01 12:40:09 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 120
+    [affected_rows] => 1
+)
+
+2025-07-01 12:43:12 - Inicio de proceso - Método: POST
+2025-07-01 12:43:12 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 0
+    [cliente] => 42
+    [proveedor] => Non officia voluptat
+    [url_dominio] => https://www.syveryku.mobi
+    [url_admin] => https://www.rumatyn.ws
+    [usuario_admin] => Quos cumque esse su
+    [contrasena_admin] => Pa$$w0rd!
+    [url_cpanel] => https://www.bidy.org.uk
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 13
+    [id_forma_pago] => 2
+    [costo_final] => 13
+    [registrado] => 1
+    [fecha_contratacion] => 2006-12-25
+    [fecha_pago] => 1987-03-13
+)
+
+2025-07-01 12:43:12 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 
+    [id_dominio] => 
+    [cliente_id] => 42
+    [proveedor] => Non officia voluptat
+    [costo] => 13
+)
+
+2025-07-01 12:43:12 - Dominio registrado exitosamente - Data: Array
+(
+    [insert_id] => 123
+)
+
+2025-07-01 12:43:25 - Inicio de proceso - Método: POST
+2025-07-01 12:43:25 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 14
+    [cliente_id] => 10
+    [cliente] => 10
+    [proveedor] => ola testing
+    [url_dominio] => c-onlineweb.net
+    [url_admin] => https://c-onlineweb.net/serviciosweb-c-onlineweb/
+    [usuario_admin] => admin
+    [contrasena_admin] => !"*+&&&&akñopmc%%&&&
+    [url_cpanel] => 
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => dddd
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 349
+    [id_forma_pago] => 1
+    [costo_final] => 349
+    [registrado] => 1
+    [fecha_contratacion] => 2020-09-13
+    [fecha_pago] => 2021-09-12
+)
+
+2025-07-01 12:43:25 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 14
+    [cliente_id] => 10
+    [proveedor] => ola testing
+    [costo] => 349
+)
+
+2025-07-01 12:43:25 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 14
+    [affected_rows] => 1
+)
+
+2025-07-01 12:43:33 - Inicio de proceso - Método: POST
+2025-07-01 12:43:33 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 14
+    [cliente_id] => 10
+    [cliente] => 10
+    [proveedor] => ola testing 2323
+    [url_dominio] => c-onlineweb.net
+    [url_admin] => https://c-onlineweb.net/serviciosweb-c-onlineweb/
+    [usuario_admin] => admin
+    [contrasena_admin] => !"*+&&&&akñopmc%%&&&
+    [url_cpanel] => 
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => dddd
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 349
+    [id_forma_pago] => 1
+    [costo_final] => 349
+    [registrado] => 1
+    [fecha_contratacion] => 2020-09-13
+    [fecha_pago] => 2021-09-12
+)
+
+2025-07-01 12:43:33 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 14
+    [cliente_id] => 10
+    [proveedor] => ola testing 2323
+    [costo] => 349
+)
+
+2025-07-01 12:43:33 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 14
+    [affected_rows] => 1
+)
+
+2025-07-01 12:52:20 - Inicio de proceso - Método: POST
+2025-07-01 12:52:20 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 87
+    [cliente_id] => 50
+    [cliente] => 50
+    [proveedor] => Ionos
+    [url_dominio] => alisonownstyle.com
+    [url_admin] => https://alisonownstyle.com/wp-login.php
+    [usuario_admin] => alisonownstyle
+    [contrasena_admin] => qaAz#;j~s^j{ayuj
+    [url_cpanel] => https://cpanel.alisonownstyle.com
+    [ns1] => ns1.c-onlineweb.com
+    [ns2] => ns2.c-onlineweb.com
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 480
+    [id_forma_pago] => 1
+    [costo_final] => 480
+    [registrado] => 1
+    [fecha_contratacion] => 2024-06-27
+    [fecha_pago] => 2025-06-27
+)
+
+2025-07-01 12:52:20 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 87
+    [cliente_id] => 50
+    [proveedor] => Ionos
+    [costo] => 480
+)
+
+2025-07-01 12:52:20 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 87
+    [affected_rows] => 1
+)
+
+2025-07-01 13:43:41 - Inicio de proceso - Método: POST
+2025-07-01 13:43:41 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 14
+    [cliente_id] => 10
+    [cliente] => 10
+    [proveedor] => 000000000
+    [url_dominio] => c-onlineweb.net
+    [url_admin] => https://c-onlineweb.net/serviciosweb-c-onlineweb/
+    [usuario_admin] => admin
+    [contrasena_admin] => !"*+&&&&akñopmc%%&&&
+    [url_cpanel] => 
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => dddd
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 349
+    [id_forma_pago] => 1
+    [costo_final] => 349
+    [registrado] => 1
+    [fecha_contratacion] => 2020-09-13
+    [fecha_pago] => 2021-09-12
+)
+
+2025-07-01 13:43:41 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 14
+    [cliente_id] => 10
+    [proveedor] => 000000000
+    [costo] => 349
+)
+
+2025-07-01 13:43:41 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 14
+    [affected_rows] => 1
+)
+
+2025-07-01 13:44:46 - Inicio de proceso - Método: POST
+2025-07-01 13:44:46 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 0
+    [cliente] => 42
+    [proveedor] => Architecto vitae eli
+    [url_dominio] => Ad ipsum ullamco de
+    [url_admin] => https://www.cypyhybylenelow.biz
+    [usuario_admin] => Cupiditate vel culpa
+    [contrasena_admin] => Pa$$w0rd!
+    [url_cpanel] => https://www.tohil.cc
+    [ns1] => Excepteur corporis u
+    [ns2] => In quia proident qu
+    [ns3] => Minim nemo aliqua L
+    [ns4] => Consectetur sit exc
+    [ns5] => In consequatur Culp
+    [ns6] => Dolores irure saepe 
+    [costo_dominio] => 36
+    [id_forma_pago] => 1
+    [costo_final] => 36
+    [registrado] => 1
+    [fecha_contratacion] => 1973-07-08
+    [fecha_pago] => 1988-06-18
+)
+
+2025-07-01 13:44:46 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 
+    [id_dominio] => 
+    [cliente_id] => 42
+    [proveedor] => Architecto vitae eli
+    [costo] => 36
+)
+
+2025-07-01 13:44:46 - Dominio registrado exitosamente - Data: Array
+(
+    [insert_id] => 124
+)
+
+2025-07-01 13:46:11 - Inicio de proceso - Método: POST
+2025-07-01 13:46:11 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 14
+    [cliente_id] => 10
+    [cliente] => 10
+    [proveedor] => 000000000
+    [url_dominio] => c-onlineweb.net
+    [url_admin] => https://c-onlineweb.net/serviciosweb-c-onlineweb/
+    [usuario_admin] => admin
+    [contrasena_admin] => !"*+&&&&akñopmc%%&&&
+    [url_cpanel] => 
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => dddd
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 349
+    [id_forma_pago] => 1
+    [costo_final] => 349
+    [registrado] => 0
+    [fecha_contratacion] => 2020-09-13
+    [fecha_pago] => 2021-09-12
+)
+
+2025-07-01 13:46:11 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 14
+    [cliente_id] => 10
+    [proveedor] => 000000000
+    [costo] => 349
+)
+
+2025-07-01 13:46:11 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 14
+    [affected_rows] => 1
+)
+
+2025-07-01 14:54:42 - Inicio de proceso - Método: POST
+2025-07-01 14:54:42 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 14
+    [cliente_id] => 10
+    [cliente] => 10
+    [proveedor] => 000000000
+    [url_dominio] => c-onlineweb.net
+    [url_admin] => https://c-onlineweb.net/serviciosweb-c-onlineweb/
+    [usuario_admin] => admin
+    [contrasena_admin] => !"*+&&&&akñopmc%%&&&
+    [url_cpanel] => 
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => dddd
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 340
+    [id_forma_pago] => 1
+    [costo_final] => 340
+    [registrado] => 0
+    [fecha_contratacion] => 2020-09-13
+    [fecha_pago] => 2021-09-12
+)
+
+2025-07-01 14:54:42 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 14
+    [cliente_id] => 10
+    [proveedor] => 000000000
+    [costo] => 340
+)
+
+2025-07-01 14:54:42 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 14
+    [affected_rows] => 1
+)
+
+2025-07-01 15:10:39 - Inicio de proceso - Método: POST
+2025-07-01 15:10:39 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 14
+    [cliente_id] => 10
+    [cliente] => 10
+    [proveedor] => 000000000
+    [url_dominio] => c-onlineweb.net
+    [url_admin] => https://c-onlineweb.net/serviciosweb-c-onlineweb/
+    [usuario_admin] => admin
+    [contrasena_admin] => !"*+&&&&akñopmc%%&&&
+    [url_cpanel] => 
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => dddd222
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 340
+    [id_forma_pago] => 1
+    [costo_final] => 340
+    [registrado] => 0
+    [fecha_contratacion] => 2020-09-13
+    [fecha_pago] => 2021-09-12
+)
+
+2025-07-01 15:10:39 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 14
+    [cliente_id] => 10
+    [proveedor] => 000000000
+    [costo] => 340
+)
+
+2025-07-01 15:10:39 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 14
+    [affected_rows] => 1
+)
+
+2025-07-01 15:43:22 - Inicio de proceso - Método: POST
+2025-07-01 15:43:22 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 0
+    [cliente] => 75
+    [proveedor] => Voluptate quas volup76
+    [url_dominio] => https://www.kunihobaly.me.uk54
+    [url_admin] => https://www.qasinyjoniwiro.biz
+    [usuario_admin] => pauloBot23
+    [contrasena_admin] => olaMiamor2323232
+    [url_cpanel] => https://www.jyjimosi4355345hati.me.uk
+    [ns1] => no gracias
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 78
+    [id_forma_pago] => 2
+    [costo_final] => 90.48
+    [registrado] => 1
+    [fecha_contratacion] => 2025-07-30
+    [fecha_pago] => 2025-07-30
+)
+
+2025-07-01 15:43:22 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 
+    [id_dominio] => 
+    [cliente_id] => 75
+    [proveedor] => Voluptate quas volup76
+    [costo] => 78
+)
+
+2025-07-01 15:43:22 - Dominio registrado exitosamente - Data: Array
+(
+    [insert_id] => 125
+)
+
+2025-07-01 15:47:55 - Inicio de proceso - Método: POST
+2025-07-01 15:47:55 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 125
+    [cliente_id] => 75
+    [cliente] => 75
+    [proveedor] => Voluptate quas volup76
+    [url_dominio] => https://www.kunihobaly.me.uk54
+    [url_admin] => https://www.qasinyjoniwiro.biz
+    [usuario_admin] => pauloBot2332
+    [contrasena_admin] => olaMiamor2323232
+    [url_cpanel] => https://www.jyjimosi4355345hati.me.uk
+    [ns1] => no gracias
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 78
+    [id_forma_pago] => 2
+    [costo_final] => 78
+    [registrado] => 1
+    [fecha_contratacion] => 2025-07-30
+    [fecha_pago] => 2025-07-30
+)
+
+2025-07-01 15:47:55 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 125
+    [cliente_id] => 75
+    [proveedor] => Voluptate quas volup76
+    [costo] => 78
+)
+
+2025-07-01 15:47:55 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 125
+    [affected_rows] => 1
+)
+
+2025-07-01 15:49:28 - Inicio de proceso - Método: POST
+2025-07-01 15:49:28 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 125
+    [cliente_id] => 75
+    [cliente] => 75
+    [proveedor] => No se que es eso
+    [url_dominio] => https://www.kunihobaly.me.uk54
+    [url_admin] => https://www.qasinyjoniwiro.biz
+    [usuario_admin] => pauloBot2332
+    [contrasena_admin] => olaMiamor2323232
+    [url_cpanel] => https://www.jyjimosi4355345hati.me.uk
+    [ns1] => no gracias
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 78
+    [id_forma_pago] => 2
+    [costo_final] => 78
+    [registrado] => 1
+    [fecha_contratacion] => 2025-07-30
+    [fecha_pago] => 2025-07-30
+)
+
+2025-07-01 15:49:28 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 125
+    [cliente_id] => 75
+    [proveedor] => No se que es eso
+    [costo] => 78
+)
+
+2025-07-01 15:49:28 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 125
+    [affected_rows] => 1
+)
+
+2025-07-01 19:23:29 - Inicio de proceso - Método: POST
+2025-07-01 19:23:29 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 12
+    [cliente_id] => 9
+    [cliente] => 9
+    [proveedor] => HostGator CWB
+    [url_dominio] => amidmedica.com
+    [url_admin] => https://amidmedica.com/wp-login.php
+    [usuario_admin] => server91
+    [contrasena_admin] => medicain5556@
+    [url_cpanel] => https://dedi-1331720.c-onlineweb.com:2083/
+    [ns1] => ns1.dns-parking.com
+    [ns2] => ns2.dns-parking.com
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 400
+    [id_forma_pago] => 1
+    [costo_final] => 400
+    [registrado] => 1
+    [fecha_contratacion] => 2023-01-02
+    [fecha_pago] => 2024-01-02
+)
+
+2025-07-01 19:23:29 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 12
+    [cliente_id] => 9
+    [proveedor] => HostGator CWB
+    [costo] => 400
+)
+
+2025-07-01 19:23:29 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 12
+    [affected_rows] => 1
+)
+
+2025-07-01 19:23:51 - Inicio de proceso - Método: POST
+2025-07-01 19:23:51 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 12
+    [cliente_id] => 9
+    [cliente] => 9
+    [proveedor] => HostGator CWB
+    [url_dominio] => amidmedica.com
+    [url_admin] => https://amidmedica.com/wp-login.php
+    [usuario_admin] => server91
+    [contrasena_admin] => medicain5556@
+    [url_cpanel] => https://dedi-1331720.c-onlineweb.com:2083/
+    [ns1] => ns1.dns-parking.com
+    [ns2] => ns2.dns-parking.com
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 400
+    [id_forma_pago] => 1
+    [costo_final] => 400
+    [registrado] => 1
+    [fecha_contratacion] => 2023-01-02
+    [fecha_pago] => 2025-12-12
+)
+
+2025-07-01 19:23:51 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 12
+    [cliente_id] => 9
+    [proveedor] => HostGator CWB
+    [costo] => 400
+)
+
+2025-07-01 19:23:51 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 12
+    [affected_rows] => 1
+)
+
+2025-07-02 18:35:07 - Inicio de proceso - Método: POST
+2025-07-02 18:35:07 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 0
+    [cliente] => 76
+    [proveedor] => Hostinger
+    [url_dominio] => worldaccess.com.mx
+    [url_admin] => https://worldaccess.com.mx/wp-login.php
+    [usuario_admin] => worldaccesscom
+    [contrasena_admin] => EZKLZzoiDnT*
+    [url_cpanel] => https://cpanel.worldaccess.com.mx:2083/
+    [ns1] => ns1.conlineweb.com.mx
+    [ns2] => ns2.conlineweb.com.mx
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 0
+    [id_forma_pago] => 1
+    [costo_final] => 0.00
+    [registrado] => 0
+    [fecha_contratacion] => 2025-12-16
+    [fecha_pago] => 2025-12-16
+)
+
+2025-07-02 18:35:07 - Campos faltantes - Data: Array
+(
+    [0] => costo_dominio
+)
+
+2025-07-02 18:35:07 - Error capturado: Faltan campos obligatorios: costo_dominio
+2025-07-02 18:35:18 - Inicio de proceso - Método: POST
+2025-07-02 18:35:18 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 0
+    [cliente] => 76
+    [proveedor] => Hostinger
+    [url_dominio] => worldaccess.com.mx
+    [url_admin] => https://worldaccess.com.mx/wp-login.php
+    [usuario_admin] => worldaccesscom
+    [contrasena_admin] => EZKLZzoiDnT*
+    [url_cpanel] => https://cpanel.worldaccess.com.mx:2083/
+    [ns1] => ns1.conlineweb.com.mx
+    [ns2] => ns2.conlineweb.com.mx
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 1
+    [id_forma_pago] => 1
+    [costo_final] => 1.16
+    [registrado] => 0
+    [fecha_contratacion] => 2025-12-16
+    [fecha_pago] => 2025-12-16
+)
+
+2025-07-02 18:35:18 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 
+    [id_dominio] => 
+    [cliente_id] => 76
+    [proveedor] => Hostinger
+    [costo] => 1
+)
+
+2025-07-02 18:35:18 - Dominio registrado exitosamente - Data: Array
+(
+    [insert_id] => 126
+)
+
+2025-07-02 18:37:37 - Inicio de proceso - Método: POST
+2025-07-02 18:37:37 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 126
+    [cliente_id] => 76
+    [cliente] => 76
+    [proveedor] => Hostinger
+    [url_dominio] => worldaccess.com.mx
+    [url_admin] => https://worldaccess.com.mx/wp-login.php
+    [usuario_admin] => worldaccesscom
+    [contrasena_admin] => EZKLZzoiDnT*
+    [url_cpanel] => https://cpanel.worldaccess.com.mx:2083/
+    [ns1] => ns1.conlineweb.com.mx
+    [ns2] => ns2.conlineweb.com.mx
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 0
+    [id_forma_pago] => 1
+    [costo_final] => 0
+    [registrado] => 0
+    [fecha_contratacion] => 2025-12-16
+    [fecha_pago] => 2025-12-16
+)
+
+2025-07-02 18:37:37 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 126
+    [cliente_id] => 76
+    [proveedor] => Hostinger
+    [costo] => 0
+)
+
+2025-07-02 18:37:37 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 126
+    [affected_rows] => 1
+)
+
+2025-07-04 00:18:18 - Inicio de proceso - Método: POST
+2025-07-04 00:18:18 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 50
+    [cliente_id] => 16
+    [cliente] => 16
+    [proveedor] => HostGator CWB
+    [url_dominio] => kelpie-card.com
+    [url_admin] => ##
+    [usuario_admin] => jclee
+    [contrasena_admin] => Host@web1*26
+    [url_cpanel] => https://cpanel.kelpie-card.com:2083
+    [ns1] => ns1.c-onlineweb.com
+    [ns2] => ns1.c-onlineweb.com
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 400
+    [id_forma_pago] => 1
+    [costo_final] => 400
+    [registrado] => 1
+    [fecha_contratacion] => 2021-02-04
+    [fecha_pago] => 2026-02-02
+)
+
+2025-07-04 00:18:18 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 50
+    [cliente_id] => 16
+    [proveedor] => HostGator CWB
+    [costo] => 400
+)
+
+2025-07-04 00:18:18 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 50
+    [affected_rows] => 1
+)
+
+2025-07-04 00:18:46 - Inicio de proceso - Método: POST
+2025-07-04 00:18:46 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 57
+    [cliente_id] => 21
+    [cliente] => 21
+    [proveedor] => HostGator CWB
+    [url_dominio] => colegos.com.mx
+    [url_admin] => https://cpanel.colegos.com.mx:2083/
+    [usuario_admin] => colegos
+    [contrasena_admin] => hhla7rf3@
+    [url_cpanel] => https://cpanel.colegos.com.mx:2083/
+    [ns1] => ns1.conlineweb.com.mx
+    [ns2] => ns2.conlineweb.com.mx
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 450
+    [id_forma_pago] => 1
+    [costo_final] => 450
+    [registrado] => 1
+    [fecha_contratacion] => 2021-10-30
+    [fecha_pago] => 2025-10-29
+)
+
+2025-07-04 00:18:46 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 57
+    [cliente_id] => 21
+    [proveedor] => HostGator CWB
+    [costo] => 450
+)
+
+2025-07-04 00:18:46 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 57
+    [affected_rows] => 1
+)
+
+2025-07-04 00:19:17 - Inicio de proceso - Método: POST
+2025-07-04 00:19:17 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 61
+    [cliente_id] => 24
+    [cliente] => 24
+    [proveedor] => HostGator
+    [url_dominio] => eblaw.com.mx
+    [url_admin] => https://eblaw.com.mx/wp-login.php
+    [usuario_admin] => eblaw
+    [contrasena_admin] => 4d2k1vr6658
+    [url_cpanel] => https://cpanel.eblaw.com.mx:2083/
+    [ns1] => ns1.conlineweb.com.mx
+    [ns2] => ns2.conlineweb.com.mx
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 450
+    [id_forma_pago] => 1
+    [costo_final] => 450
+    [registrado] => 1
+    [fecha_contratacion] => 2021-09-14
+    [fecha_pago] => 2025-08-12
+)
+
+2025-07-04 00:19:17 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 61
+    [cliente_id] => 24
+    [proveedor] => HostGator
+    [costo] => 450
+)
+
+2025-07-04 00:19:17 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 61
+    [affected_rows] => 1
+)
+
+2025-07-04 00:20:18 - Inicio de proceso - Método: POST
+2025-07-04 00:20:18 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 77
+    [cliente_id] => 42
+    [cliente] => 42
+    [proveedor] => 
+    [url_dominio] => dipropol.net
+    [url_admin] => https://dipropol.net/wp-login.php
+    [usuario_admin] => dipropol
+    [contrasena_admin] => nK%9Ca4t6>UM
+    [url_cpanel] => https://cpanel.dipropol.net:2083/
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 400
+    [id_forma_pago] => 1
+    [costo_final] => 400
+    [registrado] => 1
+    [fecha_contratacion] => 2023-10-25
+    [fecha_pago] => 2025-10-25
+)
+
+2025-07-04 00:20:18 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 77
+    [cliente_id] => 42
+    [proveedor] => 
+    [costo] => 400
+)
+
+2025-07-04 00:20:18 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 77
+    [affected_rows] => 1
+)
+
+2025-07-04 00:20:43 - Inicio de proceso - Método: POST
+2025-07-04 00:20:43 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 80
+    [cliente_id] => 44
+    [cliente] => 44
+    [proveedor] => HostGator CWB
+    [url_dominio] => otecelyon.cl
+    [url_admin] => https://cpanel.otecelyon.cl/
+    [usuario_admin] => otecelyon
+    [contrasena_admin] => gf87qtzb1cx4
+    [url_cpanel] => https://cpanel.otecelyon.cl:2083/
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 50
+    [id_forma_pago] => 2
+    [costo_final] => 50
+    [registrado] => 1
+    [fecha_contratacion] => 2023-11-04
+    [fecha_pago] => 2025-11-04
+)
+
+2025-07-04 00:20:43 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 80
+    [cliente_id] => 44
+    [proveedor] => HostGator CWB
+    [costo] => 50
+)
+
+2025-07-04 00:20:43 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 80
+    [affected_rows] => 1
+)
+
+2025-07-04 00:21:32 - Inicio de proceso - Método: POST
+2025-07-04 00:21:32 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 83
+    [cliente_id] => 47
+    [cliente] => 47
+    [proveedor] => Ionos
+    [url_dominio] => vipimpactovisual.com
+    [url_admin] => https://cpanel.vipimpactovisual.com/
+    [usuario_admin] => vipimpactovisual
+    [contrasena_admin] => riQK2m057Xt5
+    [url_cpanel] => https://cpanel.vipimpactovisual.com
+    [ns1] => ns1.c-onlineweb.com
+    [ns2] => ns2.c-onlineweb.com
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 450
+    [id_forma_pago] => 1
+    [costo_final] => 450
+    [registrado] => 1
+    [fecha_contratacion] => 2024-04-23
+    [fecha_pago] => 2026-04-22
+)
+
+2025-07-04 00:21:32 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 83
+    [cliente_id] => 47
+    [proveedor] => Ionos
+    [costo] => 450
+)
+
+2025-07-04 00:21:32 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 83
+    [affected_rows] => 1
+)
+
+2025-07-04 00:22:14 - Inicio de proceso - Método: POST
+2025-07-04 00:22:14 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 88
+    [cliente_id] => 51
+    [cliente] => 51
+    [proveedor] => HostGator CWB
+    [url_dominio] => absolutecold.com.mx
+    [url_admin] => https://absolutecold.com.mx/admin_serviciosweb/
+    [usuario_admin] => absolutecoldcom
+    [contrasena_admin] => qaAz#;j~s^j{ayuj
+    [url_cpanel] => https://cpanel.absolutecold.com.mx
+    [ns1] => ns1.c-onlineweb.com
+    [ns2] => ns2.c-onlineweb.com
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 480
+    [id_forma_pago] => 1
+    [costo_final] => 480
+    [registrado] => 1
+    [fecha_contratacion] => 2024-02-19
+    [fecha_pago] => 2026-01-18
+)
+
+2025-07-04 00:22:14 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 88
+    [cliente_id] => 51
+    [proveedor] => HostGator CWB
+    [costo] => 480
+)
+
+2025-07-04 00:22:14 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 88
+    [affected_rows] => 1
+)
+
+2025-07-04 00:37:15 - Inicio de proceso - Método: POST
+2025-07-04 00:37:15 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 91
+    [cliente_id] => 54
+    [cliente] => 54
+    [proveedor] => Godaddy
+    [url_dominio] => aspenmindset1.com
+    [url_admin] => https://aspenmindset1.com/wp-login.php/
+    [usuario_admin] => aspenmindset1
+    [contrasena_admin] => 9nR)}=2IZIPx
+    [url_cpanel] => https://cpanel.aspenmindset1.com
+    [ns1] => ns1.conlineweb.com.mx
+    [ns2] => ns1.conlineweb.com.mx
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 0
+    [id_forma_pago] => 1
+    [costo_final] => 0
+    [registrado] => 0
+    [fecha_contratacion] => 
+    [fecha_pago] => 
+)
+
+2025-07-04 00:37:15 - Error capturado: Formato de fecha de contratación inválido
+2025-07-04 00:37:17 - Inicio de proceso - Método: POST
+2025-07-04 00:37:17 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 91
+    [cliente_id] => 54
+    [cliente] => 54
+    [proveedor] => Godaddy
+    [url_dominio] => aspenmindset1.com
+    [url_admin] => https://aspenmindset1.com/wp-login.php/
+    [usuario_admin] => aspenmindset1
+    [contrasena_admin] => 9nR)}=2IZIPx
+    [url_cpanel] => https://cpanel.aspenmindset1.com
+    [ns1] => ns1.conlineweb.com.mx
+    [ns2] => ns1.conlineweb.com.mx
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 0
+    [id_forma_pago] => 1
+    [costo_final] => 0
+    [registrado] => 0
+    [fecha_contratacion] => 
+    [fecha_pago] => 
+)
+
+2025-07-04 00:37:17 - Error capturado: Formato de fecha de contratación inválido
+2025-07-04 00:37:46 - Inicio de proceso - Método: POST
+2025-07-04 00:37:46 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 91
+    [cliente_id] => 54
+    [cliente] => 54
+    [proveedor] => Godaddy
+    [url_dominio] => aspenmindset1.com
+    [url_admin] => https://aspenmindset1.com/wp-login.php/
+    [usuario_admin] => aspenmindset1
+    [contrasena_admin] => 9nR)}=2IZIPx
+    [url_cpanel] => https://cpanel.aspenmindset1.com
+    [ns1] => ns1.conlineweb.com.mx
+    [ns2] => ns1.conlineweb.com.mx
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 0
+    [id_forma_pago] => 1
+    [costo_final] => 0
+    [registrado] => 0
+    [fecha_contratacion] => 0001-01-01
+    [fecha_pago] => 0001-01-01
+)
+
+2025-07-04 00:37:46 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 91
+    [cliente_id] => 54
+    [proveedor] => Godaddy
+    [costo] => 0
+)
+
+2025-07-04 00:37:46 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 91
+    [affected_rows] => 1
+)
+
+2025-07-04 00:37:46 - Inicio de proceso - Método: POST
+2025-07-04 00:37:46 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 91
+    [cliente_id] => 54
+    [cliente] => 54
+    [proveedor] => Godaddy
+    [url_dominio] => aspenmindset1.com
+    [url_admin] => https://aspenmindset1.com/wp-login.php/
+    [usuario_admin] => aspenmindset1
+    [contrasena_admin] => 9nR)}=2IZIPx
+    [url_cpanel] => https://cpanel.aspenmindset1.com
+    [ns1] => ns1.conlineweb.com.mx
+    [ns2] => ns1.conlineweb.com.mx
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 0
+    [id_forma_pago] => 1
+    [costo_final] => 0
+    [registrado] => 0
+    [fecha_contratacion] => 0001-01-01
+    [fecha_pago] => 0001-01-01
+)
+
+2025-07-04 00:37:46 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 91
+    [cliente_id] => 54
+    [proveedor] => Godaddy
+    [costo] => 0
+)
+
+2025-07-04 00:37:46 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 91
+    [affected_rows] => 0
+)
+
+2025-07-04 00:47:29 - Inicio de proceso - Método: POST
+2025-07-04 00:47:29 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 34
+    [cliente_id] => 11
+    [cliente] => 11
+    [proveedor] => ionos
+    [url_dominio] => globalingredients.mx
+    [url_admin] => https://globalingredients.mx/wp-admin
+    [usuario_admin] => gloingredien
+    [contrasena_admin] => migkamg5556@
+    [url_cpanel] => https://cpanel.globalingredients.mx:2083
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 950
+    [id_forma_pago] => 1
+    [costo_final] => 950
+    [registrado] => 1
+    [fecha_contratacion] => 
+    [fecha_pago] => 2025-07-17
+)
+
+2025-07-04 00:47:29 - Error capturado: Formato de fecha de contratación inválido
+2025-07-04 00:48:02 - Inicio de proceso - Método: POST
+2025-07-04 00:48:02 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 34
+    [cliente_id] => 11
+    [cliente] => 11
+    [proveedor] => ionos
+    [url_dominio] => globalingredients.mx
+    [url_admin] => https://globalingredients.mx/wp-admin
+    [usuario_admin] => gloingredien
+    [contrasena_admin] => migkamg5556@
+    [url_cpanel] => https://cpanel.globalingredients.mx:2083
+    [ns1] => ns1.conlineweb.com.mx
+    [ns2] => ns2.conlineweb.com.mx
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 950
+    [id_forma_pago] => 1
+    [costo_final] => 950
+    [registrado] => 1
+    [fecha_contratacion] => 2024-07-17
+    [fecha_pago] => 2025-07-17
+)
+
+2025-07-04 00:48:02 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 34
+    [cliente_id] => 11
+    [proveedor] => ionos
+    [costo] => 950
+)
+
+2025-07-04 00:48:02 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 34
+    [affected_rows] => 1
+)
+
+2025-07-04 00:48:32 - Inicio de proceso - Método: POST
+2025-07-04 00:48:32 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 35
+    [cliente_id] => 11
+    [cliente] => 11
+    [proveedor] => ionos
+    [url_dominio] => globalingredients.com.mx
+    [url_admin] => https://globalingredients.mx/wp-admin
+    [usuario_admin] => gloingredien
+    [contrasena_admin] => migkamg5556@
+    [url_cpanel] => https://cpanel.globalingredients.com.mx:2083
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 400
+    [id_forma_pago] => 1
+    [costo_final] => 400
+    [registrado] => 1
+    [fecha_contratacion] => 2024-07-17
+    [fecha_pago] => 2025-07-17
+)
+
+2025-07-04 00:48:32 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 35
+    [cliente_id] => 11
+    [proveedor] => ionos
+    [costo] => 400
+)
+
+2025-07-04 00:48:32 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 35
+    [affected_rows] => 1
+)
+
+2025-07-04 00:50:09 - Inicio de proceso - Método: POST
+2025-07-04 00:50:09 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 46
+    [cliente_id] => 11
+    [cliente] => 11
+    [proveedor] => HostGator CWB
+    [url_dominio] => g-i.com.mx
+    [url_admin] => https://g-i.com.mx/wp-admin
+    [usuario_admin] => gloingredien
+    [contrasena_admin] => migkamg5556@
+    [url_cpanel] => https://cpanel.g-i.com.mx:2083
+    [ns1] => ns1.conlineweb.com.mx
+    [ns2] => ns2.conlineweb.com.mx
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 400
+    [id_forma_pago] => 1
+    [costo_final] => 400
+    [registrado] => 1
+    [fecha_contratacion] => 2021-06-28
+    [fecha_pago] => 2025-07-28
+)
+
+2025-07-04 00:50:09 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 46
+    [cliente_id] => 11
+    [proveedor] => HostGator CWB
+    [costo] => 400
+)
+
+2025-07-04 00:50:09 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 46
+    [affected_rows] => 1
+)
+
+2025-07-04 01:13:02 - Inicio de proceso - Método: POST
+2025-07-04 01:13:02 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 0
+    [cliente] => 77
+    [proveedor] => HostGator CWB
+    [url_dominio] => armandovisas.com
+    [url_admin] => https://armandovisas.com/wp-login.php
+    [usuario_admin] => armandovisas
+    [contrasena_admin] => 9nR)}=2IZIPx
+    [url_cpanel] => https://cpanelarmandovisas.com:2083
+    [ns1] => ns1.conlineweb.com.mx
+    [ns2] => ns2.conlineweb.com.mx
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 450
+    [id_forma_pago] => 1
+    [costo_final] => 450
+    [registrado] => 1
+    [fecha_contratacion] => 2025-03-10
+    [fecha_pago] => 2026-03-09
+)
+
+2025-07-04 01:13:02 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 
+    [id_dominio] => 
+    [cliente_id] => 77
+    [proveedor] => HostGator CWB
+    [costo] => 450
+)
+
+2025-07-04 01:13:02 - Dominio registrado exitosamente - Data: Array
+(
+    [insert_id] => 127
+)
+
+2025-07-04 13:32:53 - Inicio de proceso - Método: POST
+2025-07-04 13:32:53 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 24
+    [cliente_id] => 1
+    [cliente] => 1
+    [proveedor] => HostGator
+    [url_dominio] => gabinetesyracks.com
+    [url_admin] => https://gabinetesyracks.com/cpanel
+    [usuario_admin] => server94
+    [contrasena_admin] => @Elemsin1956
+    [url_cpanel] => https://cpanel.gabinetesyracks.com:2083
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 25
+    [id_forma_pago] => 2
+    [costo_final] => 25
+    [registrado] => 1
+    [fecha_contratacion] => 2024-09-16
+    [fecha_pago] => 2025-09-08
+)
+
+2025-07-04 13:32:53 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 24
+    [cliente_id] => 1
+    [proveedor] => HostGator
+    [costo] => 25
+)
+
+2025-07-04 13:32:53 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 24
+    [affected_rows] => 1
+)
+
+2025-07-04 13:33:20 - Inicio de proceso - Método: POST
+2025-07-04 13:33:20 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 23
+    [cliente_id] => 1
+    [cliente] => 1
+    [proveedor] => HostGator
+    [url_dominio] => gabinetesyracks.net
+    [url_admin] => https://gabinetesyracks.net/cpanel
+    [usuario_admin] => server94
+    [contrasena_admin] => @Elemsin1956
+    [url_cpanel] => https://cpanel.gabinetesyracks.net:2083
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 25
+    [id_forma_pago] => 2
+    [costo_final] => 25
+    [registrado] => 1
+    [fecha_contratacion] => 2024-09-16
+    [fecha_pago] => 2025-09-09
+)
+
+2025-07-04 13:33:20 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 23
+    [cliente_id] => 1
+    [proveedor] => HostGator
+    [costo] => 25
+)
+
+2025-07-04 13:33:20 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 23
+    [affected_rows] => 1
+)
+
+2025-07-04 13:35:35 - Inicio de proceso - Método: POST
+2025-07-04 13:35:35 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 19
+    [cliente_id] => 1
+    [cliente] => 1
+    [proveedor] => HostGator CWB
+    [url_dominio] => gabinetes-racks.com
+    [url_admin] => https://gabinetes-racks.com/cpanel
+    [usuario_admin] => server94
+    [contrasena_admin] => d41d8cd98f00b204e9800998ecf8427e
+    [url_cpanel] => https://cpanel.gabinetes-racks.com:2083
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 25
+    [id_forma_pago] => 2
+    [costo_final] => 25
+    [registrado] => 1
+    [fecha_contratacion] => 2022-05-10
+    [fecha_pago] => 2026-05-10
+)
+
+2025-07-04 13:35:35 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 19
+    [cliente_id] => 1
+    [proveedor] => HostGator CWB
+    [costo] => 25
+)
+
+2025-07-04 13:35:35 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 19
+    [affected_rows] => 1
+)
+
+2025-07-04 15:16:17 - Inicio de proceso - Método: POST
+2025-07-04 15:16:17 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 9
+    [cliente_id] => 7
+    [cliente] => 7
+    [proveedor] => Ionos
+    [url_dominio] => pastelesarcoiris.com
+    [url_admin] => https://pastelesarcoiris.com/wp-login.php
+    [usuario_admin] => pastelesarco
+    [contrasena_admin] => arco3536@
+    [url_cpanel] => https://cpanel.pastelesarcoiris.com:2083/
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 450
+    [id_forma_pago] => 1
+    [costo_final] => 450
+    [registrado] => 1
+    [fecha_contratacion] => 2024-10-13
+    [fecha_pago] => 2025-10-13
+)
+
+2025-07-04 15:16:17 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 9
+    [cliente_id] => 7
+    [proveedor] => Ionos
+    [costo] => 450
+)
+
+2025-07-04 15:16:17 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 9
+    [affected_rows] => 1
+)
+
+2025-07-04 15:17:05 - Inicio de proceso - Método: POST
+2025-07-04 15:17:05 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 70
+    [cliente_id] => 38
+    [cliente] => 38
+    [proveedor] => Goodaddy
+    [url_dominio] => riondabienesraices.mx
+    [url_admin] => https://riondabienesraices.mx/wp-login.php
+    [usuario_admin] => rionda
+    [contrasena_admin] => rt7d7tsca5i3
+    [url_cpanel] => https://cpanel.riondabienesraices.mx:2083/
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 0
+    [id_forma_pago] => 1
+    [costo_final] => 0
+    [registrado] => 0
+    [fecha_contratacion] => 
+    [fecha_pago] => 
+)
+
+2025-07-04 15:17:05 - Error capturado: Formato de fecha de contratación inválido
+2025-07-04 15:17:21 - Inicio de proceso - Método: POST
+2025-07-04 15:17:21 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 70
+    [cliente_id] => 38
+    [cliente] => 38
+    [proveedor] => Goodaddy
+    [url_dominio] => riondabienesraices.mx
+    [url_admin] => https://riondabienesraices.mx/wp-login.php
+    [usuario_admin] => rionda
+    [contrasena_admin] => rt7d7tsca5i3
+    [url_cpanel] => https://cpanel.riondabienesraices.mx:2083/
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 0
+    [id_forma_pago] => 1
+    [costo_final] => 0
+    [registrado] => 0
+    [fecha_contratacion] => 
+    [fecha_pago] => 
+)
+
+2025-07-04 15:17:21 - Error capturado: Formato de fecha de contratación inválido
+2025-07-04 15:18:26 - Inicio de proceso - Método: POST
+2025-07-04 15:18:26 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 100
+    [cliente_id] => 45
+    [cliente] => 45
+    [proveedor] => Hostgator 
+    [url_dominio] => kolanguages.com
+    [url_admin] => https://cpanel.kolanguages.com/
+    [usuario_admin] => kolanguages
+    [contrasena_admin] => ayorcql3n45u
+    [url_cpanel] => https://cpanel.kolanguages.com
+    [ns1] => ns1.c-onlineweb.com
+    [ns2] => ns1.c-onlineweb.com
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 500
+    [id_forma_pago] => 1
+    [costo_final] => 500
+    [registrado] => 1
+    [fecha_contratacion] => 2025-04-16
+    [fecha_pago] => 2026-04-16
+)
+
+2025-07-04 15:18:26 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 100
+    [cliente_id] => 45
+    [proveedor] => Hostgator
+    [costo] => 500
+)
+
+2025-07-04 15:18:26 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 100
+    [affected_rows] => 1
+)
+
+2025-07-04 15:24:01 - Inicio de proceso - Método: POST
+2025-07-04 15:24:01 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 70
+    [cliente_id] => 38
+    [cliente] => 38
+    [proveedor] => Goodaddy
+    [url_dominio] => riondabienesraices.mx
+    [url_admin] => https://riondabienesraices.mx/wp-login.php
+    [usuario_admin] => rionda
+    [contrasena_admin] => rt7d7tsca5i3
+    [url_cpanel] => https://cpanel.riondabienesraices.mx:2083/
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 0
+    [id_forma_pago] => 1
+    [costo_final] => 0
+    [registrado] => 0
+    [fecha_contratacion] => 
+    [fecha_pago] => 
+)
+
+2025-07-04 15:24:01 - Error capturado: Formato de fecha de contratación inválido
+2025-07-04 15:24:25 - Inicio de proceso - Método: POST
+2025-07-04 15:24:25 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 70
+    [cliente_id] => 38
+    [cliente] => 38
+    [proveedor] => Goodaddy
+    [url_dominio] => riondabienesraices.mx
+    [url_admin] => https://riondabienesraices.mx/wp-login.php
+    [usuario_admin] => rionda
+    [contrasena_admin] => rt7d7tsca5i3
+    [url_cpanel] => https://cpanel.riondabienesraices.mx:2083/
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 0
+    [id_forma_pago] => 1
+    [costo_final] => 0
+    [registrado] => 0
+    [fecha_contratacion] => 2025-07-04
+    [fecha_pago] => 2025-07-04
+)
+
+2025-07-04 15:24:25 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 70
+    [cliente_id] => 38
+    [proveedor] => Goodaddy
+    [costo] => 0
+)
+
+2025-07-04 15:24:25 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 70
+    [affected_rows] => 1
+)
+
+2025-07-04 16:24:17 - Inicio de proceso - Método: POST
+2025-07-04 16:24:17 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 79
+    [cliente_id] => 44
+    [cliente] => 44
+    [proveedor] => 
+    [url_dominio] => otecmayor.cl
+    [url_admin] => https://otecmayor.cl/wp-login.php
+    [usuario_admin] => otecmayor
+    [contrasena_admin] => 3bi3cql3n45u
+    [url_cpanel] => https://cpanel.otecmayor.cl:2083/
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 0
+    [id_forma_pago] => 1
+    [costo_final] => 0
+    [registrado] => 0
+    [fecha_contratacion] => 2025-07-04
+    [fecha_pago] => 2025-07-04
+)
+
+2025-07-04 16:24:17 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 79
+    [cliente_id] => 44
+    [proveedor] => 
+    [costo] => 0
+)
+
+2025-07-04 16:24:17 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 79
+    [affected_rows] => 1
+)
+
+2025-07-07 15:32:36 - Inicio de proceso - Método: POST
+2025-07-07 15:32:36 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 128
+    [cliente_id] => 10
+    [cliente] => 10
+    [proveedor] => 
+    [url_dominio] => otecmayor.cl
+    [url_admin] => https://otecmayor.cl/wp-login.php
+    [usuario_admin] => otecmayor
+    [contrasena_admin] => 3bi3cql3n45u
+    [url_cpanel] => https://cpanel.otecmayor.cl:2083/
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 67676
+    [id_forma_pago] => 1
+    [costo_final] => 67676
+    [registrado] => 0
+    [fecha_contratacion] => 2025-07-04
+    [fecha_pago] => 2025-07-04
+)
+
+2025-07-07 15:32:36 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 128
+    [cliente_id] => 10
+    [proveedor] => 
+    [costo] => 67676
+)
+
+2025-07-07 15:32:36 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 128
+    [affected_rows] => 1
+)
+
+2025-07-09 13:48:22 - Inicio de proceso - Método: POST
+2025-07-09 13:48:22 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 0
+    [cliente] => 78
+    [proveedor] => Goodaddy
+    [url_dominio] => jrcgroup.com.mx
+    [url_admin] => https://jrcgroup.com.mx/wp-login.php
+    [usuario_admin] => jrcgroupcom
+    [contrasena_admin] => rt7d7tsca5i3
+    [url_cpanel] => https://cpanel.jrcgroup.com.mx:2083
+    [ns1] => ns1.conlineweb.com.mx
+    [ns2] => ns2.conlineweb.com.mx
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 0
+    [id_forma_pago] => 1
+    [costo_final] => 0.00
+    [registrado] => 0
+    [fecha_contratacion] => 0001-01-01
+    [fecha_pago] => 0001-01-01
+)
+
+2025-07-09 13:48:22 - Campos faltantes - Data: Array
+(
+    [0] => costo_dominio
+)
+
+2025-07-09 13:48:22 - Error capturado: Faltan campos obligatorios: costo_dominio
+2025-07-09 13:48:29 - Inicio de proceso - Método: POST
+2025-07-09 13:48:29 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 0
+    [cliente] => 78
+    [proveedor] => Goodaddy
+    [url_dominio] => jrcgroup.com.mx
+    [url_admin] => https://jrcgroup.com.mx/wp-login.php
+    [usuario_admin] => jrcgroupcom
+    [contrasena_admin] => rt7d7tsca5i3
+    [url_cpanel] => https://cpanel.jrcgroup.com.mx:2083
+    [ns1] => ns1.conlineweb.com.mx
+    [ns2] => ns2.conlineweb.com.mx
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 5
+    [id_forma_pago] => 1
+    [costo_final] => 5.80
+    [registrado] => 0
+    [fecha_contratacion] => 0001-01-01
+    [fecha_pago] => 0001-01-01
+)
+
+2025-07-09 13:48:29 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 
+    [id_dominio] => 
+    [cliente_id] => 78
+    [proveedor] => Goodaddy
+    [costo] => 5
+)
+
+2025-07-09 13:48:29 - Dominio registrado exitosamente - Data: Array
+(
+    [insert_id] => 129
+)
+
+2025-07-14 15:21:33 - Inicio de proceso - Método: POST
+2025-07-14 15:21:33 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 0
+    [cliente] => 79
+    [proveedor] => Su empresa
+    [url_dominio] => jlsconsultor.mx
+    [url_admin] => https://jlsconsultor.mx/wp-login.php
+    [usuario_admin] => jlsconsultor
+    [contrasena_admin] => =&YD(YGur4[2
+    [url_cpanel] => https://cpanel.jlsconsultor.mx:2083
+    [ns1] => ns1.conlineweb.com.mx
+    [ns2] => ns2.conlineweb.com.mx
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 1
+    [id_forma_pago] => 1
+    [costo_final] => 1
+    [registrado] => 0
+    [fecha_contratacion] => 2025-07-14
+    [fecha_pago] => 2025-07-14
+)
+
+2025-07-14 15:21:33 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 
+    [id_dominio] => 
+    [cliente_id] => 79
+    [proveedor] => Su empresa
+    [costo] => 1
+)
+
+2025-07-14 15:21:33 - Dominio registrado exitosamente - Data: Array
+(
+    [insert_id] => 130
+)
+
+2025-07-14 20:52:18 - Inicio de proceso - Método: POST
+2025-07-14 20:52:18 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 79
+    [cliente_id] => 44
+    [cliente] => 44
+    [proveedor] => 
+    [url_dominio] => otecmayor.cl
+    [url_admin] => https://otecmayor.cl/wp-login.php
+    [usuario_admin] => otecmayor
+    [contrasena_admin] => =&YD(YGur4[2
+    [url_cpanel] => https://cpanel.otecmayor.cl:2083/
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 0
+    [id_forma_pago] => 1
+    [costo_final] => 0
+    [registrado] => 0
+    [fecha_contratacion] => 2025-07-04
+    [fecha_pago] => 2025-07-04
+)
+
+2025-07-14 20:52:18 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 79
+    [cliente_id] => 44
+    [proveedor] => 
+    [costo] => 0
+)
+
+2025-07-14 20:52:18 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 79
+    [affected_rows] => 1
+)
+
+2025-07-14 20:58:08 - Inicio de proceso - Método: POST
+2025-07-14 20:58:08 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 79
+    [cliente_id] => 80
+    [cliente] => 80
+    [proveedor] => 
+    [url_dominio] => otecmayor.cl
+    [url_admin] => https://otecmayor.cl/wp-login.php
+    [usuario_admin] => otecmayor
+    [contrasena_admin] => =&YD(YGur4[2
+    [url_cpanel] => https://cpanel.otecmayor.cl:2083/
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 20
+    [id_forma_pago] => 2
+    [costo_final] => 20
+    [registrado] => 1
+    [fecha_contratacion] => 2025-07-04
+    [fecha_pago] => 2025-07-04
+)
+
+2025-07-14 20:58:08 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 79
+    [cliente_id] => 80
+    [proveedor] => 
+    [costo] => 20
+)
+
+2025-07-14 20:58:08 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 79
+    [affected_rows] => 1
+)
+
+2025-07-15 15:41:53 - Inicio de proceso - Método: POST
+2025-07-15 15:41:53 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 14
+    [cliente_id] => 10
+    [cliente] => 75
+    [cambiar_cliente] => on
+    [proveedor] => 000000000
+    [url_dominio] => c-onlineweb.net
+    [url_admin] => https://c-onlineweb.net/serviciosweb-c-onlineweb/
+    [usuario_admin] => admin
+    [contrasena_admin] => !"*+&&&&akñopmc%%&&&
+    [url_cpanel] => 
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => dddd222
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 340
+    [id_forma_pago] => 1
+    [costo_final] => 394.40
+    [registrado] => 0
+    [fecha_contratacion] => 2020-09-13
+    [fecha_pago] => 2021-09-12
+)
+
+2025-07-15 15:41:53 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 14
+    [cliente_id] => 75
+    [proveedor] => 000000000
+    [costo] => 340
+)
+
+2025-07-15 15:41:53 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 14
+    [affected_rows] => 1
+)
+
+2025-07-15 15:42:11 - Inicio de proceso - Método: POST
+2025-07-15 15:42:11 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 14
+    [cliente_id] => 75
+    [cliente] => 10
+    [cambiar_cliente] => on
+    [proveedor] => 000000000
+    [url_dominio] => c-onlineweb.net
+    [url_admin] => https://c-onlineweb.net/serviciosweb-c-onlineweb/
+    [usuario_admin] => admin
+    [contrasena_admin] => !"*+&&&&akñopmc%%&&&
+    [url_cpanel] => 
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => dddd222
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 340
+    [id_forma_pago] => 1
+    [costo_final] => 394.40
+    [registrado] => 0
+    [fecha_contratacion] => 2020-09-13
+    [fecha_pago] => 2021-09-12
+)
+
+2025-07-15 15:42:11 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 14
+    [cliente_id] => 10
+    [proveedor] => 000000000
+    [costo] => 340
+)
+
+2025-07-15 15:42:11 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 14
+    [affected_rows] => 1
+)
+
+2025-07-15 15:45:21 - Inicio de proceso - Método: POST
+2025-07-15 15:45:21 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 14
+    [cliente_id] => 10
+    [cliente] => 75
+    [cambiar_cliente] => on
+    [proveedor] => 000000000
+    [url_dominio] => c-onlineweb.net
+    [url_admin] => https://c-onlineweb.net/serviciosweb-c-onlineweb/
+    [usuario_admin] => admin
+    [contrasena_admin] => !"*+&&&&akñopmc%%&&&
+    [url_cpanel] => 
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => dddd222
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 340
+    [id_forma_pago] => 1
+    [costo_final] => 394.40
+    [registrado] => 0
+    [fecha_contratacion] => 2020-09-13
+    [fecha_pago] => 2021-09-12
+)
+
+2025-07-15 15:45:21 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 14
+    [cliente_id] => 75
+    [proveedor] => 000000000
+    [costo] => 340
+)
+
+2025-07-15 15:45:21 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 14
+    [affected_rows] => 1
+)
+
+2025-07-15 15:45:49 - Inicio de proceso - Método: POST
+2025-07-15 15:45:49 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 14
+    [cliente_id] => 75
+    [cliente] => 10
+    [cambiar_cliente] => on
+    [proveedor] => 000000000
+    [url_dominio] => c-onlineweb.net
+    [url_admin] => https://c-onlineweb.net/serviciosweb-c-onlineweb/
+    [usuario_admin] => admin
+    [contrasena_admin] => !"*+&&&&akñopmc%%&&&
+    [url_cpanel] => 
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => dddd222
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 340
+    [id_forma_pago] => 1
+    [costo_final] => 394.40
+    [registrado] => 0
+    [fecha_contratacion] => 2020-09-13
+    [fecha_pago] => 2021-09-12
+)
+
+2025-07-15 15:45:49 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 14
+    [cliente_id] => 10
+    [proveedor] => 000000000
+    [costo] => 340
+)
+
+2025-07-15 15:45:49 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 14
+    [affected_rows] => 1
+)
+
+2025-07-15 22:28:16 - Inicio de proceso - Método: POST
+2025-07-15 22:28:16 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 0
+    [cliente] => 40
+    [proveedor] => Ionos
+    [url_dominio] => dj-fy.com
+    [url_admin] => https://dj-fy.com/wp-login.php
+    [usuario_admin] => djfy
+    [contrasena_admin] => temporal3656
+    [url_cpanel] => https://cpanel.dj-fy.com:2083
+    [ns1] => ns1.conlineweb.com.mx
+    [ns2] => ns2.conlineweb.com.mx
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 480
+    [id_forma_pago] => 1
+    [costo_final] => 480
+    [registrado] => 1
+    [fecha_contratacion] => 2025-07-09
+    [fecha_pago] => 2025-07-09
+)
+
+2025-07-15 22:28:16 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 
+    [id_dominio] => 
+    [cliente_id] => 40
+    [proveedor] => Ionos
+    [costo] => 480
+)
+
+2025-07-15 22:28:16 - Dominio registrado exitosamente - Data: Array
+(
+    [insert_id] => 131
+)
+
+2025-07-15 22:44:36 - Inicio de proceso - Método: POST
+2025-07-15 22:44:36 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 131
+    [cliente_id] => 40
+    [cliente] => 40
+    [cliente_nuevo] => 40
+    [proveedor] => Ionos
+    [url_dominio] => dj-fy.com
+    [url_admin] => https://dj-fy.com/wp-login.php
+    [usuario_admin] => djfy
+    [contrasena_admin] => temporal3656
+    [url_cpanel] => https://cpanel.dj-fy.com:2083
+    [ns1] => ns1.conlineweb.com.mx
+    [ns2] => ns2.conlineweb.com.mx
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 450
+    [id_forma_pago] => 1
+    [costo_final] => 450
+    [registrado] => 1
+    [fecha_contratacion] => 2025-07-09
+    [fecha_pago] => 2025-07-09
+)
+
+2025-07-15 22:44:36 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 131
+    [cliente_id] => 40
+    [proveedor] => Ionos
+    [costo] => 450
+)
+
+2025-07-15 22:44:36 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 131
+    [affected_rows] => 1
+)
+
+2025-07-16 00:11:14 - Inicio de proceso - Método: POST
+2025-07-16 00:11:14 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 131
+    [cliente_id] => 40
+    [cliente] => 40
+    [cliente_nuevo] => 40
+    [proveedor] => Ionos
+    [url_dominio] => dj-fy.com
+    [url_admin] => https://dj-fy.com/wp-login.php
+    [usuario_admin] => djfy
+    [contrasena_admin] => temporal3656
+    [url_cpanel] => https://cpanel.dj-fy.com:2083
+    [ns1] => ns1.conlineweb.com.mx
+    [ns2] => ns2.conlineweb.com.mx
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 450
+    [id_forma_pago] => 1
+    [costo_final] => 450
+    [registrado] => 1
+    [fecha_contratacion] => 2025-07-09
+    [fecha_pago] => 2026-07-09
+)
+
+2025-07-16 00:11:14 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 131
+    [cliente_id] => 40
+    [proveedor] => Ionos
+    [costo] => 450
+)
+
+2025-07-16 00:11:14 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 131
+    [affected_rows] => 1
+)
+
+2025-07-16 00:21:42 - Inicio de proceso - Método: POST
+2025-07-16 00:21:42 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 72
+    [cliente_id] => 40
+    [cliente] => 40
+    [cliente_nuevo] => 40
+    [proveedor] => HostGator CWB
+    [url_dominio] => proofy.com.mx
+    [url_admin] => https://proofy.com.mx/wp-login.php
+    [usuario_admin] => encuestas
+    [contrasena_admin] => e1918n8edx5q
+    [url_cpanel] => https://cpanel.proofy.com.mx:2083/
+    [ns1] => ns1.conlineweb.com.mx
+    [ns2] => ns2.conlineweb.com.mx
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 450
+    [id_forma_pago] => 1
+    [costo_final] => 450
+    [registrado] => 1
+    [fecha_contratacion] => 2023-06-12
+    [fecha_pago] => 2026-06-10
+)
+
+2025-07-16 00:21:42 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 72
+    [cliente_id] => 40
+    [proveedor] => HostGator CWB
+    [costo] => 450
+)
+
+2025-07-16 00:21:42 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 72
+    [affected_rows] => 1
+)
+
+2025-07-16 00:21:42 - Inicio de proceso - Método: POST
+2025-07-16 00:21:42 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 72
+    [cliente_id] => 40
+    [cliente] => 40
+    [cliente_nuevo] => 40
+    [proveedor] => HostGator CWB
+    [url_dominio] => proofy.com.mx
+    [url_admin] => https://proofy.com.mx/wp-login.php
+    [usuario_admin] => encuestas
+    [contrasena_admin] => e1918n8edx5q
+    [url_cpanel] => https://cpanel.proofy.com.mx:2083/
+    [ns1] => ns1.conlineweb.com.mx
+    [ns2] => ns2.conlineweb.com.mx
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 450
+    [id_forma_pago] => 1
+    [costo_final] => 450
+    [registrado] => 1
+    [fecha_contratacion] => 2023-06-12
+    [fecha_pago] => 2026-06-10
+)
+
+2025-07-16 00:21:42 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 72
+    [cliente_id] => 40
+    [proveedor] => HostGator CWB
+    [costo] => 450
+)
+
+2025-07-16 00:21:42 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 72
+    [affected_rows] => 0
+)
+
+2025-07-16 00:21:42 - Inicio de proceso - Método: POST
+2025-07-16 00:21:42 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 72
+    [cliente_id] => 40
+    [cliente] => 40
+    [cliente_nuevo] => 40
+    [proveedor] => HostGator CWB
+    [url_dominio] => proofy.com.mx
+    [url_admin] => https://proofy.com.mx/wp-login.php
+    [usuario_admin] => encuestas
+    [contrasena_admin] => e1918n8edx5q
+    [url_cpanel] => https://cpanel.proofy.com.mx:2083/
+    [ns1] => ns1.conlineweb.com.mx
+    [ns2] => ns2.conlineweb.com.mx
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 450
+    [id_forma_pago] => 1
+    [costo_final] => 450
+    [registrado] => 1
+    [fecha_contratacion] => 2023-06-12
+    [fecha_pago] => 2026-06-10
+)
+
+2025-07-16 00:21:42 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 72
+    [cliente_id] => 40
+    [proveedor] => HostGator CWB
+    [costo] => 450
+)
+
+2025-07-16 00:21:42 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 72
+    [affected_rows] => 0
+)
+
+2025-07-19 23:59:53 - Inicio de proceso - Método: POST
+2025-07-19 23:59:53 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 96
+    [cliente_id] => 10
+    [cliente] => 10
+    [cliente_nuevo] => 10
+    [proveedor] => conlineweb.com.mx
+    [url_dominio] => conlineweb.com.mx
+    [url_admin] => https://conlineweb.com/serviciosweb-c-onlineweb/?
+    [usuario_admin] => root
+    [contrasena_admin] => Hhla7rf3@mx
+    [url_cpanel] => https://162.214.74.215:2083/
+    [ns1] => ns1.conlineweb.com.mx
+    [ns2] => ns1.conlineweb.com.mx
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 500
+    [id_forma_pago] => 1
+    [costo_final] => 580.00
+    [registrado] => 1
+    [fecha_contratacion] => 2024-11-29
+    [fecha_pago] => 2025-11-29
+)
+
+2025-07-19 23:59:53 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 96
+    [cliente_id] => 10
+    [proveedor] => conlineweb.com.mx
+    [costo] => 500
+)
+
+2025-07-19 23:59:53 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 96
+    [affected_rows] => 1
+)
+
+2025-07-20 00:00:55 - Inicio de proceso - Método: POST
+2025-07-20 00:00:55 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 96
+    [cliente_id] => 10
+    [cliente] => 10
+    [cliente_nuevo] => 10
+    [proveedor] => conlineweb.com.mx
+    [url_dominio] => conlineweb.com.mx
+    [url_admin] => https://conlineweb.com/serviciosweb-c-onlineweb/?
+    [usuario_admin] => root
+    [contrasena_admin] => Hhla7rf3@mx
+    [url_cpanel] => https://162.214.74.215:2086/
+    [ns1] => ns1.conlineweb.com.mx
+    [ns2] => ns1.conlineweb.com.mx
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 500
+    [id_forma_pago] => 1
+    [costo_final] => 580.00
+    [registrado] => 1
+    [fecha_contratacion] => 2024-11-29
+    [fecha_pago] => 2025-11-29
+)
+
+2025-07-20 00:00:55 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 96
+    [cliente_id] => 10
+    [proveedor] => conlineweb.com.mx
+    [costo] => 500
+)
+
+2025-07-20 00:00:55 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 96
+    [affected_rows] => 1
+)
+
+2025-07-20 00:01:37 - Inicio de proceso - Método: POST
+2025-07-20 00:01:37 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 96
+    [cliente_id] => 10
+    [cliente] => 10
+    [cliente_nuevo] => 10
+    [proveedor] => conlineweb.com.mx
+    [url_dominio] => conlineweb.com.mx
+    [url_admin] => https://conlineweb.com/serviciosweb-c-onlineweb/?
+    [usuario_admin] => root
+    [contrasena_admin] => Hhla7rf3@mx
+    [url_cpanel] => http://162.214.74.215:2086/
+    [ns1] => ns1.conlineweb.com.mx
+    [ns2] => ns1.conlineweb.com.mx
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 500
+    [id_forma_pago] => 1
+    [costo_final] => 580.00
+    [registrado] => 1
+    [fecha_contratacion] => 2024-11-29
+    [fecha_pago] => 2025-11-29
+)
+
+2025-07-20 00:01:37 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 96
+    [cliente_id] => 10
+    [proveedor] => conlineweb.com.mx
+    [costo] => 500
+)
+
+2025-07-20 00:01:37 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 96
+    [affected_rows] => 1
+)
+
+2025-07-20 13:45:12 - Inicio de proceso - Método: POST
+2025-07-20 13:45:12 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 62
+    [cliente_id] => 10
+    [cliente] => 10
+    [cliente_nuevo] => 10
+    [proveedor] => HostGator CWB
+    [url_dominio] => conlineweb.com
+    [url_admin] => https://conlineweb.com/serviciosweb-c-onlineweb/
+    [usuario_admin] => conlineweb
+    [contrasena_admin] => d41d8cd98f00b204e9800998ecf8427e
+    [url_cpanel] => https://cpanel.conlineweb.com:2083/
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 450
+    [id_forma_pago] => 1
+    [costo_final] => 522.00
+    [registrado] => 1
+    [fecha_contratacion] => 2022-11-25
+    [fecha_pago] => 2026-05-07
+)
+
+2025-07-20 13:45:12 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 62
+    [cliente_id] => 10
+    [proveedor] => HostGator CWB
+    [costo] => 450
+)
+
+2025-07-20 13:45:12 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 62
+    [affected_rows] => 1
+)
+
+2025-07-20 19:50:01 - Inicio de proceso - Método: POST
+2025-07-20 19:50:01 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 0
+    [cliente] => 81
+    [proveedor] => HostGator CWB
+    [url_dominio] => versallescosmetics.com.mx
+    [url_admin] => https://versallescosmetics.com.mx/wp-login.php
+    [usuario_admin] => versallescosmeti
+    [contrasena_admin] => e1918n8edx5q
+    [url_cpanel] => https://cpanel.versallescosmetics.com.mx:2083
+    [ns1] => ns1.conlineweb.com.mx
+    [ns2] => ns2.conlineweb.com.mx
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 500
+    [id_forma_pago] => 1
+    [costo_final] => 500
+    [registrado] => 1
+    [fecha_contratacion] => 2025-05-26
+    [fecha_pago] => 2026-05-25
+)
+
+2025-07-20 19:50:01 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 
+    [id_dominio] => 
+    [cliente_id] => 81
+    [proveedor] => HostGator CWB
+    [costo] => 500
+)
+
+2025-07-20 19:50:01 - Dominio registrado exitosamente - Data: Array
+(
+    [insert_id] => 132
+)
+
+2025-07-28 20:44:16 - Inicio de proceso - Método: POST
+2025-07-28 20:44:16 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 70
+    [cliente_id] => 38
+    [cliente] => 38
+    [cliente_nuevo] => 38
+    [proveedor] => Goodaddy
+    [url_dominio] => riondabienesraices.mx
+    [url_admin] => https://riondabienesraices.mx/wp-login.php
+    [usuario_admin] => rionda
+    [contrasena_admin] => rt7d7tsca5i3
+    [url_cpanel] => https://cpanel.riondabienesraices.mx:2083/
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 0
+    [id_forma_pago] => 1
+    [costo_final] => 0
+    [registrado] => 0
+    [fecha_contratacion] => 2025-07-04
+    [fecha_pago] => 2025-11-24
+)
+
+2025-07-28 20:44:16 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 70
+    [cliente_id] => 38
+    [proveedor] => Goodaddy
+    [costo] => 0
+)
+
+2025-07-28 20:44:16 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 70
+    [affected_rows] => 1
+)
+
+2025-07-30 21:46:20 - Inicio de proceso - Método: POST
+2025-07-30 21:46:20 - Datos POST recibidos - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 45
+    [cliente_id] => 11
+    [cliente] => 11
+    [cliente_nuevo] => 11
+    [proveedor] => HostGator CWB
+    [url_dominio] => s-c.com.mx
+    [url_admin] => https://s-c.com.mx/wp-admin
+    [usuario_admin] => gloingredien
+    [contrasena_admin] => migkamg5556@
+    [url_cpanel] => https://cpanel.s-c.com.mx:2083
+    [ns1] => 
+    [ns2] => 
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [costo_dominio] => 400
+    [id_forma_pago] => 1
+    [costo_final] => 464.00
+    [registrado] => 1
+    [fecha_contratacion] => 2021-06-23
+    [fecha_pago] => 2025-06-23
+)
+
+2025-07-30 21:46:20 - Datos procesados correctamente - Data: Array
+(
+    [modo_edicion] => 1
+    [id_dominio] => 45
+    [cliente_id] => 11
+    [proveedor] => HostGator CWB
+    [costo] => 400
+)
+
+2025-07-30 21:46:20 - Dominio actualizado exitosamente - Data: Array
+(
+    [id_dominio] => 45
+    [affected_rows] => 1
+)
+

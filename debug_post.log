@@ -1,0 +1,23 @@
+Array
+(
+    [id_dominio] => 12
+    [cliente_id] => 9
+    [proveedor] => HostGator CWB
+    [url_dominio] => https://amidmedica.com
+    [estado_dominio] => 1
+    [registrado] => 1
+    [fecha_contratacion] => 2023-01-02
+    [fecha_pago] => 2025-12-12
+    [costo_dominio] => 450
+    [id_forma_pago] => 1
+    [ns1] => ns1.dns-parking.com
+    [ns2] => ns2.dns-parking.com
+    [ns3] => 
+    [ns4] => 
+    [ns5] => 
+    [ns6] => 
+    [usuario_admin] => ----
+    [contrasena_admin] => -----
+    [url_admin] => https://amidmedica.com/wp-login.php
+    [url_cpanel] => https://dedi-1331720.c-onlineweb.com:2083/
+)

@@ -1,0 +1,109 @@
+2025-07-15 23:40:45 - === INICIO DE SOLICITUD ===
+2025-07-15 23:40:45 - Método: POST
+2025-07-15 23:40:45 - POST data: Array
+(
+    [especificacion] => 
+    [id] => 40
+    [nombre] => Ismael Yebra
+    [empresa] => 
+    [country_code] => +52
+    [telefono] => +524773092574
+    [email] => ismelyebra01@gmail.com
+    [rsocial] => 
+    [rfc] => 
+    [calle] => 
+    [next] => 
+    [nint] => 
+    [colonia] => 
+    [cp] => 
+    [pais] => 
+    [privacyPolicyCheck] => on
+    [facturacion] => 0
+)
+
+2025-07-15 23:40:45 - FILES data: Array
+(
+)
+
+2025-07-15 23:40:45 - Headers: Array
+(
+    [Connection] => keep-alive
+    [Accept-Encoding] => gzip, deflate, br
+    [Priority] => u=3, i
+    [Accept-Language] => es-MX,es-419;q=0.9,es;q=0.8
+    [X-Requested-With] => XMLHttpRequest
+    [Sec-Fetch-Dest] => empty
+    [Referer] => https://adm.conlineweb.com/validacion-cliente.php?id=40
+    [User-Agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+    [Sec-Fetch-Mode] => cors
+    [Content-Length] => 1807
+    [Origin] => https://adm.conlineweb.com
+    [Sec-Fetch-Site] => same-origin
+    [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryqWUOeZ7tI4oPNzvx
+    [Accept] => */*
+    [Host] => adm.conlineweb.com
+)
+
+2025-07-15 23:40:45 - Datos procesados:
+2025-07-15 23:40:45 - ID: 40, Nombre: Ismael Yebra, Correo: ismelyebra01@gmail.com, Teléfono: +524773092574
+2025-07-15 23:40:45 - Facturación requerida: Sí
+2025-07-15 23:40:45 - Generando nuevas credenciales...
+2025-07-15 23:40:45 - Iniciando transacción en la base de datos...
+2025-07-15 23:40:45 - Transacción completada con éxito
+2025-07-15 23:40:45 - Preparando envío de correo a ismelyebra01@gmail.com...
+2025-07-15 23:40:48 - Proceso completado con éxito
+2025-07-15 23:47:02 - === INICIO DE SOLICITUD ===
+2025-07-15 23:47:02 - Método: POST
+2025-07-15 23:47:02 - POST data: Array
+(
+    [especificacion] => 
+    [id] => 40
+    [nombre] => Ismael Yebra
+    [empresa] => 
+    [country_code] => +52
+    [telefono] => +524773092574
+    [email] => ismaelyebra01@gmail.com
+    [rsocial] => 
+    [rfc] => 
+    [calle] => 
+    [next] => 
+    [nint] => 
+    [colonia] => 
+    [cp] => 
+    [pais] => 
+    [municipio] => 
+    [privacyPolicyCheck] => on
+    [facturacion] => 0
+)
+
+2025-07-15 23:47:02 - FILES data: Array
+(
+)
+
+2025-07-15 23:47:02 - Headers: Array
+(
+    [Connection] => keep-alive
+    [Accept-Encoding] => gzip, deflate, br
+    [Priority] => u=3, i
+    [Accept-Language] => es-MX,es-419;q=0.9,es;q=0.8
+    [X-Requested-With] => XMLHttpRequest
+    [Sec-Fetch-Dest] => empty
+    [Referer] => https://adm.conlineweb.com/validacion-cliente.php?id=40
+    [User-Agent] => Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1
+    [Sec-Fetch-Mode] => cors
+    [Content-Length] => 1904
+    [Origin] => https://adm.conlineweb.com
+    [Sec-Fetch-Site] => same-origin
+    [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundarymPVgNLyGs2wqIxq6
+    [Accept] => */*
+    [Host] => adm.conlineweb.com
+)
+
+2025-07-15 23:47:02 - Datos procesados:
+2025-07-15 23:47:02 - ID: 40, Nombre: Ismael Yebra, Correo: ismaelyebra01@gmail.com, Teléfono: +524773092574
+2025-07-15 23:47:02 - Facturación requerida: Sí
+2025-07-15 23:47:02 - Generando nuevas credenciales...
+2025-07-15 23:47:02 - Iniciando transacción en la base de datos...
+2025-07-15 23:47:02 - Transacción completada con éxito
+2025-07-15 23:47:02 - Preparando envío de correo a ismaelyebra01@gmail.com...
+2025-07-15 23:47:03 - Proceso completado con éxito

@@ -1,0 +1,80 @@
+2025-06-26 14:31:13 - === INICIO DE SOLICITUD ===
+2025-06-26 14:31:13 - Método: POST
+2025-06-26 14:31:13 - POST data: Array
+(
+    [especificacion] => 
+    [id] => 47
+    [nombre] => Carlos Bermejo
+    [empresa] => Vip Impacto Visual
+    [country_code] => +52
+    [telefono] => +525541815503
+    [email] => mcapublicidad19@gmail.com
+    [requiereFacturacion] => on
+    [rsocial] => David Miguel Cruz Soto 
+    [rfc] => CUSD650205SGA
+    [calle] => Ayuntamiento 
+    [next] => 159
+    [nint] => B
+    [colonia] => Centro
+    [cp] => 06040
+    [pais] => México 
+    [estado] => 9
+    [municipio] => 223
+    [privacyPolicyCheck] => on
+    [facturacion] => 1
+)
+
+2025-06-26 14:31:13 - FILES data: Array
+(
+    [constancia_fiscal] => Array
+        (
+            [name] => Screenshot_2025-06-26-12-28-50-348_com.google.android.apps.docs.jpg
+            [full_path] => Screenshot_2025-06-26-12-28-50-348_com.google.android.apps.docs.jpg
+            [type] => image/jpeg
+            [tmp_name] => /tmp/php4XARVL
+            [error] => 0
+            [size] => 722210
+        )
+
+)
+
+2025-06-26 14:31:13 - Headers: Array
+(
+    [Accept-Language] => es-MX,es-419;q=0.9,es;q=0.8,en;q=0.7
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Referer] => https://adm.conlineweb.com/validacion-cliente.php?id=47
+    [Sec-Fetch-Dest] => empty
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Site] => same-origin
+    [Origin] => https://adm.conlineweb.com
+    [Sec-Ch-Ua-Mobile] => ?1
+    [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryNrrdawsO6fFaAZf6
+    [Sec-Ch-Ua] => "Google Chrome";v="137", "Chromium";v="137", "Not/A)Brand";v="24"
+    [Accept] => */*
+    [User-Agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Mobile Safari/537.36
+    [X-Requested-With] => XMLHttpRequest
+    [Sec-Ch-Ua-Platform] => "Android"
+    [Content-Length] => 724625
+    [Connection] => keep-alive
+    [Host] => adm.conlineweb.com
+)
+
+2025-06-26 14:31:13 - Datos procesados:
+2025-06-26 14:31:13 - ID: 47, Nombre: Carlos Bermejo, Correo: mcapublicidad19@gmail.com, Teléfono: +525541815503
+2025-06-26 14:31:13 - Facturación requerida: Sí
+2025-06-26 14:31:13 - Detalles del archivo: Array
+(
+    [name] => Screenshot_2025-06-26-12-28-50-348_com.google.android.apps.docs.jpg
+    [full_path] => Screenshot_2025-06-26-12-28-50-348_com.google.android.apps.docs.jpg
+    [type] => image/jpeg
+    [tmp_name] => /tmp/php4XARVL
+    [error] => 0
+    [size] => 722210
+)
+
+2025-06-26 14:31:13 - Archivo guardado como: constancia_47_1750962673.jpg
+2025-06-26 14:31:13 - Generando nuevas credenciales...
+2025-06-26 14:31:13 - Iniciando transacción en la base de datos...
+2025-06-26 14:31:13 - Transacción completada con éxito
+2025-06-26 14:31:13 - Preparando envío de correo a mcapublicidad19@gmail.com...
+2025-06-26 14:31:15 - Proceso completado con éxito

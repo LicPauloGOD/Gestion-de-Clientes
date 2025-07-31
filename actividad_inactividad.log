@@ -1,0 +1,636 @@
+[2025-07-16 10:44:19] === INICIANDO VERIFICACIÓN DE ESTADOS DE PRODUCTOS ===
+[2025-07-16 10:44:19] Fecha actual: 2025-07-16
+[2025-07-16 10:44:19] --- Verificando productos de HOSTING ---
+[2025-07-16 10:44:19] Hosting vencidos encontrados: 11
+[2025-07-16 10:44:19] ✅ Hosting desactivado: ID 6 - cpanel.viajesnirvana.com (Fecha pago: 2021-11-20)
+[2025-07-16 10:44:19] ✅ Hosting desactivado: ID 16 - cpanel.albainmuebles.com.mx (Fecha pago: 2022-04-14)
+[2025-07-16 10:44:19] ✅ Hosting desactivado: ID 25 - cpanel.globalingredients.mx (Fecha pago: 2025-07-16)
+[2025-07-16 10:44:19] ✅ Hosting desactivado: ID 36 - cpanel.dreamerplas.cl (Fecha pago: 2023-04-09)
+[2025-07-16 10:44:19] ✅ Hosting desactivado: ID 42 - cpanel.rapifood.com.mx (Fecha pago: 2024-08-13)
+[2025-07-16 10:44:19] ✅ Hosting desactivado: ID 43 - cpanel.joblink.mx (Fecha pago: 2024-09-21)
+[2025-07-16 10:44:19] ✅ Hosting desactivado: ID 56 - cpanel.srmautomation.net  (Fecha pago: 2024-08-24)
+[2025-07-16 10:44:19] ✅ Hosting desactivado: ID 71 - cpanel.Est sed et aperiam i (Fecha pago: 2018-08-10)
+[2025-07-16 10:44:19] ✅ Hosting desactivado: ID 72 - cpanel. (Fecha pago: 0000-00-00)
+[2025-07-16 10:44:19] ✅ Hosting desactivado: ID 76 - cpanel.Id eveniet et omni (Fecha pago: 2023-10-10)
+[2025-07-16 10:44:19] ✅ Hosting desactivado: ID 80 - cpanel.globalingredients.mx (Fecha pago: 2025-07-16)
+[2025-07-16 10:44:19] --- Verificando DOMINIOS ---
+[2025-07-16 10:44:19] ❌ ERROR: Unknown column 'estado_producto' in 'field list'
+[2025-07-16 10:46:38] === INICIANDO VERIFICACIÓN DE ESTADOS DE PRODUCTOS ===
+[2025-07-16 10:46:38] Fecha actual: 2025-07-16
+[2025-07-16 10:46:38] --- Verificando productos de HOSTING ---
+[2025-07-16 10:46:38] Hosting vencidos encontrados: 0
+[2025-07-16 10:46:38] --- Verificando DOMINIOS ---
+[2025-07-16 10:46:38] Dominios vencidos encontrados: 43
+[2025-07-16 10:46:38] ✅ Dominio desactivado: ID 1 - gabinetesyracks.com.pe (Fecha pago: 0000-11-30)
+[2025-07-16 10:46:38] ✅ Dominio desactivado: ID 2 - fibraopticaingenieros.pe (Fecha pago: 0000-00-00)
+[2025-07-16 10:46:38] ✅ Dominio desactivado: ID 5 - viajesnirvana.com (Fecha pago: 2023-11-18)
+[2025-07-16 10:46:38] ✅ Dominio desactivado: ID 14 - c-onlineweb.net (Fecha pago: 2021-09-12)
+[2025-07-16 10:46:38] ✅ Dominio desactivado: ID 15 - albainmuebles.com.mx (Fecha pago: 2025-06-14)
+[2025-07-16 10:46:38] ✅ Dominio desactivado: ID 20 - elemsin.com.pe (Fecha pago: 0000-00-00)
+[2025-07-16 10:46:38] ✅ Dominio desactivado: ID 22 - gabinetesyracks.pe (Fecha pago: 0000-00-00)
+[2025-07-16 10:46:38] ✅ Dominio desactivado: ID 45 - s-c.com.mx (Fecha pago: 2025-06-23)
+[2025-07-16 10:46:38] ✅ Dominio desactivado: ID 58 - elemsin.pe (Fecha pago: 0000-00-00)
+[2025-07-16 10:46:38] ✅ Dominio desactivado: ID 67 - dreamerplas.cl (Fecha pago: 0000-00-00)
+[2025-07-16 10:46:38] ✅ Dominio desactivado: ID 70 - riondabienesraices.mx (Fecha pago: 2025-07-04)
+[2025-07-16 10:46:38] ✅ Dominio desactivado: ID 73 - rapifood.com.mx (Fecha pago: 2024-08-13)
+[2025-07-16 10:46:38] ✅ Dominio desactivado: ID 74 - conlineweb.net (Fecha pago: 2024-08-13)
+[2025-07-16 10:46:38] ✅ Dominio desactivado: ID 75 - joblink.mx (Fecha pago: 0000-00-00)
+[2025-07-16 10:46:38] ✅ Dominio desactivado: ID 81 - kolanguages.mx (Fecha pago: 0000-00-00)
+[2025-07-16 10:46:38] ✅ Dominio desactivado: ID 89 - srmautomation.net  (Fecha pago: 2024-08-24)
+[2025-07-16 10:46:38] ✅ Dominio desactivado: ID 91 - aspenmindset1.com (Fecha pago: 0001-01-01)
+[2025-07-16 10:46:38] ✅ Dominio desactivado: ID 94 - cursonkenarm.com (Fecha pago: 0000-00-00)
+[2025-07-16 10:46:38] ✅ Dominio desactivado: ID 101 - https://www.libowuticogura.in (Fecha pago: 1996-11-14)
+[2025-07-16 10:46:38] ✅ Dominio desactivado: ID 103 - https://www.luri.org.uk (Fecha pago: 1989-01-11)
+[2025-07-16 10:46:38] ✅ Dominio desactivado: ID 104 - https://www.hobehodadamuli.biz (Fecha pago: 2019-02-24)
+[2025-07-16 10:46:38] ✅ Dominio desactivado: ID 105 - https://www.nyne.mobi (Fecha pago: 1991-07-09)
+[2025-07-16 10:46:38] ✅ Dominio desactivado: ID 106 - https://www.revybegysi.biz (Fecha pago: 2014-10-27)
+[2025-07-16 10:46:38] ✅ Dominio desactivado: ID 107 -  (Fecha pago: 0000-11-30)
+[2025-07-16 10:46:38] ✅ Dominio desactivado: ID 108 -  (Fecha pago: 0000-11-30)
+[2025-07-16 10:46:38] ✅ Dominio desactivado: ID 109 -  (Fecha pago: 0000-11-30)
+[2025-07-16 10:46:38] ✅ Dominio desactivado: ID 110 -  (Fecha pago: 0000-11-30)
+[2025-07-16 10:46:38] ✅ Dominio desactivado: ID 111 -  (Fecha pago: 0000-11-30)
+[2025-07-16 10:46:38] ✅ Dominio desactivado: ID 112 - https://www.bumok.cc (Fecha pago: 2001-01-19)
+[2025-07-16 10:46:38] ✅ Dominio desactivado: ID 113 - https://www.qer.ca (Fecha pago: 1994-04-18)
+[2025-07-16 10:46:38] ✅ Dominio desactivado: ID 114 - https://www.konofyzat.me.uk (Fecha pago: 2017-02-22)
+[2025-07-16 10:46:38] ✅ Dominio desactivado: ID 115 - https://www.vevehutodavo.org.au (Fecha pago: 1993-01-25)
+[2025-07-16 10:46:38] ✅ Dominio desactivado: ID 116 - https://www.xuworixi.com.au (Fecha pago: 2023-10-15)
+[2025-07-16 10:46:38] ✅ Dominio desactivado: ID 117 -  (Fecha pago: 1996-08-15)
+[2025-07-16 10:46:38] ✅ Dominio desactivado: ID 118 - https://www.vumiku.org.uk (Fecha pago: 1979-10-01)
+[2025-07-16 10:46:38] ✅ Dominio desactivado: ID 120 - Beatae.mx (Fecha pago: 2020-06-27)
+[2025-07-16 10:46:38] ✅ Dominio desactivado: ID 121 - Occaecat nemo omnis (Fecha pago: 1998-06-09)
+[2025-07-16 10:46:38] ✅ Dominio desactivado: ID 122 - Sit aute id quis te (Fecha pago: 2007-04-19)
+[2025-07-16 10:46:38] ✅ Dominio desactivado: ID 123 - https://www.syveryku.mobi (Fecha pago: 1987-03-13)
+[2025-07-16 10:46:38] ✅ Dominio desactivado: ID 124 - Ad ipsum ullamco de (Fecha pago: 1988-06-18)
+[2025-07-16 10:46:38] ✅ Dominio desactivado: ID 128 - otecmayor.cl (Fecha pago: 2025-07-04)
+[2025-07-16 10:46:38] ✅ Dominio desactivado: ID 129 - jrcgroup.com.mx (Fecha pago: 0001-01-01)
+[2025-07-16 10:46:38] ✅ Dominio desactivado: ID 130 - jlsconsultor.mx (Fecha pago: 2025-07-14)
+[2025-07-16 10:46:38] --- RESUMEN ---
+[2025-07-16 10:46:38] Total hosting desactivados: 0
+[2025-07-16 10:46:38] Total dominios desactivados: 43
+[2025-07-16 10:46:38] Total productos desactivados: 43
+[2025-07-16 10:46:38] --- PRODUCTOS ACTIVOS ---
+[2025-07-16 10:46:38] Hosting activos: 42
+[2025-07-16 10:46:38] Dominios activos: 47
+[2025-07-16 10:46:38] --- PRÓXIMOS VENCIMIENTOS (30 días) ---
+[2025-07-16 10:46:38] Hosting próximos a vencer (30 días): 5
+[2025-07-16 10:46:38] ⚠️  Hosting: cpanel.pastelesarcoiris.com - Vence: 2025-07-17
+[2025-07-16 10:46:38] ⚠️  Hosting: cpanel.jrcgroup.com.mx - Vence: 2025-07-25
+[2025-07-16 10:46:38] ⚠️  Hosting: cpanel.beate.com - Vence: 2025-07-26
+[2025-07-16 10:46:38] ⚠️  Hosting: cpanel.ejemplo.com.mx - Vence: 2025-07-30
+[2025-07-16 10:46:38] ⚠️  Hosting: cpanel.eblaw.com.mx - Vence: 2025-08-12
+[2025-07-16 10:46:38] Dominios próximos a vencer (30 días): 13
+[2025-07-16 10:46:38] ⚠️  Dominio: navajasdecuerno.com - Vence: 2025-07-17
+[2025-07-16 10:46:38] ⚠️  Dominio: globalingredients.mx - Vence: 2025-07-17
+[2025-07-16 10:46:38] ⚠️  Dominio: globalingredients.com.mx - Vence: 2025-07-17
+[2025-07-16 10:46:38] ⚠️  Dominio: g-i.com.mx - Vence: 2025-07-28
+[2025-07-16 10:46:38] ⚠️  Dominio: https://www.kunihobaly.me.uk54 - Vence: 2025-07-29
+[2025-07-16 10:46:38] ⚠️  Dominio: elemsin.com - Vence: 2025-07-30
+[2025-07-16 10:46:38] ⚠️  Dominio: https://www.kunihobaly.me.uk54 - Vence: 2025-07-30
+[2025-07-16 10:46:38] ⚠️  Dominio: promali-igualdadlaboral.com - Vence: 2025-08-01
+[2025-07-16 10:46:38] ⚠️  Dominio: limvipro-inclusionlaboral.com - Vence: 2025-08-01
+[2025-07-16 10:46:38] ⚠️  Dominio: elequidadlaboral.com - Vence: 2025-08-01
+[2025-07-16 10:46:38] ⚠️  Dominio: opsp-lineadeintegridad.com - Vence: 2025-08-05
+[2025-07-16 10:46:38] ⚠️  Dominio: tecnovigilancia-igualdad.com - Vence: 2025-08-05
+[2025-07-16 10:46:38] ⚠️  Dominio: eblaw.com.mx - Vence: 2025-08-12
+[2025-07-16 10:46:38] === VERIFICACIÓN COMPLETADA ===
+[2025-07-16 10:47:34] === INICIANDO VERIFICACIÓN DE ESTADOS DE PRODUCTOS ===
+[2025-07-16 10:47:34] Fecha actual: 2025-07-16
+[2025-07-16 10:47:34] --- Verificando productos de HOSTING ---
+[2025-07-16 10:47:34] Hosting vencidos encontrados: 0
+[2025-07-16 10:47:34] --- Verificando DOMINIOS ---
+[2025-07-16 10:47:34] Dominios vencidos encontrados: 0
+[2025-07-16 10:47:34] --- RESUMEN ---
+[2025-07-16 10:47:34] Total hosting desactivados: 0
+[2025-07-16 10:47:34] Total dominios desactivados: 0
+[2025-07-16 10:47:34] Total productos desactivados: 0
+[2025-07-16 10:47:34] --- PRODUCTOS ACTIVOS ---
+[2025-07-16 10:47:34] Hosting activos: 42
+[2025-07-16 10:47:34] Dominios activos: 47
+[2025-07-16 10:47:34] --- PRÓXIMOS VENCIMIENTOS (30 días) ---
+[2025-07-16 10:47:34] Hosting próximos a vencer (30 días): 5
+[2025-07-16 10:47:34] ⚠️  Hosting: cpanel.pastelesarcoiris.com - Vence: 2025-07-17
+[2025-07-16 10:47:34] ⚠️  Hosting: cpanel.jrcgroup.com.mx - Vence: 2025-07-25
+[2025-07-16 10:47:34] ⚠️  Hosting: cpanel.beate.com - Vence: 2025-07-26
+[2025-07-16 10:47:34] ⚠️  Hosting: cpanel.ejemplo.com.mx - Vence: 2025-07-30
+[2025-07-16 10:47:34] ⚠️  Hosting: cpanel.eblaw.com.mx - Vence: 2025-08-12
+[2025-07-16 10:47:34] Dominios próximos a vencer (30 días): 13
+[2025-07-16 10:47:34] ⚠️  Dominio: navajasdecuerno.com - Vence: 2025-07-17
+[2025-07-16 10:47:34] ⚠️  Dominio: globalingredients.mx - Vence: 2025-07-17
+[2025-07-16 10:47:34] ⚠️  Dominio: globalingredients.com.mx - Vence: 2025-07-17
+[2025-07-16 10:47:34] ⚠️  Dominio: g-i.com.mx - Vence: 2025-07-28
+[2025-07-16 10:47:34] ⚠️  Dominio: https://www.kunihobaly.me.uk54 - Vence: 2025-07-29
+[2025-07-16 10:47:34] ⚠️  Dominio: elemsin.com - Vence: 2025-07-30
+[2025-07-16 10:47:34] ⚠️  Dominio: https://www.kunihobaly.me.uk54 - Vence: 2025-07-30
+[2025-07-16 10:47:34] ⚠️  Dominio: promali-igualdadlaboral.com - Vence: 2025-08-01
+[2025-07-16 10:47:34] ⚠️  Dominio: limvipro-inclusionlaboral.com - Vence: 2025-08-01
+[2025-07-16 10:47:34] ⚠️  Dominio: elequidadlaboral.com - Vence: 2025-08-01
+[2025-07-16 10:47:34] ⚠️  Dominio: opsp-lineadeintegridad.com - Vence: 2025-08-05
+[2025-07-16 10:47:34] ⚠️  Dominio: tecnovigilancia-igualdad.com - Vence: 2025-08-05
+[2025-07-16 10:47:34] ⚠️  Dominio: eblaw.com.mx - Vence: 2025-08-12
+[2025-07-16 10:47:34] === VERIFICACIÓN COMPLETADA ===
+[2025-07-16 10:50:45] === INICIANDO VERIFICACIÓN DE ESTADOS DE PRODUCTOS ===
+[2025-07-16 10:50:45] Fecha actual: 2025-07-16
+[2025-07-16 10:50:45] --- Verificando productos de HOSTING ---
+[2025-07-16 10:50:45] Hosting vencidos encontrados: 0
+[2025-07-16 10:50:45] --- Verificando DOMINIOS ---
+[2025-07-16 10:50:45] Dominios vencidos encontrados: 0
+[2025-07-16 10:50:45] --- RESUMEN ---
+[2025-07-16 10:50:45] Total hosting desactivados: 0
+[2025-07-16 10:50:45] Total dominios desactivados: 0
+[2025-07-16 10:50:45] Total productos desactivados: 0
+[2025-07-16 10:50:45] --- PRODUCTOS ACTIVOS ---
+[2025-07-16 10:50:45] Hosting activos: 42
+[2025-07-16 10:50:45] Dominios activos: 47
+[2025-07-16 10:50:45] --- PRÓXIMOS VENCIMIENTOS (30 días) ---
+[2025-07-16 10:50:45] Hosting próximos a vencer (30 días): 5
+[2025-07-16 10:50:45] ⚠️  Hosting: cpanel.pastelesarcoiris.com - Vence: 2025-07-17
+[2025-07-16 10:50:45] ⚠️  Hosting: cpanel.jrcgroup.com.mx - Vence: 2025-07-25
+[2025-07-16 10:50:45] ⚠️  Hosting: cpanel.beate.com - Vence: 2025-07-26
+[2025-07-16 10:50:45] ⚠️  Hosting: cpanel.ejemplo.com.mx - Vence: 2025-07-30
+[2025-07-16 10:50:45] ⚠️  Hosting: cpanel.eblaw.com.mx - Vence: 2025-08-12
+[2025-07-16 10:50:45] Dominios próximos a vencer (30 días): 13
+[2025-07-16 10:50:45] ⚠️  Dominio: navajasdecuerno.com - Vence: 2025-07-17
+[2025-07-16 10:50:45] ⚠️  Dominio: globalingredients.mx - Vence: 2025-07-17
+[2025-07-16 10:50:45] ⚠️  Dominio: globalingredients.com.mx - Vence: 2025-07-17
+[2025-07-16 10:50:45] ⚠️  Dominio: g-i.com.mx - Vence: 2025-07-28
+[2025-07-16 10:50:45] ⚠️  Dominio: https://www.kunihobaly.me.uk54 - Vence: 2025-07-29
+[2025-07-16 10:50:45] ⚠️  Dominio: elemsin.com - Vence: 2025-07-30
+[2025-07-16 10:50:45] ⚠️  Dominio: https://www.kunihobaly.me.uk54 - Vence: 2025-07-30
+[2025-07-16 10:50:45] ⚠️  Dominio: promali-igualdadlaboral.com - Vence: 2025-08-01
+[2025-07-16 10:50:45] ⚠️  Dominio: limvipro-inclusionlaboral.com - Vence: 2025-08-01
+[2025-07-16 10:50:45] ⚠️  Dominio: elequidadlaboral.com - Vence: 2025-08-01
+[2025-07-16 10:50:45] ⚠️  Dominio: opsp-lineadeintegridad.com - Vence: 2025-08-05
+[2025-07-16 10:50:45] ⚠️  Dominio: tecnovigilancia-igualdad.com - Vence: 2025-08-05
+[2025-07-16 10:50:45] ⚠️  Dominio: eblaw.com.mx - Vence: 2025-08-12
+[2025-07-16 10:50:45] === VERIFICACIÓN COMPLETADA ===
+[2025-07-16 10:51:46] === INICIANDO VERIFICACIÓN DE ESTADOS DE PRODUCTOS ===
+[2025-07-16 10:51:46] Fecha actual: 2025-07-16
+[2025-07-16 10:51:46] --- Verificando productos de HOSTING ---
+[2025-07-16 10:51:46] Hosting vencidos encontrados: 0
+[2025-07-16 10:51:46] --- Verificando DOMINIOS ---
+[2025-07-16 10:51:46] Dominios vencidos encontrados: 0
+[2025-07-16 10:51:46] --- RESUMEN ---
+[2025-07-16 10:51:46] Total hosting desactivados: 0
+[2025-07-16 10:51:46] Total dominios desactivados: 0
+[2025-07-16 10:51:46] Total productos desactivados: 0
+[2025-07-16 10:51:46] --- PRODUCTOS ACTIVOS ---
+[2025-07-16 10:51:46] Hosting activos: 42
+[2025-07-16 10:51:46] Dominios activos: 47
+[2025-07-16 10:51:46] --- PRÓXIMOS VENCIMIENTOS (30 días) ---
+[2025-07-16 10:51:46] Hosting próximos a vencer (30 días): 5
+[2025-07-16 10:51:46] ⚠️  Hosting: cpanel.pastelesarcoiris.com - Vence: 2025-07-17
+[2025-07-16 10:51:46] ⚠️  Hosting: cpanel.jrcgroup.com.mx - Vence: 2025-07-25
+[2025-07-16 10:51:46] ⚠️  Hosting: cpanel.beate.com - Vence: 2025-07-26
+[2025-07-16 10:51:46] ⚠️  Hosting: cpanel.ejemplo.com.mx - Vence: 2025-07-30
+[2025-07-16 10:51:46] ⚠️  Hosting: cpanel.eblaw.com.mx - Vence: 2025-08-12
+[2025-07-16 10:51:46] Dominios próximos a vencer (30 días): 13
+[2025-07-16 10:51:46] ⚠️  Dominio: navajasdecuerno.com - Vence: 2025-07-17
+[2025-07-16 10:51:46] ⚠️  Dominio: globalingredients.mx - Vence: 2025-07-17
+[2025-07-16 10:51:46] ⚠️  Dominio: globalingredients.com.mx - Vence: 2025-07-17
+[2025-07-16 10:51:46] ⚠️  Dominio: g-i.com.mx - Vence: 2025-07-28
+[2025-07-16 10:51:46] ⚠️  Dominio: https://www.kunihobaly.me.uk54 - Vence: 2025-07-29
+[2025-07-16 10:51:46] ⚠️  Dominio: elemsin.com - Vence: 2025-07-30
+[2025-07-16 10:51:46] ⚠️  Dominio: https://www.kunihobaly.me.uk54 - Vence: 2025-07-30
+[2025-07-16 10:51:46] ⚠️  Dominio: promali-igualdadlaboral.com - Vence: 2025-08-01
+[2025-07-16 10:51:46] ⚠️  Dominio: limvipro-inclusionlaboral.com - Vence: 2025-08-01
+[2025-07-16 10:51:46] ⚠️  Dominio: elequidadlaboral.com - Vence: 2025-08-01
+[2025-07-16 10:51:46] ⚠️  Dominio: opsp-lineadeintegridad.com - Vence: 2025-08-05
+[2025-07-16 10:51:46] ⚠️  Dominio: tecnovigilancia-igualdad.com - Vence: 2025-08-05
+[2025-07-16 10:51:46] ⚠️  Dominio: eblaw.com.mx - Vence: 2025-08-12
+[2025-07-16 10:51:46] === VERIFICACIÓN COMPLETADA ===
+[2025-07-16 10:55:13] === INICIANDO VERIFICACIÓN DE ESTADOS DE PRODUCTOS ===
+[2025-07-16 10:55:13] Fecha actual: 2025-07-16
+[2025-07-16 10:55:13] --- Verificando productos de HOSTING ---
+[2025-07-16 10:55:13] Hosting vencidos encontrados: 0
+[2025-07-16 10:55:13] --- Verificando DOMINIOS ---
+[2025-07-16 10:55:13] Dominios vencidos encontrados: 0
+[2025-07-16 10:55:13] --- RESUMEN ---
+[2025-07-16 10:55:13] Total hosting desactivados: 0
+[2025-07-16 10:55:13] Total dominios desactivados: 0
+[2025-07-16 10:55:13] Total productos desactivados: 0
+[2025-07-16 10:55:13] --- PRODUCTOS ACTIVOS ---
+[2025-07-16 10:55:13] Hosting activos: 42
+[2025-07-16 10:55:13] Dominios activos: 47
+[2025-07-16 10:55:13] --- PRÓXIMOS VENCIMIENTOS (30 días) ---
+[2025-07-16 10:55:13] Hosting próximos a vencer (30 días): 5
+[2025-07-16 10:55:13] ⚠️  Hosting: cpanel.pastelesarcoiris.com - Vence: 2025-07-17
+[2025-07-16 10:55:13] ⚠️  Hosting: cpanel.jrcgroup.com.mx - Vence: 2025-07-25
+[2025-07-16 10:55:13] ⚠️  Hosting: cpanel.beate.com - Vence: 2025-07-26
+[2025-07-16 10:55:13] ⚠️  Hosting: cpanel.ejemplo.com.mx - Vence: 2025-07-30
+[2025-07-16 10:55:13] ⚠️  Hosting: cpanel.eblaw.com.mx - Vence: 2025-08-12
+[2025-07-16 10:55:13] Dominios próximos a vencer (30 días): 13
+[2025-07-16 10:55:13] ⚠️  Dominio: navajasdecuerno.com - Vence: 2025-07-17
+[2025-07-16 10:55:13] ⚠️  Dominio: globalingredients.mx - Vence: 2025-07-17
+[2025-07-16 10:55:13] ⚠️  Dominio: globalingredients.com.mx - Vence: 2025-07-17
+[2025-07-16 10:55:13] ⚠️  Dominio: g-i.com.mx - Vence: 2025-07-28
+[2025-07-16 10:55:13] ⚠️  Dominio: https://www.kunihobaly.me.uk54 - Vence: 2025-07-29
+[2025-07-16 10:55:13] ⚠️  Dominio: elemsin.com - Vence: 2025-07-30
+[2025-07-16 10:55:13] ⚠️  Dominio: https://www.kunihobaly.me.uk54 - Vence: 2025-07-30
+[2025-07-16 10:55:13] ⚠️  Dominio: promali-igualdadlaboral.com - Vence: 2025-08-01
+[2025-07-16 10:55:13] ⚠️  Dominio: limvipro-inclusionlaboral.com - Vence: 2025-08-01
+[2025-07-16 10:55:13] ⚠️  Dominio: elequidadlaboral.com - Vence: 2025-08-01
+[2025-07-16 10:55:13] ⚠️  Dominio: opsp-lineadeintegridad.com - Vence: 2025-08-05
+[2025-07-16 10:55:13] ⚠️  Dominio: tecnovigilancia-igualdad.com - Vence: 2025-08-05
+[2025-07-16 10:55:13] ⚠️  Dominio: eblaw.com.mx - Vence: 2025-08-12
+[2025-07-16 10:55:13] === VERIFICACIÓN COMPLETADA ===
+[2025-07-17 10:00:01] === INICIANDO VERIFICACIÓN DE ESTADOS DE PRODUCTOS ===
+[2025-07-17 10:00:01] Fecha actual: 2025-07-17
+[2025-07-17 10:00:01] --- Verificando productos de HOSTING ---
+[2025-07-17 10:00:01] Hosting vencidos encontrados: 1
+[2025-07-17 10:00:01] ✅ Hosting desactivado: ID 10 - cpanel.pastelesarcoiris.com (Fecha pago: 2025-07-17)
+[2025-07-17 10:00:01] --- Verificando DOMINIOS ---
+[2025-07-17 10:00:01] Dominios vencidos encontrados: 3
+[2025-07-17 10:00:01] ✅ Dominio desactivado: ID 13 - navajasdecuerno.com (Fecha pago: 2025-07-17)
+[2025-07-17 10:00:01] ✅ Dominio desactivado: ID 34 - globalingredients.mx (Fecha pago: 2025-07-17)
+[2025-07-17 10:00:01] ✅ Dominio desactivado: ID 35 - globalingredients.com.mx (Fecha pago: 2025-07-17)
+[2025-07-17 10:00:01] --- RESUMEN ---
+[2025-07-17 10:00:01] Total hosting desactivados: 1
+[2025-07-17 10:00:01] Total dominios desactivados: 3
+[2025-07-17 10:00:01] Total productos desactivados: 4
+[2025-07-17 10:00:01] --- PRODUCTOS ACTIVOS ---
+[2025-07-17 10:00:01] Hosting activos: 41
+[2025-07-17 10:00:01] Dominios activos: 44
+[2025-07-17 10:00:01] --- PRÓXIMOS VENCIMIENTOS (30 días) ---
+[2025-07-17 10:00:01] Hosting próximos a vencer (30 días): 4
+[2025-07-17 10:00:01] ⚠️  Hosting: cpanel.jrcgroup.com.mx - Vence: 2025-07-25
+[2025-07-17 10:00:01] ⚠️  Hosting: cpanel.beate.com - Vence: 2025-07-26
+[2025-07-17 10:00:01] ⚠️  Hosting: cpanel.ejemplo.com.mx - Vence: 2025-07-30
+[2025-07-17 10:00:01] ⚠️  Hosting: cpanel.eblaw.com.mx - Vence: 2025-08-12
+[2025-07-17 10:00:01] Dominios próximos a vencer (30 días): 10
+[2025-07-17 10:00:01] ⚠️  Dominio: g-i.com.mx - Vence: 2025-07-28
+[2025-07-17 10:00:01] ⚠️  Dominio: https://www.kunihobaly.me.uk54 - Vence: 2025-07-29
+[2025-07-17 10:00:01] ⚠️  Dominio: elemsin.com - Vence: 2025-07-30
+[2025-07-17 10:00:01] ⚠️  Dominio: https://www.kunihobaly.me.uk54 - Vence: 2025-07-30
+[2025-07-17 10:00:01] ⚠️  Dominio: promali-igualdadlaboral.com - Vence: 2025-08-01
+[2025-07-17 10:00:01] ⚠️  Dominio: limvipro-inclusionlaboral.com - Vence: 2025-08-01
+[2025-07-17 10:00:01] ⚠️  Dominio: elequidadlaboral.com - Vence: 2025-08-01
+[2025-07-17 10:00:01] ⚠️  Dominio: opsp-lineadeintegridad.com - Vence: 2025-08-05
+[2025-07-17 10:00:01] ⚠️  Dominio: tecnovigilancia-igualdad.com - Vence: 2025-08-05
+[2025-07-17 10:00:01] ⚠️  Dominio: eblaw.com.mx - Vence: 2025-08-12
+[2025-07-17 10:00:01] === VERIFICACIÓN COMPLETADA ===
+[2025-07-18 10:00:02] === INICIANDO VERIFICACIÓN DE ESTADOS DE PRODUCTOS ===
+[2025-07-18 10:00:02] Fecha actual: 2025-07-18
+[2025-07-18 10:00:02] --- Verificando productos de HOSTING ---
+[2025-07-18 10:00:02] Hosting vencidos encontrados: 0
+[2025-07-18 10:00:02] --- Verificando DOMINIOS ---
+[2025-07-18 10:00:02] Dominios vencidos encontrados: 0
+[2025-07-18 10:00:02] --- RESUMEN ---
+[2025-07-18 10:00:02] Total hosting desactivados: 0
+[2025-07-18 10:00:02] Total dominios desactivados: 0
+[2025-07-18 10:00:02] Total productos desactivados: 0
+[2025-07-18 10:00:02] --- PRODUCTOS ACTIVOS ---
+[2025-07-18 10:00:02] Hosting activos: 41
+[2025-07-18 10:00:02] Dominios activos: 44
+[2025-07-18 10:00:02] --- PRÓXIMOS VENCIMIENTOS (30 días) ---
+[2025-07-18 10:00:02] Hosting próximos a vencer (30 días): 4
+[2025-07-18 10:00:02] ⚠️  Hosting: cpanel.jrcgroup.com.mx - Vence: 2025-07-25
+[2025-07-18 10:00:02] ⚠️  Hosting: cpanel.beate.com - Vence: 2025-07-26
+[2025-07-18 10:00:02] ⚠️  Hosting: cpanel.ejemplo.com.mx - Vence: 2025-07-30
+[2025-07-18 10:00:02] ⚠️  Hosting: cpanel.eblaw.com.mx - Vence: 2025-08-12
+[2025-07-18 10:00:02] Dominios próximos a vencer (30 días): 10
+[2025-07-18 10:00:02] ⚠️  Dominio: g-i.com.mx - Vence: 2025-07-28
+[2025-07-18 10:00:02] ⚠️  Dominio: https://www.kunihobaly.me.uk54 - Vence: 2025-07-29
+[2025-07-18 10:00:02] ⚠️  Dominio: elemsin.com - Vence: 2025-07-30
+[2025-07-18 10:00:02] ⚠️  Dominio: https://www.kunihobaly.me.uk54 - Vence: 2025-07-30
+[2025-07-18 10:00:02] ⚠️  Dominio: promali-igualdadlaboral.com - Vence: 2025-08-01
+[2025-07-18 10:00:02] ⚠️  Dominio: limvipro-inclusionlaboral.com - Vence: 2025-08-01
+[2025-07-18 10:00:02] ⚠️  Dominio: elequidadlaboral.com - Vence: 2025-08-01
+[2025-07-18 10:00:02] ⚠️  Dominio: opsp-lineadeintegridad.com - Vence: 2025-08-05
+[2025-07-18 10:00:02] ⚠️  Dominio: tecnovigilancia-igualdad.com - Vence: 2025-08-05
+[2025-07-18 10:00:02] ⚠️  Dominio: eblaw.com.mx - Vence: 2025-08-12
+[2025-07-18 10:00:02] === VERIFICACIÓN COMPLETADA ===
+[2025-07-19 10:00:01] === INICIANDO VERIFICACIÓN DE ESTADOS DE PRODUCTOS ===
+[2025-07-19 10:00:01] Fecha actual: 2025-07-19
+[2025-07-19 10:00:01] --- Verificando productos de HOSTING ---
+[2025-07-19 10:00:01] Hosting vencidos encontrados: 0
+[2025-07-19 10:00:01] --- Verificando DOMINIOS ---
+[2025-07-19 10:00:01] Dominios vencidos encontrados: 0
+[2025-07-19 10:00:01] --- RESUMEN ---
+[2025-07-19 10:00:01] Total hosting desactivados: 0
+[2025-07-19 10:00:01] Total dominios desactivados: 0
+[2025-07-19 10:00:01] Total productos desactivados: 0
+[2025-07-19 10:00:01] --- PRODUCTOS ACTIVOS ---
+[2025-07-19 10:00:01] Hosting activos: 41
+[2025-07-19 10:00:01] Dominios activos: 44
+[2025-07-19 10:00:01] --- PRÓXIMOS VENCIMIENTOS (30 días) ---
+[2025-07-19 10:00:01] Hosting próximos a vencer (30 días): 5
+[2025-07-19 10:00:01] ⚠️  Hosting: cpanel.jrcgroup.com.mx - Vence: 2025-07-25
+[2025-07-19 10:00:01] ⚠️  Hosting: cpanel.beate.com - Vence: 2025-07-26
+[2025-07-19 10:00:01] ⚠️  Hosting: cpanel.ejemplo.com.mx - Vence: 2025-07-30
+[2025-07-19 10:00:01] ⚠️  Hosting: cpanel.eblaw.com.mx - Vence: 2025-08-12
+[2025-07-19 10:00:01] ⚠️  Hosting: cpanel.riondabienesraices.mx - Vence: 2025-08-18
+[2025-07-19 10:00:01] Dominios próximos a vencer (30 días): 9
+[2025-07-19 10:00:01] ⚠️  Dominio: g-i.com.mx - Vence: 2025-07-28
+[2025-07-19 10:00:01] ⚠️  Dominio: https://www.kunihobaly.me.uk54 - Vence: 2025-07-29
+[2025-07-19 10:00:01] ⚠️  Dominio: https://www.kunihobaly.me.uk54 - Vence: 2025-07-30
+[2025-07-19 10:00:01] ⚠️  Dominio: promali-igualdadlaboral.com - Vence: 2025-08-01
+[2025-07-19 10:00:01] ⚠️  Dominio: limvipro-inclusionlaboral.com - Vence: 2025-08-01
+[2025-07-19 10:00:01] ⚠️  Dominio: elequidadlaboral.com - Vence: 2025-08-01
+[2025-07-19 10:00:01] ⚠️  Dominio: opsp-lineadeintegridad.com - Vence: 2025-08-05
+[2025-07-19 10:00:01] ⚠️  Dominio: tecnovigilancia-igualdad.com - Vence: 2025-08-05
+[2025-07-19 10:00:01] ⚠️  Dominio: eblaw.com.mx - Vence: 2025-08-12
+[2025-07-19 10:00:01] === VERIFICACIÓN COMPLETADA ===
+[2025-07-20 10:00:02] === INICIANDO VERIFICACIÓN DE ESTADOS DE PRODUCTOS ===
+[2025-07-20 10:00:02] Fecha actual: 2025-07-20
+[2025-07-20 10:00:02] --- Verificando productos de HOSTING ---
+[2025-07-20 10:00:02] Hosting vencidos encontrados: 0
+[2025-07-20 10:00:02] --- Verificando DOMINIOS ---
+[2025-07-20 10:00:02] Dominios vencidos encontrados: 0
+[2025-07-20 10:00:02] --- RESUMEN ---
+[2025-07-20 10:00:02] Total hosting desactivados: 0
+[2025-07-20 10:00:02] Total dominios desactivados: 0
+[2025-07-20 10:00:02] Total productos desactivados: 0
+[2025-07-20 10:00:02] --- PRODUCTOS ACTIVOS ---
+[2025-07-20 10:00:02] Hosting activos: 41
+[2025-07-20 10:00:02] Dominios activos: 44
+[2025-07-20 10:00:02] --- PRÓXIMOS VENCIMIENTOS (30 días) ---
+[2025-07-20 10:00:02] Hosting próximos a vencer (30 días): 5
+[2025-07-20 10:00:02] ⚠️  Hosting: cpanel.jrcgroup.com.mx - Vence: 2025-07-25
+[2025-07-20 10:00:02] ⚠️  Hosting: cpanel.beate.com - Vence: 2025-07-26
+[2025-07-20 10:00:02] ⚠️  Hosting: cpanel.ejemplo.com.mx - Vence: 2025-07-30
+[2025-07-20 10:00:02] ⚠️  Hosting: cpanel.eblaw.com.mx - Vence: 2025-08-12
+[2025-07-20 10:00:02] ⚠️  Hosting: cpanel.riondabienesraices.mx - Vence: 2025-08-18
+[2025-07-20 10:00:02] Dominios próximos a vencer (30 días): 9
+[2025-07-20 10:00:02] ⚠️  Dominio: g-i.com.mx - Vence: 2025-07-28
+[2025-07-20 10:00:02] ⚠️  Dominio: https://www.kunihobaly.me.uk54 - Vence: 2025-07-29
+[2025-07-20 10:00:02] ⚠️  Dominio: https://www.kunihobaly.me.uk54 - Vence: 2025-07-30
+[2025-07-20 10:00:02] ⚠️  Dominio: promali-igualdadlaboral.com - Vence: 2025-08-01
+[2025-07-20 10:00:02] ⚠️  Dominio: limvipro-inclusionlaboral.com - Vence: 2025-08-01
+[2025-07-20 10:00:02] ⚠️  Dominio: elequidadlaboral.com - Vence: 2025-08-01
+[2025-07-20 10:00:02] ⚠️  Dominio: opsp-lineadeintegridad.com - Vence: 2025-08-05
+[2025-07-20 10:00:02] ⚠️  Dominio: tecnovigilancia-igualdad.com - Vence: 2025-08-05
+[2025-07-20 10:00:02] ⚠️  Dominio: eblaw.com.mx - Vence: 2025-08-12
+[2025-07-20 10:00:02] === VERIFICACIÓN COMPLETADA ===
+[2025-07-21 10:00:02] === INICIANDO VERIFICACIÓN DE ESTADOS DE PRODUCTOS ===
+[2025-07-21 10:00:02] Fecha actual: 2025-07-21
+[2025-07-21 10:00:02] --- Verificando productos de HOSTING ---
+[2025-07-21 10:00:02] Hosting vencidos encontrados: 0
+[2025-07-21 10:00:02] --- Verificando DOMINIOS ---
+[2025-07-21 10:00:02] Dominios vencidos encontrados: 0
+[2025-07-21 10:00:02] --- RESUMEN ---
+[2025-07-21 10:00:02] Total hosting desactivados: 0
+[2025-07-21 10:00:02] Total dominios desactivados: 0
+[2025-07-21 10:00:02] Total productos desactivados: 0
+[2025-07-21 10:00:02] --- PRODUCTOS ACTIVOS ---
+[2025-07-21 10:00:02] Hosting activos: 42
+[2025-07-21 10:00:02] Dominios activos: 45
+[2025-07-21 10:00:02] --- PRÓXIMOS VENCIMIENTOS (30 días) ---
+[2025-07-21 10:00:02] Hosting próximos a vencer (30 días): 5
+[2025-07-21 10:00:02] ⚠️  Hosting: cpanel.jrcgroup.com.mx - Vence: 2025-07-25
+[2025-07-21 10:00:02] ⚠️  Hosting: cpanel.beate.com - Vence: 2025-07-26
+[2025-07-21 10:00:02] ⚠️  Hosting: cpanel.ejemplo.com.mx - Vence: 2025-07-30
+[2025-07-21 10:00:02] ⚠️  Hosting: cpanel.eblaw.com.mx - Vence: 2025-08-12
+[2025-07-21 10:00:02] ⚠️  Hosting: cpanel.riondabienesraices.mx - Vence: 2025-08-18
+[2025-07-21 10:00:02] Dominios próximos a vencer (30 días): 9
+[2025-07-21 10:00:02] ⚠️  Dominio: g-i.com.mx - Vence: 2025-07-28
+[2025-07-21 10:00:02] ⚠️  Dominio: https://www.kunihobaly.me.uk54 - Vence: 2025-07-29
+[2025-07-21 10:00:02] ⚠️  Dominio: https://www.kunihobaly.me.uk54 - Vence: 2025-07-30
+[2025-07-21 10:00:02] ⚠️  Dominio: promali-igualdadlaboral.com - Vence: 2025-08-01
+[2025-07-21 10:00:02] ⚠️  Dominio: limvipro-inclusionlaboral.com - Vence: 2025-08-01
+[2025-07-21 10:00:02] ⚠️  Dominio: elequidadlaboral.com - Vence: 2025-08-01
+[2025-07-21 10:00:02] ⚠️  Dominio: opsp-lineadeintegridad.com - Vence: 2025-08-05
+[2025-07-21 10:00:02] ⚠️  Dominio: tecnovigilancia-igualdad.com - Vence: 2025-08-05
+[2025-07-21 10:00:02] ⚠️  Dominio: eblaw.com.mx - Vence: 2025-08-12
+[2025-07-21 10:00:02] === VERIFICACIÓN COMPLETADA ===
+[2025-07-22 10:00:02] === INICIANDO VERIFICACIÓN DE ESTADOS DE PRODUCTOS ===
+[2025-07-22 10:00:02] Fecha actual: 2025-07-22
+[2025-07-22 10:00:02] --- Verificando productos de HOSTING ---
+[2025-07-22 10:00:02] Hosting vencidos encontrados: 0
+[2025-07-22 10:00:02] --- Verificando DOMINIOS ---
+[2025-07-22 10:00:02] Dominios vencidos encontrados: 0
+[2025-07-22 10:00:02] --- RESUMEN ---
+[2025-07-22 10:00:02] Total hosting desactivados: 0
+[2025-07-22 10:00:02] Total dominios desactivados: 0
+[2025-07-22 10:00:02] Total productos desactivados: 0
+[2025-07-22 10:00:02] --- PRODUCTOS ACTIVOS ---
+[2025-07-22 10:00:02] Hosting activos: 42
+[2025-07-22 10:00:02] Dominios activos: 45
+[2025-07-22 10:00:02] --- PRÓXIMOS VENCIMIENTOS (30 días) ---
+[2025-07-22 10:00:02] Hosting próximos a vencer (30 días): 5
+[2025-07-22 10:00:02] ⚠️  Hosting: cpanel.jrcgroup.com.mx - Vence: 2025-07-25
+[2025-07-22 10:00:02] ⚠️  Hosting: cpanel.beate.com - Vence: 2025-07-26
+[2025-07-22 10:00:02] ⚠️  Hosting: cpanel.ejemplo.com.mx - Vence: 2025-07-30
+[2025-07-22 10:00:02] ⚠️  Hosting: cpanel.eblaw.com.mx - Vence: 2025-08-12
+[2025-07-22 10:00:02] ⚠️  Hosting: cpanel.riondabienesraices.mx - Vence: 2025-08-18
+[2025-07-22 10:00:02] Dominios próximos a vencer (30 días): 9
+[2025-07-22 10:00:02] ⚠️  Dominio: g-i.com.mx - Vence: 2025-07-28
+[2025-07-22 10:00:02] ⚠️  Dominio: https://www.kunihobaly.me.uk54 - Vence: 2025-07-29
+[2025-07-22 10:00:02] ⚠️  Dominio: https://www.kunihobaly.me.uk54 - Vence: 2025-07-30
+[2025-07-22 10:00:02] ⚠️  Dominio: promali-igualdadlaboral.com - Vence: 2025-08-01
+[2025-07-22 10:00:02] ⚠️  Dominio: limvipro-inclusionlaboral.com - Vence: 2025-08-01
+[2025-07-22 10:00:02] ⚠️  Dominio: elequidadlaboral.com - Vence: 2025-08-01
+[2025-07-22 10:00:02] ⚠️  Dominio: opsp-lineadeintegridad.com - Vence: 2025-08-05
+[2025-07-22 10:00:02] ⚠️  Dominio: tecnovigilancia-igualdad.com - Vence: 2025-08-05
+[2025-07-22 10:00:02] ⚠️  Dominio: eblaw.com.mx - Vence: 2025-08-12
+[2025-07-22 10:00:02] === VERIFICACIÓN COMPLETADA ===
+[2025-07-23 10:00:02] === INICIANDO VERIFICACIÓN DE ESTADOS DE PRODUCTOS ===
+[2025-07-23 10:00:02] Fecha actual: 2025-07-23
+[2025-07-23 10:00:02] --- Verificando productos de HOSTING ---
+[2025-07-23 10:00:02] Hosting vencidos encontrados: 0
+[2025-07-23 10:00:02] --- Verificando DOMINIOS ---
+[2025-07-23 10:00:02] Dominios vencidos encontrados: 0
+[2025-07-23 10:00:02] --- RESUMEN ---
+[2025-07-23 10:00:02] Total hosting desactivados: 0
+[2025-07-23 10:00:02] Total dominios desactivados: 0
+[2025-07-23 10:00:02] Total productos desactivados: 0
+[2025-07-23 10:00:02] --- PRODUCTOS ACTIVOS ---
+[2025-07-23 10:00:02] Hosting activos: 42
+[2025-07-23 10:00:02] Dominios activos: 45
+[2025-07-23 10:00:02] --- PRÓXIMOS VENCIMIENTOS (30 días) ---
+[2025-07-23 10:00:02] Hosting próximos a vencer (30 días): 5
+[2025-07-23 10:00:02] ⚠️  Hosting: cpanel.jrcgroup.com.mx - Vence: 2025-07-25
+[2025-07-23 10:00:02] ⚠️  Hosting: cpanel.beate.com - Vence: 2025-07-26
+[2025-07-23 10:00:02] ⚠️  Hosting: cpanel.ejemplo.com.mx - Vence: 2025-07-30
+[2025-07-23 10:00:02] ⚠️  Hosting: cpanel.eblaw.com.mx - Vence: 2025-08-12
+[2025-07-23 10:00:02] ⚠️  Hosting: cpanel.riondabienesraices.mx - Vence: 2025-08-18
+[2025-07-23 10:00:02] Dominios próximos a vencer (30 días): 9
+[2025-07-23 10:00:02] ⚠️  Dominio: g-i.com.mx - Vence: 2025-07-28
+[2025-07-23 10:00:02] ⚠️  Dominio: https://www.kunihobaly.me.uk54 - Vence: 2025-07-29
+[2025-07-23 10:00:02] ⚠️  Dominio: https://www.kunihobaly.me.uk54 - Vence: 2025-07-30
+[2025-07-23 10:00:02] ⚠️  Dominio: promali-igualdadlaboral.com - Vence: 2025-08-01
+[2025-07-23 10:00:02] ⚠️  Dominio: limvipro-inclusionlaboral.com - Vence: 2025-08-01
+[2025-07-23 10:00:02] ⚠️  Dominio: elequidadlaboral.com - Vence: 2025-08-01
+[2025-07-23 10:00:02] ⚠️  Dominio: opsp-lineadeintegridad.com - Vence: 2025-08-05
+[2025-07-23 10:00:02] ⚠️  Dominio: tecnovigilancia-igualdad.com - Vence: 2025-08-05
+[2025-07-23 10:00:02] ⚠️  Dominio: eblaw.com.mx - Vence: 2025-08-12
+[2025-07-23 10:00:02] === VERIFICACIÓN COMPLETADA ===
+[2025-07-24 10:00:02] === INICIANDO VERIFICACIÓN DE ESTADOS DE PRODUCTOS ===
+[2025-07-24 10:00:02] Fecha actual: 2025-07-24
+[2025-07-24 10:00:02] --- Verificando productos de HOSTING ---
+[2025-07-24 10:00:02] Hosting vencidos encontrados: 0
+[2025-07-24 10:00:02] --- Verificando DOMINIOS ---
+[2025-07-24 10:00:02] Dominios vencidos encontrados: 0
+[2025-07-24 10:00:02] --- RESUMEN ---
+[2025-07-24 10:00:02] Total hosting desactivados: 0
+[2025-07-24 10:00:02] Total dominios desactivados: 0
+[2025-07-24 10:00:02] Total productos desactivados: 0
+[2025-07-24 10:00:02] --- PRODUCTOS ACTIVOS ---
+[2025-07-24 10:00:02] Hosting activos: 42
+[2025-07-24 10:00:02] Dominios activos: 45
+[2025-07-24 10:00:02] --- PRÓXIMOS VENCIMIENTOS (30 días) ---
+[2025-07-24 10:00:02] Hosting próximos a vencer (30 días): 4
+[2025-07-24 10:00:02] ⚠️  Hosting: cpanel.jrcgroup.com.mx - Vence: 2025-07-25
+[2025-07-24 10:00:02] ⚠️  Hosting: cpanel.beate.com - Vence: 2025-07-26
+[2025-07-24 10:00:02] ⚠️  Hosting: cpanel.ejemplo.com.mx - Vence: 2025-07-30
+[2025-07-24 10:00:02] ⚠️  Hosting: cpanel.riondabienesraices.mx - Vence: 2025-08-18
+[2025-07-24 10:00:02] Dominios próximos a vencer (30 días): 8
+[2025-07-24 10:00:02] ⚠️  Dominio: g-i.com.mx - Vence: 2025-07-28
+[2025-07-24 10:00:02] ⚠️  Dominio: https://www.kunihobaly.me.uk54 - Vence: 2025-07-29
+[2025-07-24 10:00:02] ⚠️  Dominio: https://www.kunihobaly.me.uk54 - Vence: 2025-07-30
+[2025-07-24 10:00:02] ⚠️  Dominio: promali-igualdadlaboral.com - Vence: 2025-08-01
+[2025-07-24 10:00:02] ⚠️  Dominio: limvipro-inclusionlaboral.com - Vence: 2025-08-01
+[2025-07-24 10:00:02] ⚠️  Dominio: elequidadlaboral.com - Vence: 2025-08-01
+[2025-07-24 10:00:02] ⚠️  Dominio: opsp-lineadeintegridad.com - Vence: 2025-08-05
+[2025-07-24 10:00:02] ⚠️  Dominio: tecnovigilancia-igualdad.com - Vence: 2025-08-05
+[2025-07-24 10:00:02] === VERIFICACIÓN COMPLETADA ===
+[2025-07-25 10:00:01] === INICIANDO VERIFICACIÓN DE ESTADOS DE PRODUCTOS ===
+[2025-07-25 10:00:01] Fecha actual: 2025-07-25
+[2025-07-25 10:00:01] --- Verificando productos de HOSTING ---
+[2025-07-25 10:00:01] Hosting vencidos encontrados: 1
+[2025-07-25 10:00:01] ✅ Hosting desactivado: ID 81 - cpanel.jrcgroup.com.mx (Fecha pago: 2025-07-25)
+[2025-07-25 10:00:01] --- Verificando DOMINIOS ---
+[2025-07-25 10:00:01] Dominios vencidos encontrados: 0
+[2025-07-25 10:00:01] --- RESUMEN ---
+[2025-07-25 10:00:01] Total hosting desactivados: 1
+[2025-07-25 10:00:01] Total dominios desactivados: 0
+[2025-07-25 10:00:01] Total productos desactivados: 1
+[2025-07-25 10:00:01] --- PRODUCTOS ACTIVOS ---
+[2025-07-25 10:00:01] Hosting activos: 41
+[2025-07-25 10:00:01] Dominios activos: 45
+[2025-07-25 10:00:01] --- PRÓXIMOS VENCIMIENTOS (30 días) ---
+[2025-07-25 10:00:01] Hosting próximos a vencer (30 días): 3
+[2025-07-25 10:00:01] ⚠️  Hosting: cpanel.beate.com - Vence: 2025-07-26
+[2025-07-25 10:00:01] ⚠️  Hosting: cpanel.ejemplo.com.mx - Vence: 2025-07-30
+[2025-07-25 10:00:01] ⚠️  Hosting: cpanel.riondabienesraices.mx - Vence: 2025-08-18
+[2025-07-25 10:00:01] Dominios próximos a vencer (30 días): 3
+[2025-07-25 10:00:01] ⚠️  Dominio: g-i.com.mx - Vence: 2025-07-28
+[2025-07-25 10:00:01] ⚠️  Dominio: https://www.kunihobaly.me.uk54 - Vence: 2025-07-29
+[2025-07-25 10:00:01] ⚠️  Dominio: https://www.kunihobaly.me.uk54 - Vence: 2025-07-30
+[2025-07-25 10:00:01] === VERIFICACIÓN COMPLETADA ===
+[2025-07-26 10:00:03] === INICIANDO VERIFICACIÓN DE ESTADOS DE PRODUCTOS ===
+[2025-07-26 10:00:03] Fecha actual: 2025-07-26
+[2025-07-26 10:00:03] --- Verificando productos de HOSTING ---
+[2025-07-26 10:00:03] Hosting vencidos encontrados: 1
+[2025-07-26 10:00:03] ✅ Hosting desactivado: ID 75 - cpanel.beate.com (Fecha pago: 2025-07-26)
+[2025-07-26 10:00:03] --- Verificando DOMINIOS ---
+[2025-07-26 10:00:03] Dominios vencidos encontrados: 0
+[2025-07-26 10:00:03] --- RESUMEN ---
+[2025-07-26 10:00:03] Total hosting desactivados: 1
+[2025-07-26 10:00:03] Total dominios desactivados: 0
+[2025-07-26 10:00:03] Total productos desactivados: 1
+[2025-07-26 10:00:03] --- PRODUCTOS ACTIVOS ---
+[2025-07-26 10:00:03] Hosting activos: 40
+[2025-07-26 10:00:03] Dominios activos: 45
+[2025-07-26 10:00:03] --- PRÓXIMOS VENCIMIENTOS (30 días) ---
+[2025-07-26 10:00:03] Hosting próximos a vencer (30 días): 2
+[2025-07-26 10:00:03] ⚠️  Hosting: cpanel.ejemplo.com.mx - Vence: 2025-07-30
+[2025-07-26 10:00:03] ⚠️  Hosting: cpanel.riondabienesraices.mx - Vence: 2025-08-18
+[2025-07-26 10:00:03] Dominios próximos a vencer (30 días): 3
+[2025-07-26 10:00:03] ⚠️  Dominio: g-i.com.mx - Vence: 2025-07-28
+[2025-07-26 10:00:03] ⚠️  Dominio: https://www.kunihobaly.me.uk54 - Vence: 2025-07-29
+[2025-07-26 10:00:03] ⚠️  Dominio: https://www.kunihobaly.me.uk54 - Vence: 2025-07-30
+[2025-07-26 10:00:03] === VERIFICACIÓN COMPLETADA ===
+[2025-07-27 10:00:02] === INICIANDO VERIFICACIÓN DE ESTADOS DE PRODUCTOS ===
+[2025-07-27 10:00:02] Fecha actual: 2025-07-27
+[2025-07-27 10:00:02] --- Verificando productos de HOSTING ---
+[2025-07-27 10:00:02] Hosting vencidos encontrados: 0
+[2025-07-27 10:00:02] --- Verificando DOMINIOS ---
+[2025-07-27 10:00:02] Dominios vencidos encontrados: 0
+[2025-07-27 10:00:02] --- RESUMEN ---
+[2025-07-27 10:00:02] Total hosting desactivados: 0
+[2025-07-27 10:00:02] Total dominios desactivados: 0
+[2025-07-27 10:00:02] Total productos desactivados: 0
+[2025-07-27 10:00:02] --- PRODUCTOS ACTIVOS ---
+[2025-07-27 10:00:02] Hosting activos: 40
+[2025-07-27 10:00:02] Dominios activos: 45
+[2025-07-27 10:00:02] --- PRÓXIMOS VENCIMIENTOS (30 días) ---
+[2025-07-27 10:00:02] Hosting próximos a vencer (30 días): 2
+[2025-07-27 10:00:02] ⚠️  Hosting: cpanel.ejemplo.com.mx - Vence: 2025-07-30
+[2025-07-27 10:00:02] ⚠️  Hosting: cpanel.riondabienesraices.mx - Vence: 2025-08-18
+[2025-07-27 10:00:02] Dominios próximos a vencer (30 días): 3
+[2025-07-27 10:00:02] ⚠️  Dominio: g-i.com.mx - Vence: 2025-07-28
+[2025-07-27 10:00:02] ⚠️  Dominio: https://www.kunihobaly.me.uk54 - Vence: 2025-07-29
+[2025-07-27 10:00:02] ⚠️  Dominio: https://www.kunihobaly.me.uk54 - Vence: 2025-07-30
+[2025-07-27 10:00:02] === VERIFICACIÓN COMPLETADA ===
+[2025-07-28 10:00:02] === INICIANDO VERIFICACIÓN DE ESTADOS DE PRODUCTOS ===
+[2025-07-28 10:00:02] Fecha actual: 2025-07-28
+[2025-07-28 10:00:02] --- Verificando productos de HOSTING ---
+[2025-07-28 10:00:02] Hosting vencidos encontrados: 0
+[2025-07-28 10:00:02] --- Verificando DOMINIOS ---
+[2025-07-28 10:00:02] Dominios vencidos encontrados: 1
+[2025-07-28 10:00:02] ✅ Dominio desactivado: ID 46 - g-i.com.mx (Fecha pago: 2025-07-28)
+[2025-07-28 10:00:02] --- RESUMEN ---
+[2025-07-28 10:00:02] Total hosting desactivados: 0
+[2025-07-28 10:00:02] Total dominios desactivados: 1
+[2025-07-28 10:00:02] Total productos desactivados: 1
+[2025-07-28 10:00:02] --- PRODUCTOS ACTIVOS ---
+[2025-07-28 10:00:02] Hosting activos: 40
+[2025-07-28 10:00:02] Dominios activos: 44
+[2025-07-28 10:00:02] --- PRÓXIMOS VENCIMIENTOS (30 días) ---
+[2025-07-28 10:00:02] Hosting próximos a vencer (30 días): 2
+[2025-07-28 10:00:02] ⚠️  Hosting: cpanel.ejemplo.com.mx - Vence: 2025-07-30
+[2025-07-28 10:00:02] ⚠️  Hosting: cpanel.riondabienesraices.mx - Vence: 2025-08-18
+[2025-07-28 10:00:02] Dominios próximos a vencer (30 días): 2
+[2025-07-28 10:00:02] ⚠️  Dominio: https://www.kunihobaly.me.uk54 - Vence: 2025-07-29
+[2025-07-28 10:00:02] ⚠️  Dominio: https://www.kunihobaly.me.uk54 - Vence: 2025-07-30
+[2025-07-28 10:00:02] === VERIFICACIÓN COMPLETADA ===
+[2025-07-29 10:00:02] === INICIANDO VERIFICACIÓN DE ESTADOS DE PRODUCTOS ===
+[2025-07-29 10:00:02] Fecha actual: 2025-07-29
+[2025-07-29 10:00:02] --- Verificando productos de HOSTING ---
+[2025-07-29 10:00:02] Hosting vencidos encontrados: 0
+[2025-07-29 10:00:02] --- Verificando DOMINIOS ---
+[2025-07-29 10:00:02] Dominios vencidos encontrados: 1
+[2025-07-29 10:00:02] ✅ Dominio desactivado: ID 119 - https://www.kunihobaly.me.uk54 (Fecha pago: 2025-07-29)
+[2025-07-29 10:00:02] --- RESUMEN ---
+[2025-07-29 10:00:02] Total hosting desactivados: 0
+[2025-07-29 10:00:02] Total dominios desactivados: 1
+[2025-07-29 10:00:02] Total productos desactivados: 1
+[2025-07-29 10:00:02] --- PRODUCTOS ACTIVOS ---
+[2025-07-29 10:00:02] Hosting activos: 40
+[2025-07-29 10:00:02] Dominios activos: 44
+[2025-07-29 10:00:02] --- PRÓXIMOS VENCIMIENTOS (30 días) ---
+[2025-07-29 10:00:02] Hosting próximos a vencer (30 días): 2
+[2025-07-29 10:00:02] ⚠️  Hosting: cpanel.ejemplo.com.mx - Vence: 2025-07-30
+[2025-07-29 10:00:02] ⚠️  Hosting: cpanel.riondabienesraices.mx - Vence: 2025-08-18
+[2025-07-29 10:00:02] Dominios próximos a vencer (30 días): 1
+[2025-07-29 10:00:02] ⚠️  Dominio: https://www.kunihobaly.me.uk54 - Vence: 2025-07-30
+[2025-07-29 10:00:02] === VERIFICACIÓN COMPLETADA ===
+[2025-07-30 10:00:02] === INICIANDO VERIFICACIÓN DE ESTADOS DE PRODUCTOS ===
+[2025-07-30 10:00:02] Fecha actual: 2025-07-30
+[2025-07-30 10:00:02] --- Verificando productos de HOSTING ---
+[2025-07-30 10:00:02] Hosting vencidos encontrados: 1
+[2025-07-30 10:00:02] ✅ Hosting desactivado: ID 77 - cpanel.ejemplo.com.mx (Fecha pago: 2025-07-30)
+[2025-07-30 10:00:02] --- Verificando DOMINIOS ---
+[2025-07-30 10:00:02] Dominios vencidos encontrados: 1
+[2025-07-30 10:00:02] ✅ Dominio desactivado: ID 125 - https://www.kunihobaly.me.uk54 (Fecha pago: 2025-07-30)
+[2025-07-30 10:00:02] --- RESUMEN ---
+[2025-07-30 10:00:02] Total hosting desactivados: 1
+[2025-07-30 10:00:02] Total dominios desactivados: 1
+[2025-07-30 10:00:02] Total productos desactivados: 2
+[2025-07-30 10:00:02] --- PRODUCTOS ACTIVOS ---
+[2025-07-30 10:00:02] Hosting activos: 39
+[2025-07-30 10:00:02] Dominios activos: 43
+[2025-07-30 10:00:02] --- PRÓXIMOS VENCIMIENTOS (30 días) ---
+[2025-07-30 10:00:02] Hosting próximos a vencer (30 días): 1
+[2025-07-30 10:00:02] ⚠️  Hosting: cpanel.riondabienesraices.mx - Vence: 2025-08-18
+[2025-07-30 10:00:02] Dominios próximos a vencer (30 días): 0
+[2025-07-30 10:00:02] === VERIFICACIÓN COMPLETADA ===
+[2025-07-31 10:00:02] === INICIANDO VERIFICACIÓN DE ESTADOS DE PRODUCTOS ===
+[2025-07-31 10:00:02] Fecha actual: 2025-07-31
+[2025-07-31 10:00:02] --- Verificando productos de HOSTING ---
+[2025-07-31 10:00:02] Hosting vencidos encontrados: 0
+[2025-07-31 10:00:02] --- Verificando DOMINIOS ---
+[2025-07-31 10:00:02] Dominios vencidos encontrados: 0
+[2025-07-31 10:00:02] --- RESUMEN ---
+[2025-07-31 10:00:02] Total hosting desactivados: 0
+[2025-07-31 10:00:02] Total dominios desactivados: 0
+[2025-07-31 10:00:02] Total productos desactivados: 0
+[2025-07-31 10:00:02] --- PRODUCTOS ACTIVOS ---
+[2025-07-31 10:00:02] Hosting activos: 39
+[2025-07-31 10:00:02] Dominios activos: 43
+[2025-07-31 10:00:02] --- PRÓXIMOS VENCIMIENTOS (30 días) ---
+[2025-07-31 10:00:02] Hosting próximos a vencer (30 días): 2
+[2025-07-31 10:00:02] ⚠️  Hosting: cpanel.riondabienesraices.mx - Vence: 2025-08-18
+[2025-07-31 10:00:02] ⚠️  Hosting: cpanel.colegos.com.mx - Vence: 2025-08-30
+[2025-07-31 10:00:02] Dominios próximos a vencer (30 días): 0
+[2025-07-31 10:00:02] === VERIFICACIÓN COMPLETADA ===

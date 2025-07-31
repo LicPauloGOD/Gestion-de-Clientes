@@ -1,0 +1,114 @@
+2025-06-21 00:56:14 - === INICIO DE SOLICITUD ===
+2025-06-21 00:56:14 - Método: POST
+2025-06-21 00:56:14 - POST data: Array
+(
+    [especificacion] => 
+    [id] => 10
+    [nombre] => Conlineweb
+    [country_code] => +52
+    [telefono] => +524771181285
+    [email] => proyectos@conlineweb.com
+    [empresa] => 
+    [rsocial] => 
+    [rfc] => 
+    [calle] => 
+    [next] => 
+    [nint] => 
+    [colonia] => 
+    [cp] => 
+    [pais] => 
+    [municipio] => 
+    [privacyPolicyCheck] => on
+    [facturacion] => 0
+)
+
+2025-06-21 00:56:14 - FILES data: Array
+(
+)
+
+2025-06-21 00:56:14 - Headers: Array
+(
+    [Accept-Language] => es-ES,es;q=0.9
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Referer] => https://adm.conlineweb.com/validacion-cliente.php?id=10
+    [Sec-Fetch-Dest] => empty
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Site] => same-origin
+    [Origin] => https://adm.conlineweb.com
+    [Sec-Ch-Ua-Mobile] => ?0
+    [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundarys0kFpWanfzmK0nSd
+    [Sec-Ch-Ua] => "Google Chrome";v="137", "Chromium";v="137", "Not/A)Brand";v="24"
+    [Accept] => */*
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+    [X-Requested-With] => XMLHttpRequest
+    [Sec-Ch-Ua-Platform] => "Windows"
+    [Content-Length] => 1793
+    [Connection] => keep-alive
+    [Host] => adm.conlineweb.com
+)
+
+2025-06-21 00:56:14 - Datos procesados:
+2025-06-21 00:56:14 - ID: 10, Nombre: Conlineweb, Correo: proyectos@conlineweb.com, Teléfono: +524771181285
+2025-06-21 00:56:14 - Facturación requerida: Sí
+2025-06-21 00:56:14 - Generando nuevas credenciales...
+2025-06-21 00:56:14 - Iniciando transacción en la base de datos...
+2025-06-21 00:56:14 - Transacción completada con éxito
+2025-06-21 00:56:14 - Preparando envío de correo a proyectos@conlineweb.com...
+2025-06-21 00:56:16 - Proceso completado con éxito
+2025-06-21 00:56:33 - === INICIO DE SOLICITUD ===
+2025-06-21 00:56:33 - Método: POST
+2025-06-21 00:56:33 - POST data: Array
+(
+    [especificacion] => 
+    [id] => 10
+    [nombre] => Conlineweb
+    [country_code] => +52
+    [telefono] => +524771181285
+    [email] => serviciosweb@conlineweb.com
+    [empresa] => 
+    [rsocial] => 
+    [rfc] => 
+    [calle] => 
+    [next] => 
+    [nint] => 
+    [colonia] => 
+    [cp] => 
+    [pais] => 
+    [municipio] => 
+    [privacyPolicyCheck] => on
+    [facturacion] => 0
+)
+
+2025-06-21 00:56:33 - FILES data: Array
+(
+)
+
+2025-06-21 00:56:33 - Headers: Array
+(
+    [Accept-Language] => es-ES,es;q=0.9
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Referer] => https://adm.conlineweb.com/validacion-cliente.php?id=10
+    [Sec-Fetch-Dest] => empty
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Site] => same-origin
+    [Origin] => https://adm.conlineweb.com
+    [Sec-Ch-Ua-Mobile] => ?0
+    [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryxcERdvgGUfUE39l0
+    [Sec-Ch-Ua] => "Google Chrome";v="137", "Chromium";v="137", "Not/A)Brand";v="24"
+    [Accept] => */*
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+    [X-Requested-With] => XMLHttpRequest
+    [Sec-Ch-Ua-Platform] => "Windows"
+    [Content-Length] => 1796
+    [Connection] => keep-alive
+    [Host] => adm.conlineweb.com
+)
+
+2025-06-21 00:56:33 - Datos procesados:
+2025-06-21 00:56:33 - ID: 10, Nombre: Conlineweb, Correo: serviciosweb@conlineweb.com, Teléfono: +524771181285
+2025-06-21 00:56:33 - Facturación requerida: Sí
+2025-06-21 00:56:33 - Generando nuevas credenciales...
+2025-06-21 00:56:33 - Iniciando transacción en la base de datos...
+2025-06-21 00:56:33 - Transacción completada con éxito
+2025-06-21 00:56:33 - Preparando envío de correo a serviciosweb@conlineweb.com...
+2025-06-21 00:56:35 - Proceso completado con éxito

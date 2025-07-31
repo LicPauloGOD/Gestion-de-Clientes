@@ -1,0 +1,57 @@
+2025-07-24 13:00:37 - === INICIO DE SOLICITUD ===
+2025-07-24 13:00:37 - Método: POST
+2025-07-24 13:00:37 - POST data: Array
+(
+    [especificacion] => 
+    [id] => 58
+    [nombre] => Patricia Segura
+    [empresa] => 
+    [country_code] => +52
+    [telefono] => +524622894567
+    [email] => ventas2@mediba.com.mx
+    [rsocial] => 
+    [rfc] => 
+    [calle] => 
+    [next] => 
+    [nint] => 
+    [colonia] => 
+    [cp] => 
+    [pais] => 
+    [municipio] => 
+    [privacyPolicyCheck] => on
+    [facturacion] => 0
+)
+
+2025-07-24 13:00:37 - FILES data: Array
+(
+)
+
+2025-07-24 13:00:37 - Headers: Array
+(
+    [Accept-Language] => es-US,es-419;q=0.9,es;q=0.8
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Referer] => https://adm.conlineweb.com/validacion-cliente.php?id=58
+    [Sec-Fetch-Dest] => empty
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Site] => same-origin
+    [Origin] => https://adm.conlineweb.com
+    [Sec-Ch-Ua-Mobile] => ?1
+    [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryh3hpysnM6e2RPyGg
+    [Sec-Ch-Ua] => "Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"
+    [Accept] => */*
+    [User-Agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+    [X-Requested-With] => XMLHttpRequest
+    [Sec-Ch-Ua-Platform] => "Android"
+    [Content-Length] => 1922
+    [Connection] => keep-alive
+    [Host] => adm.conlineweb.com
+)
+
+2025-07-24 13:00:37 - Datos procesados:
+2025-07-24 13:00:37 - ID: 58, Nombre: Patricia Segura, Correo: ventas2@mediba.com.mx, Teléfono: +524622894567
+2025-07-24 13:00:37 - Facturación requerida: Sí
+2025-07-24 13:00:37 - Generando nuevas credenciales...
+2025-07-24 13:00:37 - Iniciando transacción en la base de datos...
+2025-07-24 13:00:37 - Transacción completada con éxito
+2025-07-24 13:00:37 - Preparando envío de correo a ventas2@mediba.com.mx...
+2025-07-24 13:00:39 - Proceso completado con éxito

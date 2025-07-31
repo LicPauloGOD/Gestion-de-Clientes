@@ -1,0 +1,57 @@
+2025-07-02 12:00:03 - === INICIO DE SOLICITUD ===
+2025-07-02 12:00:03 - Método: POST
+2025-07-02 12:00:03 - POST data: Array
+(
+    [especificacion] => 
+    [id] => 50
+    [nombre] => María Guadalupe Barrón Urrutia 
+    [empresa] => 
+    [country_code] => +52
+    [telefono] => +524721075188
+    [email] => lupitabarron09599@gmail.com
+    [rsocial] => 
+    [rfc] => 
+    [calle] => 
+    [next] => 
+    [nint] => 
+    [colonia] => 
+    [cp] => 
+    [pais] => 
+    [municipio] => 
+    [privacyPolicyCheck] => on
+    [facturacion] => 0
+)
+
+2025-07-02 12:00:03 - FILES data: Array
+(
+)
+
+2025-07-02 12:00:03 - Headers: Array
+(
+    [Accept-Language] => es-ES,es;q=0.9
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Referer] => https://adm.conlineweb.com/validacion-cliente.php?id=50
+    [Sec-Fetch-Dest] => empty
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Site] => same-origin
+    [Origin] => https://adm.conlineweb.com
+    [Sec-Ch-Ua-Mobile] => ?1
+    [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundarymvBLp1v3afqSj4ZU
+    [Sec-Ch-Ua] => "Not)A;Brand";v="8", "Chromium";v="138", "Google Chrome";v="138"
+    [Accept] => */*
+    [User-Agent] => Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
+    [X-Requested-With] => XMLHttpRequest
+    [Sec-Ch-Ua-Platform] => "Android"
+    [Content-Length] => 1929
+    [Connection] => keep-alive
+    [Host] => adm.conlineweb.com
+)
+
+2025-07-02 12:00:03 - Datos procesados:
+2025-07-02 12:00:03 - ID: 50, Nombre: María Guadalupe Barrón Urrutia, Correo: lupitabarron09599@gmail.com, Teléfono: +524721075188
+2025-07-02 12:00:03 - Facturación requerida: Sí
+2025-07-02 12:00:03 - Generando nuevas credenciales...
+2025-07-02 12:00:03 - Iniciando transacción en la base de datos...
+2025-07-02 12:00:03 - Transacción completada con éxito
+2025-07-02 12:00:03 - Preparando envío de correo a lupitabarron09599@gmail.com...
+2025-07-02 12:00:06 - Proceso completado con éxito

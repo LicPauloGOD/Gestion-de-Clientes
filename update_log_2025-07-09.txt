@@ -1,0 +1,54 @@
+2025-07-09 23:49:46 - === INICIO DE SOLICITUD ===
+2025-07-09 23:49:46 - Método: POST
+2025-07-09 23:49:46 - POST data: Array
+(
+    [especificacion] => 
+    [id] => 11
+    [nombre] => Miguel Karam
+    [empresa] => 
+    [country_code] => +52
+    [telefono] => +525573922722
+    [email] => mic01y@yahoo.com.mx
+    [rsocial] => 
+    [rfc] => 
+    [calle] => 
+    [next] => 
+    [nint] => 
+    [colonia] => 
+    [cp] => 
+    [pais] => 
+    [municipio] => 
+    [privacyPolicyCheck] => on
+    [facturacion] => 0
+)
+
+2025-07-09 23:49:46 - FILES data: Array
+(
+)
+
+2025-07-09 23:49:46 - Headers: Array
+(
+    [Sec-Fetch-Site] => same-origin
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Dest] => empty
+    [Referer] => https://adm.conlineweb.com/validacion-cliente.php?id=11
+    [Connection] => keep-alive
+    [Origin] => https://adm.conlineweb.com
+    [Content-Length] => 2193
+    [Content-Type] => multipart/form-data; boundary=----geckoformboundaryee38662e30837b0b4d47db137ed0e60d
+    [X-Requested-With] => XMLHttpRequest
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Accept-Language] => es-MX,fr-CA;q=0.7,en-CA;q=0.3
+    [Accept] => */*
+    [User-Agent] => Mozilla/5.0 (Android 13; Mobile; rv:140.0) Gecko/140.0 Firefox/140.0
+    [Host] => adm.conlineweb.com
+)
+
+2025-07-09 23:49:46 - Datos procesados:
+2025-07-09 23:49:46 - ID: 11, Nombre: Miguel Karam, Correo: mic01y@yahoo.com.mx, Teléfono: +525573922722
+2025-07-09 23:49:46 - Facturación requerida: Sí
+2025-07-09 23:49:46 - Generando nuevas credenciales...
+2025-07-09 23:49:46 - Iniciando transacción en la base de datos...
+2025-07-09 23:49:46 - Transacción completada con éxito
+2025-07-09 23:49:46 - Preparando envío de correo a mic01y@yahoo.com.mx...
+2025-07-09 23:49:48 - Proceso completado con éxito

@@ -1,0 +1,348 @@
+2025-06-25 01:24:08 - === INICIO DE SOLICITUD ===
+2025-06-25 01:24:08 - Método: POST
+2025-06-25 01:24:08 - POST data: Array
+(
+    [especificacion] => 
+    [id] => 10
+    [nombre] => Jose Karam
+    [empresa] => 
+    [country_code] => +52
+    [telefono] => +524771181285
+    [email] => proyectos@conlineweb.com
+    [rsocial] => 
+    [rfc] => 
+    [calle] => 
+    [next] => 
+    [nint] => 
+    [colonia] => 
+    [cp] => 
+    [pais] => 
+    [municipio] => 
+    [privacyPolicyCheck] => on
+    [facturacion] => 0
+)
+
+2025-06-25 01:24:08 - FILES data: Array
+(
+)
+
+2025-06-25 01:24:08 - Headers: Array
+(
+    [Cookie] => PHPSESSID=b75e2e75bdfdbad9eb4c36e47c2c0514; user_session_data=%7B%22uid%22%3A%2262%22%2C%22tipo%22%3A%221%22%2C%22login%22%3Atrue%2C%22timestamp%22%3A1750828901%7D
+    [Accept-Language] => es-ES,es;q=0.9,en;q=0.8
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Referer] => https://adm.conlineweb.com/validacion-cliente.php?id=10
+    [Sec-Fetch-Dest] => empty
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Site] => same-origin
+    [Origin] => https://adm.conlineweb.com
+    [Sec-Ch-Ua-Mobile] => ?0
+    [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryVsP08a4LFpB6PdrA
+    [Sec-Ch-Ua] => "Google Chrome";v="137", "Chromium";v="137", "Not/A)Brand";v="24"
+    [Accept] => */*
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+    [X-Requested-With] => XMLHttpRequest
+    [Sec-Ch-Ua-Platform] => "Windows"
+    [Content-Length] => 1898
+    [Connection] => keep-alive
+    [Host] => adm.conlineweb.com
+)
+
+2025-06-25 01:24:08 - Datos procesados:
+2025-06-25 01:24:08 - ID: 10, Nombre: Jose Karam, Correo: proyectos@conlineweb.com, Teléfono: +524771181285
+2025-06-25 01:24:08 - Facturación requerida: Sí
+2025-06-25 01:24:08 - Generando nuevas credenciales...
+2025-06-25 01:24:08 - Iniciando transacción en la base de datos...
+2025-06-25 01:24:08 - Transacción completada con éxito
+2025-06-25 01:24:08 - Preparando envío de correo a proyectos@conlineweb.com...
+2025-06-25 01:24:10 - Proceso completado con éxito
+2025-06-25 11:00:35 - === INICIO DE SOLICITUD ===
+2025-06-25 11:00:35 - Método: POST
+2025-06-25 11:00:35 - POST data: Array
+(
+    [especificacion] => 
+    [id] => 10
+    [nombre] => Jose Karam
+    [empresa] => 
+    [country_code] => +52
+    [telefono] => +524771181285
+    [email] => proyectos@conlineweb.com
+    [rsocial] => 
+    [rfc] => 
+    [calle] => 
+    [next] => 
+    [nint] => 
+    [colonia] => 
+    [cp] => 
+    [pais] => 
+    [municipio] => 
+    [privacyPolicyCheck] => on
+    [facturacion] => 0
+)
+
+2025-06-25 11:00:35 - FILES data: Array
+(
+)
+
+2025-06-25 11:00:35 - Headers: Array
+(
+    [Cookie] => tk_or=%22https%3A%2F%2Fwww.google.com%2F%22; tk_ai=qv%2BIX0HpDRSZO6xf0UGDRt8p; __stripe_mid=491fea04-de0a-43d1-8b47-963091e6eb0065c661; tk_lr=%22https%3A%2F%2Fwww.google.com%2F%22; PHPSESSID=6a391fc26c156dd8d91c84502ad761f5
+    [Accept-Language] => es-ES,es;q=0.9,en;q=0.8
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Referer] => https://adm.conlineweb.com/validacion-cliente.php?id=10
+    [Sec-Fetch-Dest] => empty
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Site] => same-origin
+    [Origin] => https://adm.conlineweb.com
+    [Sec-Ch-Ua-Mobile] => ?0
+    [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundarymVaAKFyy63hw8ccz
+    [Sec-Ch-Ua] => "Google Chrome";v="137", "Chromium";v="137", "Not/A)Brand";v="24"
+    [Accept] => */*
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+    [X-Requested-With] => XMLHttpRequest
+    [Sec-Ch-Ua-Platform] => "Windows"
+    [Content-Length] => 1898
+    [Connection] => keep-alive
+    [Host] => adm.conlineweb.com
+)
+
+2025-06-25 11:00:35 - Datos procesados:
+2025-06-25 11:00:35 - ID: 10, Nombre: Jose Karam, Correo: proyectos@conlineweb.com, Teléfono: +524771181285
+2025-06-25 11:00:35 - Facturación requerida: Sí
+2025-06-25 11:00:35 - Generando nuevas credenciales...
+2025-06-25 11:00:35 - Iniciando transacción en la base de datos...
+2025-06-25 11:00:35 - Transacción completada con éxito
+2025-06-25 11:00:35 - Preparando envío de correo a proyectos@conlineweb.com...
+2025-06-25 11:00:42 - Proceso completado con éxito
+2025-06-25 11:56:33 - === INICIO DE SOLICITUD ===
+2025-06-25 11:56:33 - Método: POST
+2025-06-25 11:56:33 - POST data: Array
+(
+    [especificacion] => 
+    [id] => 10
+    [nombre] => Jose Karam
+    [empresa] => 
+    [country_code] => +52
+    [telefono] => +524771181285
+    [email] => mrlocked4@gmail.com
+    [rsocial] => 
+    [rfc] => 
+    [calle] => 
+    [next] => 
+    [nint] => 
+    [colonia] => 
+    [cp] => 
+    [pais] => 
+    [municipio] => 
+    [privacyPolicyCheck] => on
+    [facturacion] => 0
+)
+
+2025-06-25 11:56:33 - FILES data: Array
+(
+)
+
+2025-06-25 11:56:33 - Headers: Array
+(
+    [Cookie] => tk_or=%22https%3A%2F%2Fwww.google.com%2F%22; tk_lr=%22https%3A%2F%2Fwww.google.com%2F%22; PHPSESSID=ae3eb7dfc5b4015bd75e4b0c908f4dd1; user_session_data=%7B%22uid%22%3A%2210%22%2C%22tipo%22%3A%220%22%2C%22login%22%3Atrue%2C%22timestamp%22%3A1750866950%7D
+    [Accept-Language] => es-ES,es;q=0.9
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Referer] => https://adm.conlineweb.com/validacion-cliente.php?id=10
+    [Sec-Fetch-Dest] => empty
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Site] => same-origin
+    [Origin] => https://adm.conlineweb.com
+    [Sec-Ch-Ua-Mobile] => ?0
+    [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryI7nd6Dmczqp5fCZ4
+    [Sec-Ch-Ua] => "Google Chrome";v="137", "Chromium";v="137", "Not/A)Brand";v="24"
+    [Accept] => */*
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+    [X-Requested-With] => XMLHttpRequest
+    [Sec-Ch-Ua-Platform] => "Windows"
+    [Content-Length] => 1892
+    [Connection] => keep-alive
+    [Host] => adm.conlineweb.com
+)
+
+2025-06-25 11:56:33 - Datos procesados:
+2025-06-25 11:56:33 - ID: 10, Nombre: Jose Karam, Correo: mrlocked4@gmail.com, Teléfono: +524771181285
+2025-06-25 11:56:33 - Facturación requerida: Sí
+2025-06-25 11:56:33 - Generando nuevas credenciales...
+2025-06-25 11:56:33 - Iniciando transacción en la base de datos...
+2025-06-25 11:56:33 - Transacción completada con éxito
+2025-06-25 11:56:33 - Preparando envío de correo a mrlocked4@gmail.com...
+2025-06-25 11:56:34 - Proceso completado con éxito
+2025-06-25 14:01:52 - === INICIO DE SOLICITUD ===
+2025-06-25 14:01:52 - Método: POST
+2025-06-25 14:01:52 - POST data: Array
+(
+    [especificacion] => 
+    [id] => 10
+    [nombre] => Jose Karam
+    [empresa] => 
+    [country_code] => +52
+    [telefono] => +524771181285
+    [email] => conlineweb.mx@gmail.com
+    [rsocial] => 
+    [rfc] => 
+    [calle] => 
+    [next] => 
+    [nint] => 
+    [colonia] => 
+    [cp] => 
+    [pais] => 
+    [municipio] => 
+    [privacyPolicyCheck] => on
+    [facturacion] => 0
+)
+
+2025-06-25 14:01:52 - FILES data: Array
+(
+)
+
+2025-06-25 14:01:52 - Headers: Array
+(
+    [Cookie] => tk_or=%22https%3A%2F%2Fwww.google.com%2F%22; tk_ai=qv%2BIX0HpDRSZO6xf0UGDRt8p; __stripe_mid=491fea04-de0a-43d1-8b47-963091e6eb0065c661; tk_lr=%22https%3A%2F%2Fwww.google.com%2F%22; PHPSESSID=6a391fc26c156dd8d91c84502ad761f5; user_session_data=%7B%22uid%22%3A%2210%22%2C%22tipo%22%3A%220%22%2C%22login%22%3Atrue%2C%22timestamp%22%3A1750874473%7D
+    [Accept-Language] => es-ES,es;q=0.9,en;q=0.8
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Referer] => https://adm.conlineweb.com/validacion-cliente.php?id=10
+    [Sec-Fetch-Dest] => empty
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Site] => same-origin
+    [Origin] => https://adm.conlineweb.com
+    [Sec-Ch-Ua-Mobile] => ?0
+    [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryBipZzREIvd7Tp37B
+    [Sec-Ch-Ua] => "Google Chrome";v="137", "Chromium";v="137", "Not/A)Brand";v="24"
+    [Accept] => */*
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+    [X-Requested-With] => XMLHttpRequest
+    [Sec-Ch-Ua-Platform] => "Windows"
+    [Content-Length] => 1896
+    [Connection] => keep-alive
+    [Host] => adm.conlineweb.com
+)
+
+2025-06-25 14:01:52 - Datos procesados:
+2025-06-25 14:01:52 - ID: 10, Nombre: Jose Karam, Correo: conlineweb.mx@gmail.com, Teléfono: +524771181285
+2025-06-25 14:01:52 - Facturación requerida: Sí
+2025-06-25 14:01:52 - Generando nuevas credenciales...
+2025-06-25 14:01:52 - Iniciando transacción en la base de datos...
+2025-06-25 14:01:52 - Transacción completada con éxito
+2025-06-25 14:01:52 - Preparando envío de correo a conlineweb.mx@gmail.com...
+2025-06-25 14:01:54 - Proceso completado con éxito
+2025-06-25 14:07:26 - === INICIO DE SOLICITUD ===
+2025-06-25 14:07:26 - Método: POST
+2025-06-25 14:07:26 - POST data: Array
+(
+    [especificacion] => 
+    [id] => 10
+    [nombre] => Jose Karam
+    [empresa] => 
+    [country_code] => +52
+    [telefono] => +524771181285
+    [email] => conlineweb.mx@gmail.com
+    [rsocial] => 
+    [rfc] => 
+    [calle] => 
+    [next] => 
+    [nint] => 
+    [colonia] => 
+    [cp] => 
+    [pais] => 
+    [municipio] => 
+    [privacyPolicyCheck] => on
+    [facturacion] => 0
+)
+
+2025-06-25 14:07:26 - FILES data: Array
+(
+)
+
+2025-06-25 14:07:26 - Headers: Array
+(
+    [Cookie] => tk_or=%22https%3A%2F%2Fwww.google.com%2F%22; tk_ai=qv%2BIX0HpDRSZO6xf0UGDRt8p; __stripe_mid=491fea04-de0a-43d1-8b47-963091e6eb0065c661; tk_lr=%22https%3A%2F%2Fwww.google.com%2F%22; PHPSESSID=6a391fc26c156dd8d91c84502ad761f5; user_session_data=%7B%22uid%22%3A%2210%22%2C%22tipo%22%3A%220%22%2C%22login%22%3Atrue%2C%22timestamp%22%3A1750874813%7D
+    [Accept-Language] => es-ES,es;q=0.9,en;q=0.8
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Referer] => https://adm.conlineweb.com/validacion-cliente.php?id=10
+    [Sec-Fetch-Dest] => empty
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Site] => same-origin
+    [Origin] => https://adm.conlineweb.com
+    [Sec-Ch-Ua-Mobile] => ?0
+    [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundary9I1QTncPRIhRMGSa
+    [Sec-Ch-Ua] => "Google Chrome";v="137", "Chromium";v="137", "Not/A)Brand";v="24"
+    [Accept] => */*
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+    [X-Requested-With] => XMLHttpRequest
+    [Sec-Ch-Ua-Platform] => "Windows"
+    [Content-Length] => 1897
+    [Connection] => keep-alive
+    [Host] => adm.conlineweb.com
+)
+
+2025-06-25 14:07:26 - Datos procesados:
+2025-06-25 14:07:26 - ID: 10, Nombre: Jose Karam, Correo: conlineweb.mx@gmail.com, Teléfono: +524771181285
+2025-06-25 14:07:26 - Facturación requerida: Sí
+2025-06-25 14:07:26 - Generando nuevas credenciales...
+2025-06-25 14:07:26 - Iniciando transacción en la base de datos...
+2025-06-25 14:07:26 - Transacción completada con éxito
+2025-06-25 14:07:26 - Preparando envío de correo a conlineweb.mx@gmail.com...
+2025-06-25 14:07:27 - Proceso completado con éxito
+2025-06-25 19:29:58 - === INICIO DE SOLICITUD ===
+2025-06-25 19:29:58 - Método: POST
+2025-06-25 19:29:58 - POST data: Array
+(
+    [especificacion] => 
+    [id] => 10
+    [nombre] => Jose Karam
+    [empresa] => 
+    [country_code] => +52
+    [telefono] => +524771181285
+    [email] => proyectos@conlineweb.com
+    [rsocial] => 
+    [rfc] => 
+    [calle] => 
+    [next] => 
+    [nint] => 
+    [colonia] => 
+    [cp] => 
+    [pais] => 
+    [municipio] => 
+    [privacyPolicyCheck] => on
+    [facturacion] => 0
+)
+
+2025-06-25 19:29:58 - FILES data: Array
+(
+)
+
+2025-06-25 19:29:58 - Headers: Array
+(
+    [Cookie] => tk_or=%22https%3A%2F%2Fwww.google.com%2F%22; tk_ai=qv%2BIX0HpDRSZO6xf0UGDRt8p; __stripe_mid=491fea04-de0a-43d1-8b47-963091e6eb0065c661; tk_lr=%22https%3A%2F%2Fwww.google.com%2F%22; PHPSESSID=8e99d92fa832cab4cae321e4c0f33a99; user_session_data=%7B%22uid%22%3A%2262%22%2C%22tipo%22%3A%221%22%2C%22login%22%3Atrue%2C%22timestamp%22%3A1750891863%7D
+    [Accept-Language] => es-ES,es;q=0.9,en;q=0.8
+    [Accept-Encoding] => gzip, deflate, br, zstd
+    [Referer] => https://adm.conlineweb.com/validacion-cliente.php?id=10
+    [Sec-Fetch-Dest] => empty
+    [Sec-Fetch-Mode] => cors
+    [Sec-Fetch-Site] => same-origin
+    [Origin] => https://adm.conlineweb.com
+    [Sec-Ch-Ua-Mobile] => ?0
+    [Content-Type] => multipart/form-data; boundary=----WebKitFormBoundaryGX0nNBAGhLJmkdgU
+    [Sec-Ch-Ua] => "Google Chrome";v="137", "Chromium";v="137", "Not/A)Brand";v="24"
+    [Accept] => */*
+    [User-Agent] => Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+    [X-Requested-With] => XMLHttpRequest
+    [Sec-Ch-Ua-Platform] => "Windows"
+    [Content-Length] => 1898
+    [Connection] => keep-alive
+    [Host] => adm.conlineweb.com
+)
+
+2025-06-25 19:29:58 - Datos procesados:
+2025-06-25 19:29:58 - ID: 10, Nombre: Jose Karam, Correo: proyectos@conlineweb.com, Teléfono: +524771181285
+2025-06-25 19:29:58 - Facturación requerida: Sí
+2025-06-25 19:29:58 - Generando nuevas credenciales...
+2025-06-25 19:29:58 - Iniciando transacción en la base de datos...
+2025-06-25 19:29:58 - Transacción completada con éxito
+2025-06-25 19:29:58 - Preparando envío de correo a proyectos@conlineweb.com...
+2025-06-25 19:30:00 - Proceso completado con éxito
